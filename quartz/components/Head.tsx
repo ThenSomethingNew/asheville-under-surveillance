@@ -86,6 +86,14 @@ export default (() => {
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
+        {/* Storage shim: privacy-hardened browsers (Block All Cookies, in-app webviews)
+            throw SecurityError on localStorage access, which kills every interactive
+            component. Fall back to in-memory storage so the site stays functional. */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){function makeShim(){var m={};return{getItem:function(k){return Object.prototype.hasOwnProperty.call(m,k)?m[k]:null},setItem:function(k,v){m[k]=String(v)},removeItem:function(k){delete m[k]},clear:function(){m={}},key:function(i){return Object.keys(m)[i]||null},get length(){return Object.keys(m).length}}}function needsShim(name){try{var s=window[name];s.setItem('__t','1');s.removeItem('__t');return false}catch(e){return true}}['localStorage','sessionStorage'].forEach(function(name){if(needsShim(name)){try{Object.defineProperty(window,name,{value:makeShim(),configurable:true})}catch(e){}}})})();`,
+          }}
+        />
         {/* TEMPORARY mobile JS diagnostic - remove after debugging */}
         <script
           dangerouslySetInnerHTML={{
