@@ -10,7 +10,7 @@ description: Mayor since 2013; presided over every stage of the RTIC's approval.
 
 ## Surveillance record
 
-Voted for and presided over every stage of the buildout: the 2023 Fusus interlocal, the 2025 consent-agenda grant, and the May 12, 2026 RTIC/Axon package, a meeting run so that the item came up near midnight and 21 signed-up speakers never got to talk. After the April 14, 2026 public turnout forced a delay, she acknowledged the issue "warrants a full conversation before moving ahead" ([BPR](https://www.bpr.org/politics-government/2026-04-15/asheville-city-council-punts-vote-on-police-tech-funding-and-suggests-property-tax-hike)); the conversation that followed was a committee work session with Axon and Flock sales reps and no public comment.
+Voted for and presided over every stage of the buildout: the 2023 Fusus interlocal, the [[2025-03-25 City Council|2025 consent-agenda grant]], and the [[2026-05-12 City Council|May 12, 2026]] [[What Is the RTIC|RTIC]]/Axon package, a meeting run so that the item came up near midnight and 21 signed-up speakers never got to talk. After the April 14, 2026 [[The People Who Showed Up|public turnout]] forced a delay, she acknowledged the issue "warrants a full conversation before moving ahead" ([BPR](https://www.bpr.org/politics-government/2026-04-15/asheville-city-council-punts-vote-on-police-tech-funding-and-suggests-property-tax-hike)); the conversation that followed was [[2026-04-28 Work Session|a committee work session]] with Axon and Flock sales reps and no public comment.
 
 ## In her words
 
@@ -19,10 +19,10 @@ Voted for and presided over every stage of the buildout: the 2023 Fusus interloc
 
 ## The check-ins
 
-Manheimer is the constant in Asheville's private "check-in" system: [[The Check-In Meetings|three separate small-group sessions before each council meeting]], each legally sized (two members plus the mayor) to stay outside the open meetings law, with no notice and no minutes. She attends all three, privately canvassing the full council before every public meeting. When the Watchdog exposed the practice in 2023 she conceded the city might "need to move away from that process"; council voted to end it; it resumed, and in 2026 she defended it to NC Local as "permissible" per legal counsel, noting every member besides Roney supports it. Her debate formulation: "That's not a transparency issue. That's a functioning issue."
+Manheimer is the constant in Asheville's private "check-in" system: [[The Check-In Meetings|three separate small-group sessions before each council meeting]], each legally sized (two members plus the mayor) to stay outside the open meetings law, with no notice and no minutes. She attends all three, privately canvassing the full council before every public meeting. When the Watchdog exposed the practice in 2023 she conceded the city might "need to move away from that process"; council voted to end it; it resumed, and in 2026 she defended it to NC Local as "permissible" per legal counsel, noting every member besides [[Kim Roney|Roney]] supports it. Her debate formulation: "That's not a transparency issue. That's a functioning issue."
 
 ## Context
 
-Her May 17, 2026 campaign launch at The Marquee drew RTIC protesters ([WLOS](https://wlos.com/news/local/asheville-mayor-mayoral-campaign-esther-manheimer-city-council-member-kim-roney-community-river-arts-district-buncombe-county-board-commissioners-marquee-protest-real-time-intelligence-center-police-department)). Faces [[Kim Roney]] in November. Open questions she has not answered publicly: whether the executed Axon contract will be released, and whether she'd support making APD's promised safeguards binding by ordinance; see [[Promise Tracker]].
+Her May 17, 2026 campaign launch at The Marquee drew RTIC protesters ([WLOS](https://wlos.com/news/local/asheville-mayor-mayoral-campaign-esther-manheimer-city-council-member-kim-roney-community-river-arts-district-buncombe-county-board-commissioners-marquee-protest-real-time-intelligence-center-police-department)). Faces [[Kim Roney]] in November. Open questions she has not answered publicly: whether the executed [[What Axon Contracts Do|Axon contract]] will be released, and whether she'd support making APD's promised safeguards binding by ordinance; see [[Promise Tracker]].
 
 *Last updated: Aug 17, 2026*

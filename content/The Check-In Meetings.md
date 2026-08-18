@@ -19,9 +19,9 @@ The experts who've looked at Asheville's version, on the record: Hugh Stevens, l
 
 ## Caught, "ended," resumed: documented
 
-- **January 2023:** The Watchdog exposes the practice. Manheimer: "If these check-ins are a barrier to folks having confidence... then I think we need to move away from that process."
+- **January 2023:** The Watchdog exposes the practice. [[Esther Manheimer|Manheimer]]: "If these check-ins are a barrier to folks having confidence... then I think we need to move away from that process."
 - **February 2023:** Council votes to replace check-ins with public work sessions, a transparency reform passed **on the consent agenda, bundled with ten other items**, after a resident's request for a separate vote was ignored. ([Watchdog](https://avlwatchdog.org/city-council-check-ins-are-out/))
-- **2025–2026:** The practice quietly resumes. Patrick Conant confirms it in the Watchdog's [2025 open-meetings lawsuit coverage](https://avlwatchdog.org/asheville-watchdog-sues-city-of-asheville-alleging-open-meetings-law-violations/); [NC Local documents](https://www.whqr.org/local/2026-06-30/local-government-officials-are-discussing-public-business-behind-closed-doors-is-that-legal) budget check-ins the week of March 16, 2026 covering cost-cutting, staff wages, and the property tax rate. Manheimer tells NC Local the check-ins are "permissible" per legal counsel, and that **every council member besides Roney supports them**.
+- **2025–2026:** The practice quietly resumes. Patrick Conant confirms it in the Watchdog's [2025 open-meetings lawsuit coverage](https://avlwatchdog.org/asheville-watchdog-sues-city-of-asheville-alleging-open-meetings-law-violations/); [NC Local documents](https://www.whqr.org/local/2026-06-30/local-government-officials-are-discussing-public-business-behind-closed-doors-is-that-legal) budget check-ins the week of March 16, 2026 covering cost-cutting, staff wages, and the property tax rate. Manheimer tells NC Local the check-ins are "permissible" per legal counsel, and that **every council member besides [[Kim Roney|Roney]] supports them**.
 
 ## What the participants say
 
@@ -37,7 +37,7 @@ City Attorney Brad Branham's defense over the years has been consistent: the mee
 
 ## What this means for the RTIC votes, labeled honestly
 
-**What's documented:** the check-in system existed before, during, and after the RTIC approvals; every RTIC vote arrived at the public meeting and passed 6–1 with no council deliberation visible beyond Roney's dissents; on May 12 the motion was seconded before public comment began and the vote came [[2026-05-12 City Council|six seconds after the last speaker]].
+**What's documented:** the check-in system existed before, during, and after the [[What Is the RTIC|RTIC]] approvals; every RTIC vote arrived at the public meeting and passed 6–1 with no council deliberation visible beyond [[Kim Roney|Roney]]'s dissents; on May 12 the motion was seconded before public comment began and the vote came [[2026-05-12 City Council|six seconds after the last speaker]].
 
 **What's not documented:** no outlet has established that the RTIC votes were specifically pre-counted in check-ins. There are no minutes; that's the point. So I say it precisely: *a council that privately pre-discusses its agenda in unminuted groups of three produced surveillance votes that were, in public, foregone conclusions.* Whether that's coordination or coincidence can't be answered; there are no minutes. That's the problem the law was written to prevent.
 
@@ -51,6 +51,6 @@ Durham runs **public work sessions** (posted agendas, minutes, Zoom access, publ
 
 1. Re-adopt the 2023 public-work-session policy, and this time by named vote, not consent agenda.
 2. Amend council rules to require notice and minutes for any staff-run briefing series covering the same agenda across multiple member groups.
-3. Every candidate, one yes/no: *"Will you refuse to participate in unminuted check-in meetings?"* (Per Manheimer's own account, six of seven current members support them. Voters should know who.)
+3. Every candidate, one yes/no: *"Will you refuse to participate in unminuted check-in meetings?"* (Per [[Esther Manheimer|Manheimer]]'s own account, six of seven current members support them. Voters should know who.)
 
 *Related: [[2026-05-12 City Council]] · [[Timeline]] · [[People/index|People]]*

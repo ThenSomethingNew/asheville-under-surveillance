@@ -3,7 +3,7 @@ title: Chuck Edwards
 description: The congressman who earmarked the RTIC's $1.14 million; his signed justification is one sentence, the request doubled without explanation, and he went silent when Asheville pushed back. In office through January 2027.
 ---
 
-**Title:** U.S. Representative, NC-11 (R), the congressman who secured the RTIC's $1.14 million federal earmark
+**Title:** U.S. Representative, NC-11 (R), the congressman who secured the [[What Is the RTIC|RTIC]]'s $1.14 million federal earmark
 **In this role since:** January 2023 (previously NC state senator)
 **Current term ends:** January 2027; he withdrew from the 2026 race on Aug 5, 2026, after the House Ethics Committee recommended his censure ([[Jennifer Balkcom]] replaced him on the ballot Aug 10)
 **Next voter decision:** He isn't on the **Nov 3, 2026** ballot (that race is [[Jennifer Balkcom]] vs [[Jamie Ager]]), but he holds the office, and the accountability, through January 2027 · [[Election 2026]]
@@ -39,7 +39,7 @@ When the FY26 money passed, his office claimed credit in a [January 12, 2026 rel
 
 ## What he said when Asheville pushed back: nothing found
 
-Through the April 14 meeting where 40+ residents forced the vote off the agenda, the May 12 midnight vote, the "Shame!" chants, and the months of coverage since, **no statement from Edwards or his office about the RTIC has been found**: not in BPR, Mountain Xpress, WLOS, or 828NewsNow coverage, and not in his own releases (his January 2026 appropriations recap lists five NC-11 projects and omits the RTIC). Absence of a found statement isn't proof he said nothing anywhere, but the pattern is: advocacy in 2024 when it was a crime-fighting announcement, silence in 2026 when it became a fight.
+Through the April 14 meeting where [[The People Who Showed Up|40+ residents]] forced the vote off the agenda, the May 12 midnight vote, the "Shame!" chants, and the months of coverage since, **no statement from Edwards or his office about the RTIC has been found**: not in BPR, Mountain Xpress, WLOS, or 828NewsNow coverage, and not in his own releases (his January 2026 appropriations recap lists five NC-11 projects and omits the RTIC). Absence of a found statement isn't proof he said nothing anywhere, but the pattern is: advocacy in 2024 when it was a crime-fighting announcement, silence in 2026 when it became a fight.
 
 ## The 2020 record: Asheville's police budget as a target
 

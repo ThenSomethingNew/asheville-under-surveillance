@@ -10,7 +10,7 @@ description: Effectively incoming Buncombe County DA (no Republican filed), the 
 
 ## Why the DA matters here
 
-The outgoing DA, Todd Williams, **wrote a letter supporting the RTIC** that APD read into the record on May 12. The DA's office is where surveillance becomes prosecution: whether plate-reader hits become stops, whether RTIC-derived evidence gets scrutinized or rubber-stamped, and how discovery obligations around camera networks are honored. The 4th Circuit's pending Norfolk ruling ([[The National Wave]]) could land on his desk as binding law.
+The outgoing DA, Todd Williams, **wrote a letter supporting the [[What Is the RTIC|RTIC]]** that APD read into the record on [[2026-05-12 City Council|May 12]]. The DA's office is where surveillance becomes prosecution: whether plate-reader hits become stops, whether RTIC-derived evidence gets scrutinized or rubber-stamped, and how discovery obligations around camera networks are honored. The 4th Circuit's pending Norfolk ruling ([[The National Wave]]) could land on his desk as binding law.
 
 ## Surveillance record
 

@@ -10,7 +10,7 @@ description: Council member since 2022; in the majority on the RTIC; co-led the 
 
 ## Surveillance record
 
-Voted yes on both RTIC items on May 12, 2026 (each passed 6–1, Roney the sole no; [[2026-05-12 City Council|confirmed on the city's own video]]).
+Voted yes on both [[What Is the RTIC|RTIC]] items on May 12, 2026 (each passed 6–1, [[Kim Roney|Roney]] the sole no; [[2026-05-12 City Council|confirmed on the city's own video]]).
 
 ## In her words
 
@@ -18,6 +18,6 @@ Voted yes on both RTIC items on May 12, 2026 (each passed 6–1, Roney the sole 
 
 ## Questions she hasn't answered
 
-Does she support releasing the executed Axon contract? Publishing the quarterly audits? A surveillance-oversight ordinance ([[Promise Tracker]])? As the primary's top vote-getter, her answer would carry weight with the rest of the field. Contact: maggieullman@avlcouncil.com · see [[Election 2026]].
+Does she support releasing the executed [[What Axon Contracts Do|Axon contract]]? Publishing the quarterly audits? A surveillance-oversight ordinance ([[Promise Tracker]])? As the primary's top vote-getter, her answer would carry weight with the rest of the field. Contact: maggieullman@avlcouncil.com · see [[Election 2026]].
 
 *Last updated: Aug 17, 2026*

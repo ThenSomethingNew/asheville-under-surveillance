@@ -9,7 +9,7 @@ This page reconstructs the May 12, 2026 council meeting from the city's own [You
 
 ## The shape of the night
 
-A six-hour, forty-three-minute meeting. The RTIC items, B1 (the $1.14M DOJ grant) and B2 (the 7.5-year Axon contract), shared the agenda with the entire FY26–27 budget presentation and a contested zoning case. Public comment on the RTIC didn't begin until five hours and twenty minutes in.
+A six-hour, forty-three-minute meeting. The [[What Is the RTIC|RTIC]] items, B1 (the $1.14M DOJ grant) and B2 (the 7.5-year [[What Axon Contracts Do|Axon contract]]), shared the agenda with the entire FY26–27 budget presentation and a contested zoning case. Public comment on the RTIC didn't begin until five hours and twenty minutes in.
 
 ## It started with the consent agenda, and a warning [(0:25:56)](https://www.youtube.com/watch?v=AfdrH-a92As&t=1556s)
 
@@ -61,7 +61,7 @@ From the floor: "You didn't let us speak."
 
 ## "There's still 21 people on the record" [(6:22:56)](https://www.youtube.com/watch?v=AfdrH-a92As&t=22976s)
 
-Residents asked to speak on B2: "Can we speak for another hour on B2?" The chair declined: "We gave notice ahead of time of how our public comment works." Roney, from the dais:
+Residents asked to speak on B2: "Can we speak for another hour on B2?" The chair declined: "We gave notice ahead of time of how our public comment works." [[Kim Roney|Roney]], from the dais:
 
 > "I know there's still 21 people on the record."
 
@@ -73,7 +73,7 @@ She read the ACLU of North Carolina's warning letter into the record [(6:25:05)]
 
 ## B2: twenty-five seconds [(6:32:44)](https://www.youtube.com/watch?v=AfdrH-a92As&t=23564s)
 
-After Roney's presentation ("...why I had to vote no"), the second item, the 7.5-year Axon contract, went: motion, second, voice vote, done.
+After [[Kim Roney|Roney]]'s presentation ("...why I had to vote no"), the second item, the 7.5-year Axon contract, went: motion, second, voice vote, done.
 
 > "Do I have a motion to adopt item B2?" ... "Second." ... "All those in favor, please say I." ... "Any opposed?" ... "Okay, the vote is **6 to 1**."
 
@@ -88,14 +88,14 @@ Read the minutes next to the video and notice what the official record smooths a
 Deeper findings from the staff reports, presentations, and minutes (all linked at [[Documents]]):
 
 - **The contract was still being negotiated during the vote.** City Attorney Branham told council his office "has been reviewing the terms with the software provider" and that Axon had "expressed willingness" to add provisions: present tense, at the meeting. Council authorized a 7.5-year commitment whose terms did not yet exist in final form. The staff report's attachment list confirms: resolution only, **no contract, no pricing exhibit**.
-- **A promised committee review was skipped.** APD's own April 28 presentation timeline promised the Axon contract would go to the **Public Safety Committee** before council. It never did; the B.2 staff report lists Committees: "None."
+- **A promised committee review was skipped.** APD's own April 28 presentation timeline promised the Axon contract would go to the **[[The Committee|Public Safety Committee]]** before council. It never did; the B.2 staff report lists Committees: "None."
 - **The grant was accepted before its conditions were known.** The staff report states DOJ award terms "will be set at the Federal level" and staff would review them *after* receipt to "determine the City's ability and willingness to comply."
-- **The letters, settled.** DA Todd Williams' letter (dated April 30) and US Attorney Russ Ferguson's letter (**dated May 12, the day of the vote**) were excerpted aloud by Chief Stepp. And the NC Attorney General letter is real: **Mayor Manheimer read Jeff Jackson's letter into the record**, a conditional endorsement hedged, in his own words, "**Based on what APD has described**." The state's top law-enforcement officer evaluated a description, not documents, because there were none to evaluate. None of the three letters appears in the public meeting packet.
+- **The letters, settled.** DA Todd Williams' letter (dated April 30) and US Attorney Russ Ferguson's letter (**dated May 12, the day of the vote**) were excerpted aloud by [[Jackie Stepp|Chief Stepp]]. And the NC Attorney General letter is real: **[[Esther Manheimer|Mayor Manheimer]] read Jeff Jackson's letter into the record**, a conditional endorsement hedged, in his own words, "**Based on what APD has described**." The state's top law-enforcement officer evaluated a description, not documents, because there were none to evaluate. None of the three letters appears in the public meeting packet.
 - **The numbers kept moving.** Between April 28 and May 12, the video wall went from ~$400K to ~$500K, "brick and mortar" from ~$250K to ~$173K, and the funding coverage from "7 years" to "7.5" to "8" depending on the slide; the grant amount itself appears as three different figures across the staff report, minutes, and presentation.
 
 ## What the record now establishes
 
-1. **The vote count was 6–1 on both items**, stated by the chair on the city's own video and confirmed in the official minutes. Every member except Roney voted yes: [[Esther Manheimer]], [[Antanette Mosley]], [[Sheneika Smith]], [[Maggie Ullman]], [[Sage Turner]], [[Bo Hess]].
+1. **The vote count was 6–1 on both items**, stated by the chair on the city's own video and confirmed in the official minutes. Every member except [[Kim Roney|Roney]] voted yes: [[Esther Manheimer]], [[Antanette Mosley]], [[Sheneika Smith]], [[Maggie Ullman]], [[Sage Turner]], [[Bo Hess]].
 2. **The B1 vote was taken off-microphone amid shouting, seconds after comment closed**, and had to be announced to the room afterward.
 3. **21 signed-up speakers were never heard**, confirmed on the dais in the moment.
 4. **The motion was pending before the public ever spoke.**

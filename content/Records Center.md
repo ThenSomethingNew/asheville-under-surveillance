@@ -25,7 +25,7 @@ A request needs no magic words. State that you are requesting public records und
 
 ### 1. The executed Axon contract: the one that "did not exist yet"
 
-**To: City of Asheville.** On May 7, 2026, the city manager confirmed the Axon agreement council was about to authorize "[[2026-05-07 Agenda Briefing|does not exist yet]]." Council voted May 12 to let her negotiate and sign it. The final signed terms have never been published.
+**To: City of Asheville.** On May 7, 2026, the city manager confirmed the Axon agreement council was about to authorize "[[2026-05-07 Agenda Briefing|does not exist yet]]." Council voted [[2026-05-12 City Council|May 12]] to let her negotiate and sign it. The final signed terms have never been published.
 
 > Under N.C.G.S. Chapter 132, I request electronic copies of: (1) the fully executed master agreement between the City of Asheville and Axon Enterprises authorized by City Council on May 12, 2026, including all exhibits, appendices, statements of work, quotes, and amendments; (2) all purchase orders issued to Axon from January 1, 2023 to present. If any portion is withheld, please identify it and cite the specific statutory exemption.
 
@@ -49,7 +49,7 @@ A request needs no magic words. State that you are requesting public records und
 
 ### 4. Roney's 29 questions, and every answer
 
-**To: City of Asheville.** In March 2025, Councilmember Roney submitted [[2025-03-25 City Council|29 written questions]] about the RTIC to staff. The public has never seen the answers, or learned whether answers exist.
+**To: City of Asheville.** In March 2025, Councilmember [[Kim Roney|Roney]] submitted [[2025-03-25 City Council|29 written questions]] about the [[What Is the RTIC|RTIC]] to staff. The public has never seen the answers, or learned whether answers exist.
 
 > Under N.C.G.S. Chapter 132, I request: (1) the list of written questions concerning real-time intelligence technology submitted by Councilmember Kim Roney to city staff in March 2025; (2) all written responses, drafts of responses, or internal correspondence discussing responses to those questions.
 

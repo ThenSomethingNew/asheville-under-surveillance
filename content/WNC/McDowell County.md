@@ -19,7 +19,7 @@ In McDowell County, no one is checking at all.
 
 Beyond the Atlas entry, there is nothing: **no commission vote, no council vote, no news story, no stated position from Sheriff Ricky Buchanan, no contract value, no local coverage of any kind**; the county's own paper has run only wire stories about Flock elsewhere. No tracker lists McDowell; no opposition exists because nobody knows.
 
-That makes McDowell the cheapest high-value target in the region: **a single records request** (contract, cost, policies, audit logs; [DeFlockILM's NC template](https://deflockilm.org/nc-flock-camera-map/) works) would produce the county's first-ever public documentation of its own surveillance network, and a single resident asking at public comment would be the first ever to do so.
+That makes McDowell the cheapest high-value target in the region: **a single [[Records Center|records request]]** (contract, cost, policies, audit logs; [DeFlockILM's NC template](https://deflockilm.org/nc-flock-camera-map/) works) would produce the county's first-ever public documentation of its own surveillance network, and a single resident asking at public comment would be the first ever to do so.
 
 **Video:** commissioners post to [YouTube](https://www.youtube.com/channel/UC0mTfn8VlbzCAPoS4ypHSbQ) (2nd Monday 5 PM, 3rd Monday 11:30 AM); Marion City Council's channel needs manual verification.
 

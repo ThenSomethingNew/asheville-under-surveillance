@@ -18,9 +18,9 @@ Fusus markets this as "one pane of glass": everything, one screen, live.
 
 ## What it costs
 
-- **$1.14 million** in federal money (an earmark Rep. Chuck Edwards secured after city staff requested it in 2024 without telling council), covering the video wall (~$400K) and buildout
-- A **7.5-year contract with Axon** running to 2033, bundling Fusus software (~$467K over the term), body cameras, tasers, drones, and cloud storage
-- Ongoing operational costs (~$250K), plus whatever renewal costs Axon names when the city is locked in. At the May 12 hearing, a resident who negotiates contracts professionally noted Axon publishes its terms and customers "sign what is on the page"; another documented Axon's ~25%-per-year price escalation pattern, which Axon itself calls its "Flywheel of Growth."
+- **$1.14 million** in federal money (an earmark Rep. [[Chuck Edwards]] secured after city staff requested it in 2024 without telling council), covering the video wall (~$400K) and buildout
+- A **7.5-year [[What Axon Contracts Do|contract with Axon]]** running to 2033, bundling Fusus software (~$467K over the term), body cameras, tasers, drones, and cloud storage
+- Ongoing operational costs (~$250K), plus whatever renewal costs Axon names when the city is locked in. At the [[2026-05-12 City Council|May 12]] hearing, a resident who negotiates contracts professionally noted Axon publishes its terms and customers "sign what is on the page"; another documented Axon's ~25%-per-year price escalation pattern, which Axon itself calls its "Flywheel of Growth."
 
 ## What it can do
 

@@ -10,11 +10,11 @@ description: Council's strongest RTIC advocate; chairs the Public Safety Committ
 
 ## Surveillance record
 
-The RTIC's most vocal advocate on council. Voted yes on May 12, 2026, and authored the accompanying "civil liberties resolution" stating the technology would be used "solely for lawful purposes, which are intended to enhance or provide for public safety", a statement of intent with no enforcement mechanism, no reporting duty, and no penalties. ([BPR](https://www.bpr.org/politics-government/2026-05-13/asheville-council-accepts-police-tech-funding-hears-budget-proposal))
+The [[What Is the RTIC|RTIC]]'s most vocal advocate on council. Voted yes on [[2026-05-12 City Council|May 12, 2026]], and authored the accompanying "civil liberties resolution" stating the technology would be used "solely for lawful purposes, which are intended to enhance or provide for public safety", a statement of intent with no enforcement mechanism, no reporting duty, and no penalties. ([BPR](https://www.bpr.org/politics-government/2026-05-13/asheville-council-accepts-police-tech-funding-hears-budget-proposal))
 
 ## In his words
 
-At the March 25, 2025 council meeting, arguing for the first RTIC funding ([BPR, Mar 26, 2025](https://www.bpr.org/bpr-news/2025-03-26/last-night-at-council-asheville-approves-funding-for-police-surveillance-hub)):
+At the [[2025-03-25 City Council|March 25, 2025 council meeting]], arguing for the first RTIC funding ([BPR, Mar 26, 2025](https://www.bpr.org/bpr-news/2025-03-26/last-night-at-council-asheville-approves-funding-for-police-surveillance-hub)):
 
 > "When you actually responsibly deploy technology like drones and real time intelligence, what you do is you actually de-escalate the risk for officers and our citizens." And: "You're removing the need to send an officer blindly into a dangerous situation and that lowers the chance of use-of-force incidents." He pointed to Durham: "They didn't throw out public safety, they modernized it."
 
@@ -34,7 +34,7 @@ Two more threads from the committee record, in his own words:
 
 ## Zero oversight from the committee he chairs
 
-Hess chairs the Public Safety Committee, the body where RTIC oversight is supposed to live. A review of all seven of its recorded meetings (May 2025–July 2026) found **zero**: no audits requested, no post-approval briefings received, and the **July 29, 2026 meeting, held after the RTIC was operational-bound, contains not one word about RTIC implementation, the Flock wind-down, or the promised quarterly audits.** The only skeptical questions ever raised in that committee came from Mosley (on ICE agreements) and Smith (on profiling and face-vs-plate), never from its chair. His committee next meets **Sept 24, 11 AM**. See [[Oversight Theater]].
+Hess chairs the Public Safety Committee, the body where RTIC oversight is supposed to live. A review of all seven of its recorded meetings (May 2025–July 2026) found **zero**: no audits requested, no post-approval briefings received, and the **July 29, 2026 meeting, held after the RTIC was operational-bound, contains not one word about RTIC implementation, the Flock wind-down, or the promised quarterly audits.** The only skeptical questions ever raised in that committee came from [[Antanette Mosley|Mosley]] (on ICE agreements) and [[Sheneika Smith|Smith]] (on profiling and face-vs-plate), never from its chair. His committee next meets **Sept 24, 11 AM**. See [[Oversight Theater]].
 
 ## Why he matters now
 

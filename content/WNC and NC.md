@@ -57,7 +57,7 @@ While counties remove cameras, Raleigh is installing them. The **July 2026 state
 
 - **July 29, 2026**: a Charlotte-Mecklenburg officer became the **first in NC criminally charged** for an unauthorized Flock search.
 - **August 5, 2026**: a Mooresville officer was arrested for stalking his ex-wife through Flock: **31 searches**. Eleven more officers reportedly under investigation.
-- Statewide precedent for the charge: unauthorized ALPR access is a misdemeanor under the same statute APD operates under. The mechanism that caught these officers (audit logs) is the mechanism CAMS is demanding be made public in Asheville. ([NCLocal](https://nclocal.org/2026/07/30/balancing-public-safety-and-privacy-wnc-wrestles-with-surveillance-issues/))
+- Statewide precedent for the charge: unauthorized ALPR access is a misdemeanor under the same statute APD operates under. The mechanism that caught these officers (audit logs) is the mechanism [[Get Involved|CAMS]] is demanding be made public in Asheville. ([NCLocal](https://nclocal.org/2026/07/30/balancing-public-safety-and-privacy-wnc-wrestles-with-surveillance-issues/))
 
 ## Use this page
 

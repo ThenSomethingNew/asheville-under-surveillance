@@ -7,7 +7,7 @@ A credibility note up front: this page does **not** claim tourism tax dollars pa
 
 ## Stream 1: The BID (downtown governance, privatized)
 
-Council created the Downtown Business Improvement District **June 11, 2024, 6–1, Kim Roney the lone no**, one of the most divisive local fights in recent memory. A new property assessment (~8.8¢ per $100) raises **~$1.2M/year, projected $1.8M for 2026**, spent on "safety and cleanliness" by an appointed, unelected board. ([City project page](https://www.ashevillenc.gov/projects/downtown-business-improvement-district-bid/) · [Watchdog](https://avlwatchdog.org/answer-man-who-has-oversight-of-the-asheville-downtown-improvement-district-weird-beeping-at-avl-baggage-claim/))
+Council created the Downtown Business Improvement District **June 11, 2024, 6–1, [[Kim Roney]] the lone no**, one of the most divisive local fights in recent memory. A new property assessment (~8.8¢ per $100) raises **~$1.2M/year, projected $1.8M for 2026**, spent on "safety and cleanliness" by an appointed, unelected board. ([City project page](https://www.ashevillenc.gov/projects/downtown-business-improvement-district-bid/) · [Watchdog](https://avlwatchdog.org/answer-man-who-has-oversight-of-the-asheville-downtown-improvement-district-weird-beeping-at-avl-baggage-claim/))
 
 Who runs it: the operating contract went (5–1, Roney no) to the **Asheville Downtown Improvement District**, a nonprofit created by the **Asheville Downtown Association, the Area Chamber of Commerce, and a California BID consultancy**, with one person, Hayden Plemmons, directing both the ADA and the ADID. The board council appointed (6–1, Roney no; she pulled it from the consent agenda) is anchored by hotel and commercial property interests: the Foundry Hotel, McKibbon Hospitality, property management firms. **Council member [[Antanette Mosley]] holds a non-voting seat.** ([BPR](https://www.bpr.org/bpr-news/2025-04-09/last-night-at-council-bid-leadership-established-downtown-ambassadors-coming-this-may))
 
@@ -21,7 +21,7 @@ The siphon critique is bipartisan and on the record (County Commission chair Bro
 
 ## Stream 3: The RTIC (federal money, city obligation)
 
-The $1.14M is a DOJ earmark; the 7.5-year Axon contract is Asheville's own obligation ([[What Is the RTIC]]). No BID or TDA dollars touch it. What the RTIC *does* take from downtown is different: **cameras**. Its voluntary camera-registration program recruits exactly the businesses the BID assesses and the Chamber organizes.
+The $1.14M is a DOJ earmark; the 7.5-year [[What Axon Contracts Do|Axon contract]] is Asheville's own obligation ([[What Is the RTIC]]). No BID or TDA dollars touch it. What the RTIC *does* take from downtown is different: **cameras**. Its voluntary camera-registration program recruits exactly the businesses the BID assesses and the Chamber organizes.
 
 ## What links the streams: the same coalition
 
@@ -34,12 +34,12 @@ The $1.14M is a DOJ earmark; the 7.5-year Axon contract is Asheville's own oblig
 
 | Vote | Result | The no |
 |---|---|---|
-| Fusus interlocal (Jan 2023) | 4–1 | Roney |
+| Fusus interlocal (Jan 2023) | 4–1 | [[Kim Roney|Roney]] |
 | BID creation (Jun 2024) | 6–1 | Roney |
 | ADID operating contract (Jan 2025) | 5–1 | Roney |
 | BID board appointments (Apr 2025) | 6–1 | Roney |
-| RTIC equipment grant (Mar 2025) | 6–1 | Roney |
-| RTIC $1.14M + Axon contract (May 2026) | 6–1 · 6–1 | Roney |
+| RTIC equipment grant ([[2025-03-25 City Council|Mar 2025]]) | 6–1 | Roney |
+| RTIC $1.14M + Axon contract ([[2026-05-12 City Council|May 2026]]) | 6–1 · 6–1 | Roney |
 | Private check-in meetings | 6 of 7 support | Roney ([[The Check-In Meetings]]) |
 
 Downtown's governance, its policing posture, and its camera network have moved as one program, and one member has dissented from all of it, every time.

@@ -14,7 +14,7 @@ description: Republican challenger for Buncombe County Sheriff. No public positi
 
 ## Why his silence matters more than most
 
-Whoever wins this race inherits the region's largest surveillance network with essentially no external constraints: [[Quentin Miller|Miller's]] ICE-limiting commitments are personal policy, not law. Nationally, the strongest anti-surveillance politics of 2026 has come from **Republican-led communities**: Macon County's GOP organized the removal of its Flock cameras an hour west of here ([[WNC and NC]]). Whether Parris follows that current or runs on expanding the network is, as of now, completely unknown.
+Whoever wins this race inherits the region's largest surveillance network with essentially no external constraints: [[Quentin Miller|Miller's]] ICE-limiting commitments are personal policy, not law. Nationally, the strongest anti-surveillance politics of 2026 has come from **Republican-led communities**: [[Macon County]]'s GOP organized the removal of its Flock cameras an hour west of here ([[WNC and NC]]). Whether Parris follows that current or runs on expanding the network is, as of now, completely unknown.
 
 ## The question for him
 

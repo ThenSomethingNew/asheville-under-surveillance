@@ -3,12 +3,12 @@ title: Speak at Council
 description: The complete kit for public comment. Logistics, rules, what's been said, what's unanswered, and how to make three minutes land.
 ---
 
-You get three minutes. The May 12 vote proved that showing up isn't enough on its own, but it also proved the city counts heads, pulls agenda items when crowds appear, and answers pressure with concessions like public tours. Sustained, specific, on-the-record comment is how the oversight fight gets won. Here's the kit.
+You get three minutes. The [[2026-05-12 City Council|May 12 vote]] proved that showing up isn't enough on its own, but it also proved the city counts heads, pulls agenda items when crowds appear, and answers pressure with concessions like public tours. Sustained, specific, on-the-record comment is how the oversight fight gets won. Here's the kit.
 
 ## Where and when
 
 - **City Council**: 2nd and 4th Tuesdays, 5 PM, Council Chamber, City Hall (70 Court Plaza). **Next: Tuesday, Aug 25.** Agendas post the [Friday before](https://www.ashevillenc.gov/government/city-council-agenda/); check whether anything surveillance-related is on the consent agenda; that's where it's been buried twice.
-- **Public Safety Committee**: last Thursday of odd-numbered months, 11 AM, virtual ([livestream](https://publicinput.com/d81053)). **Next: Thursday, Sept 24** (confirmed on the [city's committee page](https://www.ashevillenc.gov/government/city-council-committees/public-safety-committee/)). Chaired by Bo Hess, the RTIC's strongest supporter, with Mosley and Smith. This is where implementation oversight actually happens, and almost nobody attends.
+- **[[The Committee|Public Safety Committee]]**: last Thursday of odd-numbered months, 11 AM, virtual ([livestream](https://publicinput.com/d81053)). **Next: Thursday, Sept 24** (confirmed on the [city's committee page](https://www.ashevillenc.gov/government/city-council-committees/public-safety-committee/)). Chaired by [[Bo Hess]], the [[What Is the RTIC|RTIC]]'s strongest supporter, with [[Antanette Mosley|Mosley]] and [[Sheneika Smith|Smith]]. This is where implementation oversight actually happens, and almost nobody attends.
 - **Anytime:** email **avl-city-council@publicinput.com** (goes to all members and into the record) · voicemail 855-925-2801, code 10332 · individual members' emails are on the [city roster](https://www.ashevillenc.gov/government/meet-city-council/).
 - **RTIC tours**: every other Thursday, 2–4 PM, register at 828-259-5881. Go with the [[Promise Tracker]] and write down what they tell you.
 
@@ -29,7 +29,7 @@ Comment runs **3 minutes per speaker, capped at 1 hour per item**. On May 12 tha
 
 ## The asks: specific, answerable, on the record
 
-These are the accountability demands already in motion (CAMS's core three, plus the structural fix). Any speaker can carry one:
+These are the accountability demands already in motion ([[Get Involved|CAMS]]'s core three, plus the structural fix). Any speaker can carry one:
 
 1. **Release the contract.** "The final Axon contract was not public before the vote. Will the city release the full executed contract, including pricing schedules and renewal terms?"
 2. **Publish the audit logs.** "APD promised quarterly audits of RTIC access. Will those audits be published (not summarized, published), and when is the first one due?"
@@ -56,7 +56,7 @@ You'll hear these from the dais; have the reply ready:
 
 - *"It's for violent crime."* → Nothing in the approved package limits it to that; the limits are revisable APD policy. Austin's audit found 10–20% of searches had no documented reason at all.
 - *"We have strong safeguards."* → Identical safeguards preceded the ICE lookups, the abortion search, and ~50 stalking charges elsewhere. See [[The National Wave]]. Safeguards that aren't law are marketing.
-- *"The grant saves us money."* → The grant covers the buildout; the 7.5-year Axon contract and its escalations are Asheville's. LA, Austin, and Denver all found the ongoing costs weren't worth the results.
+- *"The grant saves us money."* → The grant covers the buildout; the 7.5-year [[What Axon Contracts Do|Axon contract]] and its escalations are Asheville's. LA, Austin, and Denver all found the ongoing costs weren't worth the results.
 - *"Cameras solve crimes."* → Sometimes, after the fact. The studies show no deterrent effect, and Flock's own headline claim collapsed under academic review. Ask what the 3.1 million plate scans have actually produced here; nobody's published that number.
 
 *Sources for every fact on this page: [[Claims Library]] · [[Timeline]] · [[Sources]]*

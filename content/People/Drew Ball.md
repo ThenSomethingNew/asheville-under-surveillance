@@ -10,7 +10,7 @@ description: Sitting county commissioner running for city council. No public pos
 
 ## Surveillance record
 
-As a county commissioner, Ball sits on the body that funds the Sheriff's ~1,800-camera Fusus network, the system Asheville's RTIC extends. **No vote or public statement from him on Fusus, Flock, or the RTIC has been found** (as of Aug 17, 2026).
+As a county commissioner, Ball sits on the body that funds the Sheriff's ~1,800-camera Fusus network, the system Asheville's [[What Is the RTIC|RTIC]] extends. **No vote or public statement from him on Fusus, Flock, or the RTIC has been found** (as of Aug 17, 2026).
 
 ## In his words
 

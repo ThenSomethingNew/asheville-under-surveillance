@@ -5,7 +5,7 @@ description: Every official and candidate who decides Asheville's surveillance f
 
 Every vote and quote on this site traces to a person, and every person here is listed by the next date voters can act on their record. That's how this page is organized, because titles and promises are revisable, and election day is the one check [[Oversight Theater|officials can't revise]].
 
-The headline: **on November 3, 2026, four of the six councilmembers who voted yes on the RTIC are on the ballot** (the mayor who ran the midnight meeting, and the three members whose seats are up), while the only no vote is running for mayor. So is the sheriff who built the county's ~2,000-camera network. Early voting starts **October 15**. The full ballot view: [[Election 2026]].
+The headline: **on November 3, 2026, four of the six councilmembers who voted yes on the [[What Is the RTIC|RTIC]] are on the ballot** (the mayor who ran the midnight meeting, and the three members whose seats are up), while the only no vote is running for mayor. So is the sheriff who built the county's ~2,000-camera network. Early voting starts **October 15**. The full ballot view: [[Election 2026]].
 
 ## On the November 3, 2026 ballot
 
@@ -13,7 +13,7 @@ The headline: **on November 3, 2026, four of the six councilmembers who voted ye
 
 | | Role | Since | Surveillance record |
 |---|---|---|---|
-| [[Esther Manheimer]] | Mayor, seeking a 4th term | 2013 | Voted **yes** both RTIC items; ran the May 12 meeting where the vote happened off-mic; the [[The Check-In Meetings\|three-by-three briefings]] happen under her gavel |
+| [[Esther Manheimer]] | Mayor, seeking a 4th term | 2013 | Voted **yes** both RTIC items; ran the [[2026-05-12 City Council\|May 12 meeting]] where the vote happened off-mic; the [[The Check-In Meetings\|three-by-three briefings]] happen under her gavel |
 | [[Kim Roney]] | Council member, running for mayor | 2020 | The **only no vote**: every surveillance item since 2023, usually alone; submitted the 29 unanswered questions |
 
 **City Council: three seats, all three incumbents voted yes on the RTIC:**
@@ -40,7 +40,7 @@ The headline: **on November 3, 2026, four of the six councilmembers who voted ye
 
 | | Role | Since | Surveillance record |
 |---|---|---|---|
-| [[Sage Turner]] | Council member | 2020 | **Yes** on the RTIC; now on record that her condition (Flock removal) hasn't been honored |
+| [[Sage Turner]] | Council member | 2020 | **Yes** on the RTIC; now on record that her condition ([[Getting Flock Out\|Flock removal]]) hasn't been honored |
 | [[Bo Hess]] | Council member; Public Safety Committee chair | 2024 | **Yes**: the RTIC's most vocal advocate, chairing [[The Committee\|the committee that has never overseen it]] |
 
 Two of the six yes votes answer to no one until 2028. Until then, the only check on them is the public record.
@@ -52,7 +52,7 @@ The people running the apparatus day to day were never elected to anything; wort
 | | Role | Since | Why they're here |
 |---|---|---|---|
 | [[Jackie Stepp]] | Interim Police Chief (APD's 5th chief in 11 years pending; permanent pick expected ~Sept 2026) | Nov 2025 | Sold the RTIC at five meetings; her full council argument, claim by claim with counters, is on her page. Made the 177K-camera admission *and* the 19K claim |
-| [[D.K. Wesley]] | City Manager | Jan 2026 | Confirmed the Axon contract "[[2026-05-07 Agenda Briefing|does not exist yet]]," then received sole authority to negotiate and sign it, and picks the next police chief |
+| [[D.K. Wesley]] | City Manager | Jan 2026 | Confirmed the [[What Axon Contracts Do\|Axon contract]] "[[2026-05-07 Agenda Briefing|does not exist yet]]," then received sole authority to negotiate and sign it, and picks the next police chief |
 | [[Jimmy Wingo]] | APD Law Enforcement Technology Manager | unpublished | The single approval gate for outside-agency data requests, per APD's own testimony, in a role with no published bio, start date, or classification |
 
 ## The people helping

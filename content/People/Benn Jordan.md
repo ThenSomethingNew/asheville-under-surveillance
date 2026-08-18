@@ -3,7 +3,7 @@ title: Benn Jordan
 description: The independent researcher whose Flock Safety investigations reached national press, and who came to Asheville in May 2026 to help. His work explains, in plain terms, why these cameras are both invasive and insecure.
 ---
 
-Most of this site is about people with power over Asheville's surveillance system. This page is about someone with none: an outside researcher who studied these cameras on his own time and came here to help residents understand them. Benn Jordan appeared at a CAMS surveillance event in Asheville on **May 25, 2026**, doing a public Q&A alongside Kim Roney. His work is the clearest available explanation of two things Asheville officials rarely address: what these systems can do, and how badly built they are.
+Most of this site is about people with power over Asheville's surveillance system. This page is about someone with none: an outside researcher who studied these cameras on his own time and came here to help residents understand them. Benn Jordan appeared at a CAMS surveillance event in Asheville on **May 25, 2026**, doing a public Q&A alongside [[Kim Roney]]. His work is the clearest available explanation of two things Asheville officials rarely address: what these systems can do, and how badly built they are.
 
 His findings are worth knowing because they're independently confirmed. When a company's own contractor or a paid consultant makes a claim, you weigh the source. Jordan is a musician (recording as The Flashbulb) who turned his technology YouTube channel (over a million subscribers) toward surveillance investigation, works with named security researchers, and offered Flock supervised access to verify his findings. Where his work is cited below, national outlets reproduced it independently.
 
@@ -15,7 +15,7 @@ To be precise about what this was: the cameras were left publicly accessible, no
 
 **The devices themselves are fragile.** In a November 2025 investigation with security researcher Jon Gaines, Jordan demonstrated gaining root access to a Flock camera in seconds through a physical button sequence, and documented that the units ran a discontinued version of Android with hundreds of known vulnerabilities. He has said the two of them catalogued more than 70 vulnerabilities across the ecosystem ([Privacy Guides](https://www.privacyguides.org/news/2025/11/17/ben-jordan-exposes-severe-security-vulnerabilities-in-flock-surveillance-cameras/)). This is a single research team's account rather than an independent audit, but it is specific, on the record, and was met with a Flock response rather than a denial that it happened.
 
-**Their own effectiveness numbers come from the company.** Jordan's reporting notes that Flock's widely repeated claim about solving a share of crime traces to a paper written by Flock employees, and that crime fell nationally in places with and without the cameras. That's the same problem this site documents in Asheville, where the crime figures used to sell the RTIC [[Their Claims vs The Record|shifted and didn't hold up]].
+**Their own effectiveness numbers come from the company.** Jordan's reporting notes that Flock's widely repeated claim about solving a share of crime traces to a paper written by Flock employees, and that crime fell nationally in places with and without the cameras. That's the same problem this site documents in Asheville, where the crime figures used to sell the [[What Is the RTIC|RTIC]] [[Their Claims vs The Record|shifted and didn't hold up]].
 
 ## What he says about home cameras
 

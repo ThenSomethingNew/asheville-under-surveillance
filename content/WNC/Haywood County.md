@@ -3,7 +3,7 @@ title: Haywood County
 description: The county that decided to keep its cameras, without ever formally voting on them in the first place.
 ---
 
-Haywood decided to keep its Flock cameras a week after Macon County tore its system out, without ever having formally voted on them in the first place.
+Haywood decided to keep its Flock cameras a week after [[Macon County]] tore its system out, without ever having formally voted on them in the first place.
 
 ## Timeline
 
@@ -26,7 +26,7 @@ Two facts about that decision:
 1. **No formal vote has ever been taken**: not on the original deployment, not on the July decision to keep them. Like [[Madison County]], the cameras entered through the sheriff's operations, and the "decision" to keep them was a chairman's statement to a reporter.
 2. **The overdose claim is a causal leap**: overdose deaths fell sharply *statewide and nationally* in 2024–25 (largely attributed to naloxone availability and fentanyl supply changes). Nobody has published any analysis connecting Haywood's plate readers to its overdose numbers; it's the same correlation-as-causation pattern as [[Their Claims vs The Record|the Buncombe sheriff's crime claims]].
 
-Contract value, term, and renewal date: **not public**; no press coverage or tracker has them. A records request would.
+Contract value, term, and renewal date: **not public**; no press coverage or tracker has them. A [[Records Center|records request]] would.
 
 ## The towns
 

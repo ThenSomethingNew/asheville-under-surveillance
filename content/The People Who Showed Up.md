@@ -3,7 +3,7 @@ title: "The People Who Showed Up"
 description: "The residents who stood at the podium and told council no: their best arguments, in their own words, on the public record."
 ---
 
-Between January 2025 and May 2026, across nine public meetings, 36 Asheville residents stood at the podium or called in to speak on the record about the city's surveillance buildout, and five more signed up just to cede their time so a neighbor could finish an argument. All but one spoke in opposition. On May 12, 2026, the night council voted on the Real-Time Intelligence Center, 23 residents spoke after waiting through a six-hour agenda; 22 of them said no. Council passed both items 6–1 anyway.
+Between January 2025 and May 2026, across nine public meetings, 36 Asheville residents stood at the podium or called in to speak on the record about the city's surveillance buildout, and five more signed up just to cede their time so a neighbor could finish an argument. All but one spoke in opposition. On May 12, 2026, the night council voted on the [[What Is the RTIC|Real-Time Intelligence Center]], 23 residents spoke after waiting through a six-hour agenda; 22 of them said no. Council passed both items 6–1 anyway.
 
 The vote doesn't erase the record. The record shows lawyers, security engineers, ministers, veterans, moms, public-housing staff, and people attending their first-ever council meeting making the case against mass surveillance, carefully, specifically, and repeatedly. This page collects their strongest arguments so future speakers can build on them, and so everyone who spoke knows: it was heard, it was preserved, and you are not alone.
 

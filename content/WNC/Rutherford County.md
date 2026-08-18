@@ -7,7 +7,7 @@ Rutherford County has an unresolved camera count, a Flock network with audio det
 
 ## Timeline
 
-- **February 2025: the sheriff's pitch stalls.** Sheriff Aaron Ellenburg (pro-Flock) pitched an 8-camera network to commissioners; questions were raised, **no vote** was taken. The current county-owned count is unresolved across conflicting reports, a records-request target.
+- **February 2025: the sheriff's pitch stalls.** Sheriff Aaron Ellenburg (pro-Flock) pitched an 8-camera network to commissioners; questions were raised, **no vote** was taken. The current county-owned count is unresolved across conflicting reports, a [[Records Center|records-request target]].
 - **July 2026: the vandalism moment goes viral.** A Rutherfordton PD Flock camera was found damaged; the department's Facebook post drew **~20,000–25,000 comments, overwhelmingly celebratory** ("Not all heroes wear capes"). No arrest has been reported. ([WLOS](https://wlos.com/news/local/damaged-flock-camera-rutherfordton-north-carolina-town-wnc-sparks-online-debate-surveillance-technology-ai-artificial-intelligence-vandalism-vandalized-device) · [[How Cities Won]])
 - **November 2026: Sheriff Ellenburg on the ballot.**
 
