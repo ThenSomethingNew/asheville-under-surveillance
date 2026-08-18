@@ -94,12 +94,6 @@ export default (() => {
             __html: `(function(){function makeShim(){var m={};return{getItem:function(k){return Object.prototype.hasOwnProperty.call(m,k)?m[k]:null},setItem:function(k,v){m[k]=String(v)},removeItem:function(k){delete m[k]},clear:function(){m={}},key:function(i){return Object.keys(m)[i]||null},get length(){return Object.keys(m).length}}}function needsShim(name){try{var s=window[name];s.setItem('__t','1');s.removeItem('__t');return false}catch(e){return true}}['localStorage','sessionStorage'].forEach(function(name){if(needsShim(name)){try{Object.defineProperty(window,name,{value:makeShim(),configurable:true})}catch(e){}}})})();`,
           }}
         />
-        {/* TEMPORARY mobile JS diagnostic - remove after debugging */}
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `(function(){var errs=[];window.addEventListener('error',function(e){if(e.target&&e.target.src){errs.push('LOAD FAIL: '+e.target.src.split('/').pop())}else if(e.message){errs.push('JS ERR: '+e.message.slice(0,120))}},true);window.addEventListener('unhandledrejection',function(e){errs.push('PROMISE: '+String(e.reason).slice(0,120))});document.addEventListener('nav',function(){window.__navOK=true});setTimeout(function(){if(window.__navOK&&errs.length===0)return;var d=document.createElement('div');d.style.cssText='position:fixed;bottom:0;left:0;right:0;z-index:99999;background:#7a1f1f;color:#fff;font:11px monospace;padding:6px 8px;max-height:40vh;overflow:auto';d.textContent='[diag] navFired='+(!!window.__navOK)+' | postscriptLoaded='+(typeof navigator!=='undefined'&&!!window.__navOK)+' | errors('+errs.length+'): '+(errs.join(' || ')||'none');document.body.appendChild(d)},3500)})();`,
-          }}
-        />
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
