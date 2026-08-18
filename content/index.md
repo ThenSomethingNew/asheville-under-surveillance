@@ -110,4 +110,4 @@ The RTIC is expected fully operational by **summer 2027**. The contract runs to 
 
 My own view is on every page: I don't think interconnected mass-surveillance systems should exist at all. You don't have to share it for this site to be useful to you. At a bare minimum, know what's happening, know where the critical points of oversight and governance sit (the audits, the contracts, the appointments, the votes), and know that at this phase of the rollout, communities still control their own future together. That's true whichever way you'd steer it.
 
-This is a living workbook: it updates as meetings happen, records surface, and promises get tested. Found an error? Good. That's the point of publishing sources. Every page shows where its facts come from.
+This is a living workbook: it updates as meetings happen, records surface, and promises get tested.
