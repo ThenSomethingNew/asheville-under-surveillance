@@ -198,6 +198,10 @@
   // 44px minimum touch target for the menu button (was 34px)
   .explorer button.mobile-explorer {
     padding: 10px;
+    min-width: 44px;
+    min-height: 44px;
+    box-sizing: border-box;
+    justify-content: center;
   }
 
   // Insurance for the off-canvas menu: enforce the exact stock open/closed
