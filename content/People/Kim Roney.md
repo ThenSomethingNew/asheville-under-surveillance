@@ -26,4 +26,6 @@ The only member of council to vote against the surveillance buildout, every time
 
 Consulted ACLU-NC and EFF during the RTIC fight; appeared on the RE:FUSUS panel (May 25, 2026, DayTrip) alongside [[Benn Jordan]] and Patrick Conant. Faces [[Esther Manheimer]] in November, the only race where the RTIC is squarely on the ballot. See [[Election 2026]].
 
-*Last updated: Aug 17, 2026*
+One more entry for the record: on August 19, 2026, [[Esther Manheimer|Manheimer]] called for terminating the Flock contract and removing the cameras ([WLOS](https://wlos.com/news/local/asheville-mayor-esther-manheimer-vote-end-city-flock-safety-contract-remove-cameras-backlash-automatic-license-plate-readers-data-surveillance)). Roney has been the sole no on every surveillance vote since January 2023, and said the Flock half plainly at the [[2026-05-07 Agenda Briefing|May 7 briefing]], three months before the mayor arrived there: "I think even having one of them isn't good for our community."
+
+*Last updated: Aug 19, 2026*

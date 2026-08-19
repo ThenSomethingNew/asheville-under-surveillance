@@ -41,17 +41,19 @@ Here's the whole story in one look. Every entry links to a deeper page with sour
 <div class="avl-tl tl-dashed">
 <div class="tl-era">You are here: the part that's still undecided</div>
 <div class="tl-item tl-future tl-now"><div class="tl-date">Aug 16–22, 2026</div><div class="tl-body"><strong>National Week of Action Against ALPRs.</strong> Asheville joins in, including a Friday celebration at Cooperative Coffee. <a href="./Get-Involved">Get involved</a></div></div>
-<div class="tl-item tl-future"><div class="tl-date">Aug 25, 2026</div><div class="tl-body"><strong>City Council meets.</strong> You get three minutes at the podium. <a href="./Speak-at-Council">Here's how to use them</a>.</div></div>
+<div class="tl-item tl-resist"><div class="tl-date">Aug 19, 2026</div><div class="tl-body"><strong>The mayor calls for Flock termination.</strong> Mid–Week of Action, <a href="./People/Esther-Manheimer">Mayor Manheimer</a> says she has "heard clearly from Asheville residents" and calls for a vote to terminate the Flock contract and remove the cameras. A statement isn't a removal, and it leaves the <a href="./What-Is-the-RTIC">RTIC</a> and APD's <a href="./Getting-Flock-Out">Flock search accounts</a> untouched, but residents moved a mayor who voted for every stage of the buildout. <a href="./Getting-Flock-Out">How the proposal scores against a real exit</a></div></div>
+<div class="tl-item tl-future"><div class="tl-date">Aug 25, 2026</div><div class="tl-body"><strong>Council votes on terminating the Flock contract.</strong> The agenda posts Friday at noon. You get three minutes at the podium, and now a specific motion to strengthen. <a href="./Speak-at-Council">Here's how to use them</a>.</div></div>
 <div class="tl-item tl-future"><div class="tl-date">September 2026</div><div class="tl-body"><strong>A permanent police chief gets picked,</strong> expected by the end of September. The pick is made by <a href="./People/D.K.-Wesley">city manager D.K. Wesley</a>, with no public vote; <a href="./People/Jackie-Stepp">Interim Chief Jackie Stepp's record is here</a>. And on Sept 24 <a href="./The-Committee">the Public Safety Committee</a> meets. The question to ask: <em>where are the audit reports state law already requires?</em></div></div>
 <div class="tl-item tl-future"><div class="tl-date">Oct 15 – Nov 3, 2026</div><div class="tl-body"><strong>The election.</strong> Four of the six yes votes are on this ballot: <a href="./People/Esther-Manheimer">Manheimer</a> vs. <a href="./People/Kim-Roney">Roney</a> for mayor, three council seats, and <a href="./People/Quentin-Miller">the sheriff who built the network</a>. Early voting starts Oct 15. <a href="./Election-2026">Election 2026</a></div></div>
 <div class="tl-item tl-future"><div class="tl-date">2027 → 2033</div><div class="tl-body"><strong>The RTIC goes operational</strong> (target: spring/summer 2027) and the contract runs to 2033. Every promise made to sell it gets tested in these years, while attention usually fades. <a href="./Promise-Tracker">The promise tracker starts now</a>.</div></div>
 </div>
 
 <div class="avl-now">
-<p><strong>Happening now</strong> <em>(updated Aug 17, 2026)</em></p>
+<p><strong>Happening now</strong> <em>(updated Aug 19, 2026)</em></p>
 <ul>
+<li><strong>Aug 19: the mayor called for terminating the Flock contract</strong>, with a council vote set for Tuesday. What the proposal covers, what it leaves out, and why it happened: <a href="./Getting-Flock-Out">Getting Flock Out</a></li>
 <li>It's the <strong>DeFlock National Week of Action</strong> (Aug 16–22): events all week, Friday celebration at Cooperative Coffee. <a href="./Get-Involved">Details</a></li>
-<li><strong>Council meets Tuesday, Aug 25</strong> at 5 PM, City Hall. Public comment is open. <a href="./Speak-at-Council">Speak at council</a></li>
+<li><strong>Council votes Tuesday, Aug 25</strong> at 5 PM, City Hall, on authorizing the termination. Public comment is open. <a href="./Speak-at-Council">Speak at council</a></li>
 <li>The <strong>permanent police chief decision</strong> is expected by the end of September, made by the city manager, not by any vote. <a href="./People/">Who's deciding</a></li>
 </ul>
 </div>

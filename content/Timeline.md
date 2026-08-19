@@ -60,9 +60,11 @@ This is the spine of the record. Each entry links its sources. Where accounts co
 
 **August 16–22, 2026: National Week of Action.** Asheville joins the DeFlock National Week of Action Against ALPRs: a West Asheville kickoff potluck, an online panel, and a Friday celebration at Cooperative Coffee. ([CAMS](https://camsavl.org), [DeFlock](https://deflock.org))
 
+**August 19, 2026: The mayor calls for Flock termination.** Mid-Week of Action, two days after [[Sage Turner]] documented that the city's Flock cameras were still up despite her vote's conditions, [[Esther Manheimer|Mayor Manheimer]] issues a statement calling for a vote at the **August 25** council meeting to authorize city manager [[D.K. Wesley]] to terminate the Flock contract: "I have heard clearly from Asheville residents, and I'm calling on Asheville to turn off the Flock cameras and remove them, which requires terminating the Flock contract." She says a moratorium wouldn't be enough because "our contract does not allow for the removal of the technology unless we terminate the contract," and asks for a transparent policy on handling and deleting the data already collected. The statement says nothing about APD's Flock search accounts, the county's cameras, or the [[What Axon Contracts Do|Axon contract]]; see [[Getting Flock Out]] for what a full exit requires, and note it stays a statement until council votes. That same morning, hours before the announcement, APD had publicized using Flock cameras to identify suspects in a West Asheville paintball assault case. ([WLOS](https://wlos.com/news/local/asheville-mayor-esther-manheimer-vote-end-city-flock-safety-contract-remove-cameras-backlash-automatic-license-plate-readers-data-surveillance) · [828newsnow](https://828newsnow.com/news/228822-asheville-mayor-calls-for-vote-to-terminate-flock-camera-contract/) · [WLOS, paintball](https://wlos.com/news/local/asheville-flock-cameras-paintball-assaults-juvenile-suspects-west-asheville-haywood-road))
+
 ## What's next
 
-- **Aug 25, 2026**: City Council regular meeting (2nd/4th Tuesdays, 5 PM, City Hall)
+- **Aug 25, 2026**: City Council votes on authorizing termination of the Flock contract (agenda posts Friday Aug 21 at noon at [ashevillenc.gov](https://www.ashevillenc.gov/)); regular meeting, 5 PM, City Hall
 - **Sept 24, 2026**: Public Safety Committee (last Thursday of odd-numbered months, 11 AM, virtual)
 - **Oct 15 – Nov 3, 2026**: Early voting → Election Day. See [[Election 2026]]
 - **Spring/summer 2027**: RTIC operational target. The [[Promise Tracker]] starts now.

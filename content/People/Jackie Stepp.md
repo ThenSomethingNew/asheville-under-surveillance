@@ -50,7 +50,7 @@ Lay her arguments beside [[The Flockbook|Flock's leaked council-coaching playboo
 
 ## What to watch, what to ask
 
-- **The chief decision (~September 2026):** one unelected official's call. If Stepp is the pick, every promise above transfers from audition to administration, and this page becomes the permanent chief's baseline.
+- **The chief decision (~September 2026):** one unelected official's call. If Stepp is the pick, every promise above transfers from audition to administration, and this page becomes the permanent chief's baseline. Worth noting on the record: in her August 19 [[Getting Flock Out|Flock termination statement]], the mayor praised Stepp by name: "Interim APD Chief Stepp has already begun this work and I applaud her efforts to address community concerns through sound, transparent and protective policies" ([WLOS](https://wlos.com/news/local/asheville-mayor-esther-manheimer-vote-end-city-flock-safety-contract-remove-cameras-backlash-automatic-license-plate-readers-data-surveillance)), public praise landing weeks before the permanent-chief decision.
 - **Her own announced venues:** the town halls and listening sessions she promised are the place to ask, on the record: *Where are the audit reports state law requires ([[Records Center|G.S. 20-183.31(a)(7)]])? Why do the dashboards 404? Has the city revoked ACEIP Tier 1?*
 - **Her own standard:** "Trust will not be assumed. It will be demonstrated." Agreed. The [[Promise Tracker]] is the scoreboard.
 

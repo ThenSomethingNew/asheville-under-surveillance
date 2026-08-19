@@ -20,8 +20,10 @@ Her posts add two important details: she describes the "keep one camera" idea as
 
 Track this at [[Promise Tracker|Promise Tracker row 11]]. It matters for two reasons: it's documented proof that conditions attached to the RTIC votes are not self-enforcing, and it makes Turner the natural second vote for putting conditions **in writing, by ordinance**. The complete four-part exit motion is drafted and waiting at [[Getting Flock Out]].
 
+**And it moved something.** Two days after her August 17 "calling my colleagues" update, [[Esther Manheimer|the mayor]] called for a vote at the August 25 meeting to terminate the Flock contract and remove the cameras ([WLOS](https://wlos.com/news/local/asheville-mayor-esther-manheimer-vote-end-city-flock-safety-contract-remove-cameras-backlash-automatic-license-plate-readers-data-surveillance)). Whatever else drove the timing, the sequence on the record is: Turner documents the broken condition publicly, then the termination vote appears. The condition she attached in May gets its enforcement vote only after she went public in August.
+
 ## Questions for her
 
 Will she move to enforce her condition: a council motion setting a removal deadline for the city's Flock cameras? Would she support a feature-activation rule and published audits ([[Promise Tracker]])? Contact: sageturner@avlcouncil.com
 
-*Last updated: Aug 17, 2026*
+*Last updated: Aug 19, 2026*
