@@ -28,4 +28,6 @@ Consulted ACLU-NC and EFF during the RTIC fight; appeared on the RE:FUSUS panel 
 
 One more entry for the record: on August 19, 2026, [[Esther Manheimer|Manheimer]] called for terminating the Flock contract and removing the cameras ([WLOS](https://wlos.com/news/local/asheville-mayor-esther-manheimer-vote-end-city-flock-safety-contract-remove-cameras-backlash-automatic-license-plate-readers-data-surveillance)). Roney has been the sole no on every surveillance vote since January 2023, and said the Flock half plainly at the [[2026-05-07 Agenda Briefing|May 7 briefing]], three months before the mayor arrived there: "I think even having one of them isn't good for our community."
 
-*Last updated: Aug 19, 2026*
+At the [[2026-08-20 Agenda Briefing|August 20 briefing]] she did the follow-through work on the mayor's proposal: read the staff memo revealing the Axon plate reader expansion into the record and asked for it published, warned that exiting cities have had to **cover cameras Flock wouldn't remove**, called for the [[The RTIC Policy|ACEIP documents]] to go on the city's dashboard, flagged the ACLU's guidance against [[What Is the RTIC|real-time intelligence centers]] ("we still have some work to do there"), and asked for multiple overflow rooms so Tuesday's crowd isn't left outside without a bathroom again. Her framing of the remaining problem: "if we cancel the Flock contract and replace [it] with Axon's same functioning equipment, then we still have a violation of our constitutional rights problem."
+
+*Last updated: Aug 20, 2026*

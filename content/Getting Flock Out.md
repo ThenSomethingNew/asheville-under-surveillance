@@ -22,6 +22,13 @@ Two more things the statement doesn't touch: the [[Buncombe County|county's]] Fl
 
 And it stays a statement until the vote. The record here is specific: [[Promise Tracker|promised outcomes]] around Flock have slipped before, most recently the removal condition Turner says her May 12 vote depended on. What turns this one real: a yes vote August 25, then dates, then the [[Records Center|paper]]. The agenda posts Friday, August 21 at noon.
 
+**Updated after the August 20 agenda briefing** ([[2026-08-20 Agenda Briefing|full write-up]]), which moved several pieces:
+
+- **The one-camera plan is dead**: the mayor disclosed that Flock changed its policy to require **10 cameras minimum** for system access. Flock itself just proved this page's core claim: the camera was a token; the product is the network. Termination now ends APD's Flock participation by the vendor's own rule, which substantially covers demand 3, though written confirmation that all user accounts and Lookup enrollments are closed is still the record to demand.
+- **Removal mechanics confirmed**: "the cameras are technically not ours. They're Flock's, and they have to come remove them." Termination is the removal trigger; a **date certain and covered lenses until removal** (demand 2, plus [[Kim Roney|Roney]]'s cover-them-up ask, made at the briefing) are what's still missing.
+- **The vendor swap is in writing**: a staff memo read into the record says the city is "expanding and integrating **Axon's automated license plate reader capabilities**" while Flock is "rightsized," and the mayor confirmed Axon stationary readers are "in the pipeline." **Demand 7 is now the sharpest ask on this page.**
+- The resolution adds policy work: civil-liberties policy recommendations, an ACLU expert working with the chief, and a facial recognition restatement. Good, and all of it policy rather than ordinance; [[Promise Tracker|the tracker]] holds it.
+
 ## What one camera actually keeps: everything
 
 The critical technical fact, documented nationally: **Flock's search network is an agency-account feature, not a camera feature.** An agency with National Lookup enabled searches the entire ~80,000-camera national network (and its data-sharing relationships persist) regardless of how many cameras it owns. The proof points:

@@ -15,6 +15,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 ## The record: how it happened
 
+- **[[2026-08-20 Agenda Briefing|Aug 20, 2026: The Termination Resolution, Previewed]]**: Flock's new 10-camera minimum kills the one-camera plan, and a staff memo says Axon plate readers are "expanding."
 - **[[2026-05-12 City Council|The May 12 Vote]]**: Minute-by-minute reconstruction of the midnight vote, from the city's own video.
 - **[[2026-05-07 Agenda Briefing|May 7: The Contract That Didn't Exist]]**: Five days out: the contract isn't written, and "one camera" is explained as a network subscription.
 - **[[2026-04-28 Work Session|April 28: The Sales Pitch]]**: Vendor reps flown in, no public comment, the Durham example collapsing live.

@@ -92,6 +92,8 @@ Two email chains ([the ACEIP chain](assets/policy-1703/axon-ceip-appendix.pdf) Â
 
 **And a detail that needs no commentary:** every email from Axon's account rep to APD carries the signature banner "**Request a demo of our Fixed ALPR here!**" While Asheville debates removing Flock's fixed plate readers, the replacement vendor is marketing its own fixed plate readers in the footer of the paperwork. [[Getting Flock Out|Demand 7]] exists for exactly this.
 
+**One-day epilogue:** at the [[2026-08-20 Agenda Briefing|August 20 agenda briefing]], hours after these records went public, [[Kim Roney]] asked for the ACEIP documents to be posted to the city's transparency dashboard, and an exchange about the advisory committee produced this, from the dais: "it is a committee of eight people and 16 people... we don't know who's" on it. Sitting council members, unsure who writes the surveillance policy. For the concluded workgroup, the notes above are the answer.
+
 ## The documents
 
 All seven, with the public links and this site's archived copies:

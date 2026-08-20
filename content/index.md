@@ -53,6 +53,7 @@ Here's the whole story in one look. Every entry links to a deeper page with sour
 <ul>
 <li><strong>Aug 19: the mayor called for terminating the Flock contract</strong>, with a council vote set for Tuesday. What the proposal covers, what it leaves out, and why it happened: <a href="./Getting-Flock-Out">Getting Flock Out</a></li>
 <li><strong>Aug 20: the RTIC's rulebook surfaced</strong> via records requests: the draft policy, the private workgroup's notes, and the Axon contract emails, analyzed line by line. <a href="./The-RTIC-Policy">The RTIC Policy</a></li>
+<li><strong>Aug 20: council previewed the termination resolution.</strong> Flock now requires 10 cameras for system access (the one-camera plan is dead), and a staff memo says Axon plate readers are "expanding" as Flock exits. <a href="./Meetings/2026-08-20-Agenda-Briefing">The briefing, timestamped</a></li>
 <li>It's the <strong>DeFlock National Week of Action</strong> (Aug 16–22): events all week, Friday celebration at Cooperative Coffee. <a href="./Get-Involved">Details</a></li>
 <li><strong>Council votes Tuesday, Aug 25</strong> at 5 PM, City Hall, on authorizing the termination. Public comment is open. <a href="./Speak-at-Council">Speak at council</a></li>
 <li>The <strong>permanent police chief decision</strong> is expected by the end of September, made by the city manager, not by any vote. <a href="./People/">Who's deciding</a></li>
