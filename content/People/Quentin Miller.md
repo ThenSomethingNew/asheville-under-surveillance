@@ -14,6 +14,10 @@ The architect of mass surveillance in [[Buncombe County]]. His office built the 
 
 He publicly credits the network for county crime reductions ([WLOS](https://wlos.com/news/local/crime-takes-a-dive-in-buncombe-county-sheriff-credits-community-connection-innovative-technology-north-carolina-state-bureau-of-investigations-annual-crime-report-real-time-intelligence-center)), claims the state's own SBI data undermines: his "15% countywide drop" was actually his unincorporated-county slice; **countywide violent crime rose 12.7% the same year** (a point first made publicly by [[Chuck Edwards]], who later funded Asheville's RTIC); by 2024 his jurisdiction's crime was **rising against a falling state baseline**, with burglary +42%; and camera-less Catawba County outperformed Buncombe by 17 points over the same window. **No independent evaluation of his RTIC has ever been conducted.** Full data workup with SBI tables: [[Their Claims vs The Record]]. His office touts a Fusus advisory board ("the only sheriff's office in the state" with one), though its membership, powers, and minutes are not public.
 
+## In the policy workgroup's notes (June 2026)
+
+Miller sat on the city's private [[The RTIC Policy|RTIC policy workgroup]], and APD's own meeting notes preserve his framing candidly: "the RTIC is **not an invasion of privacy**, but a tool used only when requested"; audits "serve **internal purposes rather than the public directly**, our messaging must emphasize that this technology enables real-time oversight of officer activity"; and on money, "**seized drug money** initially funded this expensive system" at his office, grants are "temporary relief," and long-term sustainability "requires the community to embrace the program." He also made the workgroup's best suggestion, recorded and not adopted: "consider having **those who are opposed** join us at the table in these discussions."
+
 ## The other side of his record: limiting ICE
 
 The record should hold this honestly: Miller has taken documented stands **limiting federal reach**: questioning ICE detainers on constitutional grounds and barring ICE from county schools without court orders. ([Bolts](https://boltsmag.org/buncombe-county-district-attorney-sheriff-elections-and-state-preemption/)) The tension is structural: the network he built is exactly the kind of infrastructure that outlives any one sheriff's restraint. A successor inherits the cameras; the ICE commitments are his alone.
@@ -22,4 +26,4 @@ The record should hold this honestly: Miller has taken documented stands **limit
 
 Will he publish the Fusus network's search audit logs and the advisory board's minutes? What binds his ICE commitments after 2030? Faces [[Gary Parris]] in November; see [[Election 2026]].
 
-*Last updated: Aug 17, 2026*
+*Last updated: Aug 20, 2026*

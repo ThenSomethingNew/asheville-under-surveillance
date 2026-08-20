@@ -24,9 +24,15 @@ Everything on this site traces back to documents like these. Read them yourself.
 
 The full meeting archive: [2020–present](https://www.ashevillenc.gov/government/city-council-meeting-materials/) · [2012–2019](https://www.ashevillenc.gov/city-council-meeting-material-archives/). I also hold a local transcript corpus of 102 council meeting videos.
 
+## The August 20, 2026 release: the RTIC's rulebook
+
+Seven documents from two public records requests (PRR-2026-837 and PRR-2026-840), shared publicly by [[Get Involved|Sunshine Labs]]' Patrick Conant: **four drafts of APD Policy 1703** (the RTIC's governing policy, facial recognition ban included, effective date still blank), the **private policy workgroup's meeting notes** (June 11 – July 23, 2026), and **two Axon email chains** showing the contract went for signature July 16, a second contract for 20 Axon Fleet in-car plate readers, and the ACEIP data-program opt-out. Full analysis, all seven links, and archived copies: [[The RTIC Policy]]. ([Drive folder](https://drive.google.com/drive/folders/1mG6XIboFMJ12kAGy8sB3Jht8fhaWDUEj))
+
 ## APD's own policies
 
 APD publishes its policy manual publicly on [PowerDMS](https://public.powerdms.com/ASHV/tree): 116 documents. The ones that matter here:
+
+- **[[The RTIC Policy|Policy 1703: Real Time Intelligence Center]]** (not yet on PowerDMS; released in draft via records request Aug 20, 2026): the RTIC's own four-page rulebook. See the dedicated page for what it says, what changed between drafts, and what's missing.
 
 - **[Policy 505: Automated License Plate Recognition](https://public.powerdms.com/ASHV/documents/3369604)**, the written policy NC law requires. Original issue March 2024; **last revised May 5, 2026, one week before council voted**, and the revision already assigns responsibilities to "the RTIC supervisor," for a center council had not yet approved. Governs hot lists, data access, 30-day retention, preservation requests.
 - [Policy 510: Recording Devices](https://public.powerdms.com/ASHV/documents/684887) · [SOP 3102: Body-Worn Cameras](https://public.powerdms.com/ASHV/documents/1300080) · [Policy 1701: Criminal Intelligence](https://public.powerdms.com/ASHV/documents/39) · [Policy 206: Technology Use and Security](https://public.powerdms.com/ASHV/documents/78)

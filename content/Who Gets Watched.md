@@ -3,7 +3,7 @@ title: Who Gets Watched
 description: The lived stakes of the RTIC for three groups Asheville's camera network will touch first. Immigrant families, people traveling here for reproductive care, and anyone who shows up to a protest. Documented from audit logs, sworn affidavits, and a Senate investigation.
 ---
 
-When residents told council their fear was federal agencies reaching Asheville's cameras, Deputy Chief Shawn Aardema answered with a promise: **"We control Axon Fusus and we will not be sharing information with federal immigration."** ([WLOS, May 14, 2026](https://wlos.com/news/local/asheville-police-department-city-council-new-surveillance-technology-violent-crimes-real-time-intelligence-center-housing-authority-patrol-officers-immigration-customs-enforcement-community-members-federal-government-investigation))
+When residents told council their fear was federal agencies reaching Asheville's cameras, Deputy Chief Sean Aardema answered with a promise: **"We control Axon Fusus and we will not be sharing information with federal immigration."** ([WLOS, May 14, 2026](https://wlos.com/news/local/asheville-police-department-city-council-new-surveillance-technology-violent-crimes-real-time-intelligence-center-housing-authority-patrol-officers-immigration-customs-enforcement-community-members-federal-government-investigation))
 
 This page is about that promise, because it is the *same promise*, sometimes word for word, that officials made in Evanston, Denver, Spokane, Minneapolis, and San Diego before their own audit logs proved otherwise. What follows is not speculation about what could happen. It is the documented record of what did happen, everywhere the records have been pulled.
 

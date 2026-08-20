@@ -135,6 +135,14 @@ A request needs no magic words. State that you are requesting public records und
 
 **What it proves:** who initiated the money that council was later told it would be wasteful to refuse, and exactly which officials knew, and when, while the elected body did not. ([[Chuck Edwards]]). **Status: not yet filed**
 
+### 15. The loose ends the August 20 release exposed
+
+**To: City of Asheville.** [[The RTIC Policy|Released emails]] show the Axon contract went for signature July 16, 2026; a separate contract for **20 Axon Fleet in-car plate readers** in its "final signature stage"; an ACEIP data-program opt-out resting on a sales rep's email ("I've opted you out") rather than any contract term; and workgroup notes saying city-county RTIC alignment "will be formalized in an MOU."
+
+> Under N.C.G.S. Chapter 132, I request: (1) the fully executed Axon combined contract transmitted for signature on or about July 16, 2026, with all quotes, appendices, and the FUSUS contingency language; (2) the fully executed contract for the 20 Axon Fleet cameras referenced in July 2026 correspondence between APD and Axon; (3) Axon's written confirmation of the City's withdrawal from the Axon Customer Experience Improvement Program (ACEIP), both tiers, which Axon's published policy states is provided within 30 days of a request; (4) any executed or draft memorandum of understanding between the City of Asheville and Buncombe County concerning Real-Time Intelligence Center alignment, operations, or data sharing; (5) the effective date and final signed version of APD Policy 1703.
+
+**What it proves:** whether the contract council approved sight-unseen matches what was signed; what the never-announced in-car plate reader expansion covers; whether the data-program opt-out was ever formalized; and what the regional MOU commits the city to before anyone votes on it. **Status: not yet filed**
+
 ## When they say no
 
 Expect these, and know what each refusal means:

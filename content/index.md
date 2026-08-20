@@ -52,6 +52,7 @@ Here's the whole story in one look. Every entry links to a deeper page with sour
 <p><strong>Happening now</strong> <em>(updated Aug 19, 2026)</em></p>
 <ul>
 <li><strong>Aug 19: the mayor called for terminating the Flock contract</strong>, with a council vote set for Tuesday. What the proposal covers, what it leaves out, and why it happened: <a href="./Getting-Flock-Out">Getting Flock Out</a></li>
+<li><strong>Aug 20: the RTIC's rulebook surfaced</strong> via records requests: the draft policy, the private workgroup's notes, and the Axon contract emails, analyzed line by line. <a href="./The-RTIC-Policy">The RTIC Policy</a></li>
 <li>It's the <strong>DeFlock National Week of Action</strong> (Aug 16–22): events all week, Friday celebration at Cooperative Coffee. <a href="./Get-Involved">Details</a></li>
 <li><strong>Council votes Tuesday, Aug 25</strong> at 5 PM, City Hall, on authorizing the termination. Public comment is open. <a href="./Speak-at-Council">Speak at council</a></li>
 <li>The <strong>permanent police chief decision</strong> is expected by the end of September, made by the city manager, not by any vote. <a href="./People/">Who's deciding</a></li>
@@ -81,7 +82,7 @@ This site has more than fifty pages. Start with what you need:
 <div class="door"><span class="door-k">I want to act</span><p class="door-t">Do something</p><ol>
 <li><a href="./Getting-Flock-Out">Help get Flock all the way out (vote Aug 25)</a></li>
 <li><a href="./Speak-at-Council">Speak at council (3 minutes, here's how)</a></li>
-<li><a href="./Records-Center">File a records request (14 pre-written)</a></li>
+<li><a href="./Records-Center">File a records request (15 pre-written)</a></li>
 <li><a href="./Get-Involved">Join the people already organizing</a></li>
 </ol></div>
 </div>
@@ -93,7 +94,7 @@ Or go straight to **[[Browse Everything]]**: every page, on one list.
 This is built to be a working tool, not just a story. For anyone who wants to go deeper than a headline:
 
 - **Verify anything yourself.** Every quote links a timestamp in the city's own videos; every document links its source. If I say someone said it, you can watch them say it.
-- **[[Records Center|File a records request]].** Fourteen pre-written requests, with the exact filing portals, that would answer this site's open questions. A refusal is an answer too.
+- **[[Records Center|File a records request]].** Fifteen pre-written requests, with the exact filing portals, that would answer this site's open questions. A refusal is an answer too.
 - **[[Claims Library|Cite the facts]].** Sourced, citable facts formatted for letters, op-eds, and petitions.
 - **[[Documents|Read the primary sources]]** (minutes, resolutions, policies, contracts) and [[Sources|the full bibliography]].
 - **[[The People Who Showed Up|Read what your neighbors said]].** 36 residents already made the arguments at council, on the record, verbatim.

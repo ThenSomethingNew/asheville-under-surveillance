@@ -24,6 +24,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[The People Who Showed Up]]**: 36 residents, nine meetings, all but one opposed: the community's strongest arguments, verbatim and timestamped.
 - **[[Oversight Theater]]**: Thirty-five years of promised police oversight in Asheville, and the powerless versions delivered every time.
 - **[[The Committee|The Public Safety Committee]]**: Every recorded meeting, reviewed: zero RTIC oversight, 93 people charged under the ordinance it did advance; and the one meeting that touched the RTIC has no recording.
+- **[[The RTIC Policy]]**: The released rulebook: what Policy 1703 says, what disappeared between drafts, the private workgroup that wrote it, and the Axon contract emails.
 - **[[Promise Tracker]]**: What APD promised on the record, and whether it holds.
 - **[[Their Claims vs The Record|Their Claims vs. The Record]]**: Every claim used to sell the RTIC, quoted exactly, answered with the documented record.
 
@@ -45,7 +46,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 ## Act
 
-- **[[Records Center]]**: Fourteen pre-written public records requests that would answer this site's open questions. Copy, paste, file. Refusals are answers too.
+- **[[Records Center]]**: Fifteen pre-written public records requests that would answer this site's open questions. Copy, paste, file. Refusals are answers too.
 - **[[Election 2026]]**: Where every candidate stands, including the ones staying silent. Early voting starts **Oct 15**.
 - **[[People/index|People]]**: Profiles of every official and candidate: their votes, their words, their silence.
 - **[[Claims Library]]**: Citable, sourced facts for petitions, letters, and op-eds.
