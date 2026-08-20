@@ -19,7 +19,7 @@ The March primary cut twenty candidates to six. Three are incumbents who **voted
 
 | Candidate | RTIC record | Campaign position |
 |---|---|---|
-| **[[Maggie Ullman]]** (i) | Voted yes, May 12 (6–1, [[2026-05-12 City Council|confirmed on video]]) | No public position found (as of Aug 17, 2026) |
+| **[[Maggie Ullman]]** (i) | Voted yes and seconded both motions, May 12 (6–1, [[2026-05-12 City Council|confirmed on video]]) | First public position **Aug 20, 2026**, at the [[2026-08-20 Agenda Briefing|agenda briefing]]: supports pulling the Flock cameras now ("I'm happy to move forward on just pulling them now"), but "get rid of Axon... starts to hit a wall where I can't fathom pulling back on our transparency tools." Unanswered: whether the wall covers Axon's fixed plate readers. |
 | **[[Antanette Mosley]]** (i, Vice Mayor) | Voted yes, May 12 (6–1, [[2026-05-12 City Council|confirmed on video]]) | No public position found (as of Aug 17, 2026) |
 | **[[Sheneika Smith]]** (i) | Voted yes, May 12 (6–1, [[2026-05-12 City Council|confirmed on video]]); in 2025 suggested a community forum on the RTIC that was never held | No public position found (as of Aug 17, 2026) |
 | **[[Drew Ball]]** (county commissioner) | — | No public position found (as of Aug 17, 2026) |
