@@ -1,5 +1,5 @@
 ---
-title: "May 7, 2026: The Contract That Didn't Exist"
+title: "2026-05-07: The Contract That Didn't Exist"
 description: Five days before the vote, the city manager confirmed the Axon contract council would authorize had not been written, and the "keep one Flock camera" plan was explained, on the record, as a subscription key to everyone else's cameras. Timestamped from the city's video.
 ---
 

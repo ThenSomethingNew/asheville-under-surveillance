@@ -1,5 +1,5 @@
 ---
-title: "Aug 20, 2026: The Termination Resolution, Previewed"
+title: "2026-08-20: The Termination Resolution, Previewed"
 description: "The day after the mayor's Flock statement, council previewed the actual resolution: Flock now requires 10 cameras for system access, the cameras belong to Flock, a staff memo says Axon plate readers are 'expanding,' and the mayor confirms replacements are 'in the pipeline.'"
 ---
 

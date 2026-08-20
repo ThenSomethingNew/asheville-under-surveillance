@@ -1,5 +1,5 @@
 ---
-title: "April 28, 2026: The Sales Pitch"
+title: "2026-04-28: The Sales Pitch"
 description: The vendor work session that substituted for public process; Axon, Flock, and APD's claims, verbatim from the city's video, with the record beside each.
 ---
 

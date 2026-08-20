@@ -1,5 +1,5 @@
 ---
-title: "May 12, 2026: Anatomy of the RTIC Vote"
+title: "2026-05-12: Anatomy of the RTIC Vote"
 description: The minute-by-minute record of how Asheville's surveillance center was approved, reconstructed from the city's own meeting video, with timestamps.
 ---
 
