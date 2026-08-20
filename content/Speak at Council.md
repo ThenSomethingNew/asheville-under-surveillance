@@ -7,7 +7,7 @@ You get three minutes. The [[2026-05-12 City Council|May 12 vote]] proved that s
 
 ## Where and when
 
-- **City Council**: 2nd and 4th Tuesdays, 5 PM, Council Chamber, City Hall (70 Court Plaza). **Next: Tuesday, Aug 25.** Agendas post the [Friday before](https://www.ashevillenc.gov/government/city-council-agenda/); check whether anything surveillance-related is on the consent agenda; that's where it's been buried twice.
+- **City Council**: 2nd and 4th Tuesdays, 5 PM, Council Chamber, City Hall (70 Court Plaza). **Next: Tuesday, Aug 25, and it's a big one: the mayor has called for a vote to terminate the Flock contract.** The eight demands that make that vote a real exit, and who should carry which, are at [[Getting Flock Out]]. Agendas post the [Friday before](https://www.ashevillenc.gov/government/city-council-agenda/); check whether anything surveillance-related is on the consent agenda; that's where it's been buried twice.
 - **[[The Committee|Public Safety Committee]]**: last Thursday of odd-numbered months, 11 AM, virtual ([livestream](https://publicinput.com/d81053)). **Next: Thursday, Sept 24** (confirmed on the [city's committee page](https://www.ashevillenc.gov/government/city-council-committees/public-safety-committee/)). Chaired by [[Bo Hess]], the [[What Is the RTIC|RTIC]]'s strongest supporter, with [[Antanette Mosley|Mosley]] and [[Sheneika Smith|Smith]]. This is where implementation oversight actually happens, and almost nobody attends.
 - **Anytime:** email **avl-city-council@publicinput.com** (goes to all members and into the record) · voicemail 855-925-2801, code 10332 · individual members' emails are on the [city roster](https://www.ashevillenc.gov/government/meet-city-council/).
 - **RTIC tours**: every other Thursday, 2–4 PM, register at 828-259-5881. Go with the [[Promise Tracker]] and write down what they tell you.
@@ -29,7 +29,7 @@ Comment runs **3 minutes per speaker, capped at 1 hour per item**. On May 12 tha
 
 ## The asks: specific, answerable, on the record
 
-These are the accountability demands already in motion ([[Get Involved|CAMS]]'s core three, plus the structural fix). Any speaker can carry one:
+These are the accountability demands already in motion ([[Get Involved|CAMS]]'s core three, plus the structural fix). Any speaker can carry one. **For the August 25 Flock termination vote specifically, use the [[Getting Flock Out|eight Flock-exit demands]] instead; they're written for that motion.** The standing asks:
 
 1. **Release the contract.** "The final Axon contract was not public before the vote. Will the city release the full executed contract, including pricing schedules and renewal terms?"
 2. **Publish the audit logs.** "APD promised quarterly audits of RTIC access. Will those audits be published (not summarized, published), and when is the first one due?"

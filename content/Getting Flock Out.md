@@ -1,9 +1,9 @@
 ---
 title: Getting Flock Out
-description: The mayor called for Flock termination Aug 19; council votes Aug 25. The four-part test that separates a real exit from a vendor swap, and how the proposal scores so far.
+description: The campaign page. Council votes on Flock termination Aug 25; here are the eight demands that make it real, what one person can do this week, the cities that got it right, and why the work isn't done when Flock is out.
 ---
 
-Council's answer to Flock criticism has been a vendor swap: fold everything into Axon, wind Flock down, maybe keep "one camera" through the contract's end. This page explains why that isn't an exit, and exactly what a real one looks like. As of August 19, that standard has a live test: the mayor has called for a termination vote.
+This is the campaign page for getting Flock all the way out of Asheville. For a year, council's answer to Flock criticism was a vendor swap: fold everything into Axon, wind Flock down, maybe keep "one camera" through the contract's end. As of August 19 there's a live test of whether that changes: the mayor has called for a termination vote on **August 25**. This page has the eight demands that turn a termination vote into an actual exit, what one person can do this week, the cities that already did this work, and the reason to stay in your seat afterward: **when Flock is out, the work is not done.**
 
 ## Aug 19, 2026: the mayor calls for termination. Score it against the exit test.
 
@@ -40,16 +40,34 @@ What's on the record: [[Sage Turner]] says her Axon yes was conditioned on Flock
 
 **And a live item:** Turner's August 13 update said the **complete [[What Axon Contracts Do|Axon contract]] would be made public the next day**. Whether that release actually happened is unverified; checking it is the single most urgent records task on this site, because everything from retention terms to fixed-ALPR authority turns on that text. ([her post](https://www.facebook.com/sageforasheville/posts/1390155866614419/))
 
-## The four-part exit: the actual motion
+## The eight demands: what the August 25 motion needs to contain
 
-Assembled from the cities that exited for real (and the ones that thought they had: see Evanston, where Flock **reinstalled terminated cameras** and the last ones came down only after press inquiry, six months later):
+Assembled from the cities that exited for real (and the ones that thought they had: see Evanston, where Flock **reinstalled terminated cameras** and the last ones came down only after press inquiry, six months later). The first four end Flock. The last four prove it happened and close the doors it leaves open. Every one is specific enough to put to a council member as a yes-or-no.
+
+**End Flock (the four-part exit):**
 
 1. **Terminate the Flock agreement in writing**: not "deactivate," not "let it wind down." (Evanston's lesson: Flock contests soft exits.)
-2. **Verified physical removal by a date certain**, publicly confirmed. (Pittsboro's motion said "no later than July 1." Evanston's lacked a deadline and paid for it.)
-3. **Terminate every APD Flock user account, search license, and National/statewide Lookup enrollment**: the part every soft exit skips, and the part that actually ends network access. (The Austin lesson; the CBP zero-camera proof.)
-4. **Written data-deletion certification from Flock**, checked against the city's [Flock transparency portal](https://transparency.flocksafety.com/asheville-nc-pd), plus policy language restricting informal ALPR requests to other agencies, because APD can already reach the Sheriff's 1,800-camera network and neighboring Flock towns the way Austin reached Round Rock.
+2. **Verified physical removal of all 11 city cameras by a date certain**, publicly confirmed. (Pittsboro's motion said "no later than July 1." Evanston's lacked a deadline and paid for it.)
+3. **Terminate every APD Flock user account, search license, and National/statewide Lookup enrollment**: the part every soft exit skips, and the part that actually ends network access. (The Austin lesson; the CBP zero-camera proof, both documented below.)
+4. **Written data-deletion certification from Flock**, checked against the city's [Flock transparency portal](https://transparency.flocksafety.com/asheville-nc-pd). The mayor's proposed "transparent policy" on data handling is a city document; this is the vendor, in writing, confirming Asheville's 3.1 million plate scans are gone.
 
-NC precedent says the full exit is the *winnable* ask: in Pittsboro, a "keep with guardrails" compromise **failed**, and outright termination then **passed**. Hillsborough terminated unanimously and had cameras out in five weeks. [[Macon County]] defunded 5–0 and removed twelve cameras immediately.
+**Prove it, and close the doors (the transparency demands):**
+
+5. **Publish the paper.** The termination letter, Flock's written acknowledgment, the deletion certification, and a final list of every agency Asheville shared plate data with, posted on the city site, not summarized in a press release. A [[Records Center|records request]] shouldn't be required to confirm the city did what it voted to do.
+6. **Bind the informal channel.** Policy language, with a penalty, restricting APD from requesting ALPR searches from other agencies as a workaround, because APD can already reach the [[Buncombe County|Sheriff's ~1,800-camera network]] and neighboring Flock towns exactly the way Austin reached Round Rock after its "removal."
+7. **Close the replacement door.** A separate, public council vote required before any fixed Axon plate reader goes up. Under the [[What Axon Contracts Do|Axon contract]]'s baseline terms, **Axon's fixed ALPR poles (Outpost and Lightpost) are already authorized**, needing no new procurement and no council vote: without this demand, "Flock removal" can mean identical cameras with a different logo, on the same corners, inside the same [[What Is the RTIC|RTIC]]. ([[What Axon Contracts Do#The lock-in: documented, not theoretical|the lock-in terms]])
+8. **Release the executed Axon contract.** [[Promise Tracker|Promise Tracker row 12]]: its public release was promised for mid-August and hasn't happened. Every question about what replaces Flock (retention, fixed cameras, data programs, exit rights) is answered by that text and nothing else. ([[What Axon Contracts Do#The rider checklist: all proven gettable|the rider checklist to check it against]])
+
+## The cities that already did this, so nobody has to guess
+
+This isn't theoretical; it's the [[The National Wave|national record]], and the [[How Cities Won|full page on how cities won]] has the mechanics. The short version, closest to home first:
+
+- **[[Macon County]], NC (July 2026):** commissioners voted **5–0** to let the Flock contract lapse; twelve cameras came down immediately. The push came largely from Republican residents: this is not a partisan ask.
+- **Pittsboro, NC:** the instructive sequence: a "keep with guardrails" compromise **failed**, then outright termination **passed**, with a removal deadline in the motion ("no later than July 1"). The full ask was the winnable ask.
+- **Hillsborough, NC:** terminated unanimously; cameras out in **five weeks**. The NC benchmark for how fast this goes when a council means it.
+- **Austin, TX (the account warning):** removed every camera, and APD kept searching Flock's network through two neighboring towns until journalists caught it. Council member Mike Siegel: "a violation of the intent of council policy." ([KUT](https://www.kut.org/crime-justice/2026-02-12/austin-tx-apd-flock-cameras-license-plate-readers)) This is why demand 3 exists.
+- **Evanston, IL (the paperwork warning):** terminated, then Flock **reinstalled cameras anyway**; the last came down six months later, after press inquiry. This is why demands 1, 2, and 5 exist.
+- **And the wave itself:** Guadalupe County, TX terminated its contract on August 7, citing "public scrutiny" ([KSAT](https://www.ksat.com/news/local/2026/08/08/guadalupe-county-terminates-contract-with-flock-safety-citing-public-scrutiny/)), and more than 20 jurisdictions ended or began ending Flock use in July 2026 alone, the most in a single month on record ([WLOS](https://wlos.com/news/local/asheville-mayor-esther-manheimer-vote-end-city-flock-safety-contract-remove-cameras-backlash-automatic-license-plate-readers-data-surveillance)). The 50+ community record, across the political spectrum: [[The National Wave]].
 
 ## The Axon side isn't the safe harbor
 
@@ -71,11 +89,39 @@ The swap's implicit pitch ("Axon is the responsible vendor") doesn't survive the
 
 Every Denver protection would have to exist as an Asheville-specific rider. Whether any does is exactly what the unreleased contract would show; see [[Promise Tracker]] row 12: **its promised public release did not happen.**
 
-## The asks, ready to carry
+## What one person can do, this week and after
 
-- **At the August 25 meeting, where the termination vote now sits:** support the termination, and ask council to put the missing parts in the motion itself: a removal date certain, termination of every APD Flock user account and National Lookup enrollment, and written data-deletion certification from Flock. The sentence to carry to the podium: *"One camera pointed at a wall still searches 80,000 cameras nationwide. Removal without account termination is what Austin did, and Austin kept searching."*
-- **To council (via [[Sage Turner|Turner]]'s opening):** her condition is public and was unmet as of August 17: hand her the four-part motion, so the fix is a real exit rather than pole removal.
-- **To the [[The Committee|Public Safety Committee]] (Sept 24, 11 AM):** put the Flock wind-down timeline and the transparency portal's National Lookup status on the agenda as a **written staff report**, the thing every APD interview has omitted.
-- **To every November candidate, as a two-parter:** *"Will you vote to (a) terminate the Flock contract, remove all city cameras, AND end APD's Flock search accounts with written deletion certification; and (b) require a separate council vote for any fixed Axon ALPR?"* The a/b split separates real exits from vendor swaps.
+The May 12 vote proved showing up isn't sufficient on its own; the August 19 reversal proved it isn't optional either. Every mechanism that moved this (the April turnout, [[Sage Turner|Turner]]'s public documentation, the [[Get Involved|Week of Action]]) was residents. Here's the specific work left, sized for one person:
 
-*Related: [[Sage Turner]] · [[Promise Tracker]] (row 11) · [[How Cities Won]] · [[The National Wave]] · [[Documents]]*
+**Before Tuesday:**
+
+- **Read the agenda Friday.** It posts **Friday, August 21 at noon** ([city agenda page](https://www.ashevillenc.gov/government/city-council-agenda/)). Check the motion's actual text against the eight demands above, and check whether it landed on the consent agenda, where surveillance items have been buried twice.
+- **Email council before the vote**: **avl-city-council@publicinput.com** goes to all members and into the public record, and written comment is unlimited. State support for termination, then name the demands the motion is missing by number. The [[Speak at Council]] page has the full kit.
+- **Come to the Friday Week of Action event** (Cooperative Coffee, evening of Aug 21) to coordinate who covers which demand Tuesday. Twenty people making one point uses twenty slots on one argument; eight people covering eight demands builds a record. [[Get Involved|Details]].
+
+**Tuesday, August 25 (5 PM, City Hall, 70 Court Plaza):**
+
+- **Arrive early and sign up immediately**; the list order decides who speaks if comment is capped, and on May 12 the cap sent 21 people home. Three-minute structure, counterargument replies, and logistics: [[Speak at Council]].
+- **The sentence to carry to the podium:** *"One camera pointed at a wall still searches 80,000 cameras nationwide. Removal without account termination is what Austin did, and Austin kept searching."*
+- **Support the termination out loud.** Council members who vote yes should hear that residents notice; accountability that never says "good, thank you, now finish it" stops working.
+
+**After the vote, whichever way it goes:**
+
+- **Verify, don't trust.** Watch for the removal date, photograph the poles coming down ([DeFlock](https://deflock.org) hosts the crowd-sourced camera map, so removals can be checked against it), and check the [Flock transparency portal](https://transparency.flocksafety.com/asheville-nc-pd) for whether APD's network access actually ends. If the portal page disappears instead, that's a finding too; send it to me via [[Get Involved]].
+- **File the paper trail.** The [[Records Center]] has pre-written requests for exactly this: the termination letter, the deletion certification, the data-sharing agency list, and the audit logs.
+- **Take demands 5 through 8 to the [[The Committee|Public Safety Committee]], September 24 (11 AM, virtual):** ask for the wind-down status and the transparency portal's National Lookup state as a **written staff report**, the thing every APD interview has omitted.
+- **Put the two-parter to every November candidate** ([[Election 2026]]): *"Will you vote to (a) terminate the Flock contract, remove all city cameras, AND end APD's Flock search accounts with written deletion certification; and (b) require a separate council vote for any fixed Axon plate reader?"* The a/b split separates real exits from vendor swaps.
+
+## When Flock is out, the work is not done
+
+Say the vote passes, the poles come down, the accounts close, the certification arrives. What's left standing is most of what this site documents:
+
+- **The [[What Is the RTIC|RTIC]] itself**: the hub Flock fed keeps operating toward its spring/summer 2027 launch, connecting body cameras, drones, Axon's in-car plate readers, and private cameras through Fusus, under a **7.5-year [[What Axon Contracts Do|Axon contract]]** that runs to 2033 and, per its [[What Axon Contracts Do#The money: escalation is the business model|baseline terms]], **auto-renews for five more years** unless someone acts.
+- **The contract nobody has read**: still unreleased ([[Promise Tracker|row 12]]), still governing [[What Axon Contracts Do#The data program you're enrolled in by default|a data program the city is enrolled in by default]], still silent on facial recognition in 112 pages, still authorizing fixed Axon plate readers without another vote. Getting Flock out while that text stays sealed is trading a vendor you can see for one you can't.
+- **The [[Buncombe County|county network]]**: the Sheriff's ~1,800 to 2,000 Fusus cameras, including ~1,500 in schools, untouched by anything council votes on Tuesday, and [[Quentin Miller|on the November ballot]].
+- **The [[Promise Tracker|promises]]**: no facial recognition, no ICE sharing, audits, dashboards; every one still a revisable policy rather than law. The structural fix has a name, [CCOPS](https://www.aclu.org/community-control-over-police-surveillance), an ordinance ~26 cities have passed, and no Asheville official has committed to it.
+- **The [[Election 2026|election]]**: four of the six votes that built this are on the November 3 ballot. A Flock exit eleven weeks before Election Day is a data point; what candidates commit to in writing about the rest of the system is the answer.
+
+Flock is the most visible piece and the most winnable fight, which is exactly why it can't be the last one. The cities that treated the Flock vote as the finish line got the [[The National Wave|vendor swap]]; Syracuse's critics said the Axon switch "solved nothing." The finish line is structural: the contract public, the promises in law, the audits published, and no camera network, city or county, operating without a public vote and a public record.
+
+*Related: [[Speak at Council]] · [[Get Involved]] · [[Records Center]] · [[Promise Tracker]] (rows 11–12) · [[What Axon Contracts Do]] · [[How Cities Won]] · [[The National Wave]] · [[Sage Turner]] · [[Documents]]*

@@ -13,8 +13,9 @@ This site is a reference, not an organization. These are the people doing the or
 - **[Firestorm Books](https://firestorm.coop)** (1022 Haywood Rd): where the events keep happening.
 - **[The Final Straw Radio](https://thefinalstrawradio.noblogs.org)**: Asheville-based radio covering this organizing, on Asheville FM 103.3.
 
-## Three things you can do this month
+## Four things you can do this month
 
-1. **Show up.** Council meets Aug 25 (5 PM, City Hall); the [[The Committee|Public Safety Committee]] meets Sept 24 (11 AM, virtual). See [[Speak at Council]].
-2. **Take the tour.** APD runs public RTIC tours every other Thursday, 2–4 PM (828-259-5881). Go with questions from the [[Promise Tracker]] and write down the answers.
-3. **Ask the candidates.** Not one questionnaire this cycle asked about surveillance. See [[Election 2026]] and put the question to them directly, in public, on the record.
+1. **Help finish the Flock exit.** Council votes **Aug 25** on terminating the Flock contract; the eight demands that make removal real, and the work sized for one person before and after the vote, are at [[Getting Flock Out]].
+2. **Show up.** Council meets Aug 25 (5 PM, City Hall); the [[The Committee|Public Safety Committee]] meets Sept 24 (11 AM, virtual). See [[Speak at Council]].
+3. **Take the tour.** APD runs public RTIC tours every other Thursday, 2–4 PM (828-259-5881). Go with questions from the [[Promise Tracker]] and write down the answers.
+4. **Ask the candidates.** Not one questionnaire this cycle asked about surveillance. See [[Election 2026]] and put the question to them directly, in public, on the record.

@@ -79,6 +79,7 @@ This site has more than fifty pages. Start with what you need:
 <li><a href="./Election-2026">The November ballot</a></li>
 </ol></div>
 <div class="door"><span class="door-k">I want to act</span><p class="door-t">Do something</p><ol>
+<li><a href="./Getting-Flock-Out">Help get Flock all the way out (vote Aug 25)</a></li>
 <li><a href="./Speak-at-Council">Speak at council (3 minutes, here's how)</a></li>
 <li><a href="./Records-Center">File a records request (14 pre-written)</a></li>
 <li><a href="./Get-Involved">Join the people already organizing</a></li>
