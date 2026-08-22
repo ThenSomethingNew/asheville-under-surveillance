@@ -58,4 +58,6 @@ Ready for the podium. Full citations above; the frame is always: *Asheville sign
 11. Axon supplies ICE and DHS, and is negotiating a ~$220M ICE deal; a 7.5-year contract welds Asheville's data infrastructure to that vendor through 2034.
 12. Evanston was told: sign in 72 hours or pay $470K more. A deadline discount is a sales tactic, not a reason to sign a 7.5-year contract nobody has read.
 
+*The company itself, its streetlight plate readers, and its facial-recognition research: [[Axon]].*
+
 *Related: [[Getting Flock Out]] · [[Documents]] · [[Their Claims vs The Record]] · [[Follow the Money]]*

@@ -131,4 +131,6 @@ Say the vote passes, the poles come down, the accounts close, the certification 
 
 Flock is the most visible piece and the most winnable fight, which is exactly why it can't be the last one. The cities that treated the Flock vote as the finish line got the [[The National Wave|vendor swap]]; Syracuse's critics said the Axon switch "solved nothing." The finish line is structural: the contract public, the promises in law, the audits published, and no camera network, city or county, operating without a public vote and a public record.
 
+*The two vendors, side by side: [[Flock Safety]] and [[Axon]].*
+
 *Related: [[Speak at Council]] · [[Get Involved]] · [[Records Center]] · [[Promise Tracker]] (rows 11–12) · [[What Axon Contracts Do]] · [[How Cities Won]] · [[The National Wave]] · [[Sage Turner]] · [[Documents]]*

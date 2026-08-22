@@ -51,6 +51,10 @@ Nine counties, nine sheriffs, and the commissioners and chiefs around them. Five
 
 [[Josh Stein]] vetoed the ICE-cooperation laws and signed the budget that made highway plate readers permanent; [[Jeff Jackson]] has no position on file; [[Chip Hawley]]'s SBI wants cameras at "all entrances and exits to North Carolina"; [[Chuck Edwards]] earmarked the $1.14M and withdrew from the ballot; [[Jennifer Balkcom]] and [[Jamie Ager]] want his seat and have no surveillance record; [[Thom Tillis]] called Buncombe a sanctuary; [[Ted Budd]] co-wrote the bills. The full roster and the legislators' roll calls: **[[People/State/index|Raleigh and Washington]]**. The laws themselves: [[What the Law Lets the County Do]].
 
+## The vendors
+
+[[Rick Smith]] (Axon, the 2033 contract and the streetlight readers) and [[Garrett Langley]] (Flock, the cameras being removed and the network that is not). The companies: [[Companies/index|The Vendors]].
+
 ## The people doing the public's work
 
 [[Patrick Conant]] (Sunshine Labs), [[Jen Hampton]] (Food & Beverage United), [[Rebecca Hecht]] (the first business refusal on record), [[Benn Jordan]] (the Flock investigations), [[Austin Rhodes]] (Henderson's petition), [[Mary Gibson]] (Madison), [[Annie Dance]] (Rutherford), [[Bobby Coggins]] (Macon). The roster: **[[People/Community/index|Community]]**. Also [[The People Who Showed Up]] (36 Asheville residents, verbatim) and [[Get Involved]].

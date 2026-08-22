@@ -51,4 +51,6 @@ The local grounding for why "trust our policies" earns skepticism here specifica
 
 This is why the [[Promise Tracker]] treats every APD commitment as untested until proven, and why the strongest local position is the simplest one: **a system that can only be policed by self-report cannot be policed, and what cannot be policed should not be deployed.**
 
+*See also [[Stories That Check Out]], the dated ledger of incidents by harm, and the company pages [[Flock Safety]] and [[Axon]].*
+
 *Related: [[Promise Tracker]] · [[The National Wave]] · [[WNC and NC]] · [[Claims Library]]*

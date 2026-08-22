@@ -41,4 +41,6 @@ This doesn't prove any official was insincere. It proves **the arguments Ashevil
 - **Flock's sales deck for police** (33 pages, FOIA'd) and user guides are public on [DocumentCloud](https://www.documentcloud.org/documents/20400518-flock-safety-alpr-presentation-for-law-enforcement/); EFF's FOIA'd **12-million-search national log dataset** shows how one search fans across thousands of networks ([EFF](https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists)).
 - **Asheville's Flock procurement, for the record:** the contract runs through reseller Insight Public Sector; extended two years on Feb 1, 2025 (to ~Feb 2027, the "February" in [[Getting Flock Out|the wind-down debate]]); and the original 11-camera deployment (April 2024) appears to have been **grant-funded and administrative; no standalone council vote has been found for it**. The public debate only began when the RTIC money surfaced, two years into the scanning. Result to date: **3.1 million plates scanned, ~5,000 hot-list matches.**
 
+*The company behind the script: [[Flock Safety]]. What its products have done elsewhere, dated: [[Stories That Check Out]].*
+
 *Related: [[Their Claims vs The Record]] · [[2026-04-28 Work Session]] · [[The Check-In Meetings]] · [[What Axon Contracts Do]]*

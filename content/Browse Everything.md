@@ -31,6 +31,9 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 ## The machine and the money
 
+- **[[Companies/index|The Vendors]]**: [[Flock Safety]] and [[Axon]], the two companies behind the buildout: what they sell, who runs them, and their own safeguards dated against what leaked.
+- **[[Stories That Check Out]]**: A dated, sourced ledger of what these systems have already done elsewhere, by harm: federal reach, reproductive care, stalking, wrong-person stops, hidden hardware, leaks.
+
 - **[[Watching the Poor]]**: ~500 cameras already watch Asheville's housing communities. The national record shows exactly what that becomes.
 - **[[Follow the Money]]**: The BID, the TDA, and the surveillance buildout: three money streams, one downtown coalition, the same 6–1 votes.
 - **[[What Axon Contracts Do]]**: What the same paper did to Baltimore, Mesa, Fontana, and Evanston, plus the data program the contract enrolls the city in by default.
