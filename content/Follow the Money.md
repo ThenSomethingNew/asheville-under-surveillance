@@ -21,7 +21,7 @@ The siphon critique is bipartisan and on the record (County Commission chair Bro
 
 ## Stream 3: The RTIC (federal money, city obligation)
 
-The $1.14M is a DOJ earmark; the 7.5-year [[What Axon Contracts Do|Axon contract]] is Asheville's own obligation ([[What Is the RTIC]]). No BID or TDA dollars touch it. What the RTIC *does* take from downtown is different: **cameras**. Its voluntary camera-registration program recruits exactly the businesses the BID assesses and the Chamber organizes.
+The $1.14M is a DOJ earmark; the 7.5-year [[What Axon Contracts Do|Axon contract]] is Asheville's own obligation ([[What Is the RTIC]]). No BID or TDA dollars touch it. (The county's side of the network runs on a different stream: federal forfeiture money, about $988,000 to the Sheriff's Office over eight reported years, tracked on [[Buncombe County]].) What the RTIC *does* take from downtown is different: **cameras**. Its voluntary camera-registration program recruits exactly the businesses the BID assesses and the Chamber organizes.
 
 ## What links the streams: the same coalition
 
