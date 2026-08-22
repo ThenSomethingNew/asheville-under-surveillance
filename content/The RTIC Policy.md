@@ -22,6 +22,8 @@ The final draft of [Policy 1703, Real Time Intelligence Center](assets/policy-17
 - **A wide sharing exception**: RTIC information won't be disclosed to unauthorized parties "except as permitted by law or with a compelling need to share such information for legitimate law enforcement purposes" (1703.3.C). "Permitted by law" and "compelling need" are the entire limit on third-party sharing.
 - **Event work is in the job description**: RTIC employees are responsible for "assisting in planning for public events, large crowds, and special operations" (1703.1.B.2). The June 25 draft said this more plainly; see below.
 
+**Where the sentence came from.** That sharing clause is not APD's. The Buncombe County Sheriff's Office [[Buncombe County|RTIC policy]], approved April 9, 2025, reads: information "shall not be disclosed to any unauthorized person or entity, except as permitted by law or with a compelling need to share such information for legitimate law enforcement purposes." Policy 1703.3.C repeats it word for word. The county policy also still contains two things APD removed from its drafts: the instruction to use cameras near public events "to look for suspicious activity leading up to and during the event," and the once-per-shift review of plate-reader hot-list entries. Asheville's rulebook is the county's, with the candid parts taken out.
+
 ## What changed between drafts
 
 The releases include three dated drafts ([June 25](assets/policy-1703/policy1703-draft-0625.pdf) · [June 29](assets/policy-1703/policy1703-draft-0629.pdf) · [July 9](assets/policy-1703/policy1703-draft-0709.pdf), which matches the final). Laying them side by side shows what the process added, and what it quietly dropped.
