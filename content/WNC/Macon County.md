@@ -29,6 +29,10 @@ The numbers that did it: **16 cameras (12 county, 4 schools), a $31,950 contract
 - **The four school cameras are still unresolved**: commissioners deferred them to school leaders; the school system says **neither MCSO nor Flock has contacted them** about the cameras on their buildings. No school-board vote has ever been taken.
 - **A cautionary note:** the fight's social-media spillover included **false claims that Franklin had Flock cameras** (it has none), escalating to threats against town officials, which handed officials a warning-about-the-opposition story. Getting facts wrong hands officials a weapon; see [[How Cities Won]] on what backfires.
 
+## After the vote: the paperwork that still applies
+
+Removing the cameras did not remove the county from the network. "Macon County NC SO" remains on [[Henderson County]]'s published list of agencies granted access to Henderson's plate reads (Aug 22, 2026); whether anyone in Franklin still logs in is a records question. Macon has no 287(g) agreement with ICE ([ICE list, Aug 21, 2026](https://www.ice.gov/doclib/about/offices/ero/287g/participatingAgencies08212026.xlsx)), and its sheriff, like every sheriff in the state, now operates under HB 318's mandatory ICE notification rules ([[What the Law Lets the County Do]]). The November commission fields are on [Ballotpedia](https://ballotpedia.org/Macon_County,_North_Carolina,_elections,_2026); a week after the vote, neighboring [[Haywood County]]'s chairman cited Macon by name as the example his county would not follow.
+
 ## Watchdogs and video
 
 Independent journalist **Bobby Coggins / [Macon Media](https://www.youtube.com/channel/UC_zzr8r4zmzN9gcuYuNRDvQ)** films Franklin council (which has no official video) and county meetings; the [county commissioners' channel](https://www.youtube.com/channel/UC59-D2PQ94Ax9NAfgyMgJKA) carries the official record, including the July 14 vote. Smoky Mountain News (Kyle Perrotti) has the deepest coverage.
