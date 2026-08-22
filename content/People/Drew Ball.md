@@ -3,7 +3,7 @@ title: Drew Ball
 description: Sitting county commissioner running for city council. No public position on the RTIC.
 ---
 
-**Title:** Buncombe County Commissioner, District 1 · candidate for Asheville City Council · former Director of Environment North Carolina · volunteer firefighter
+**Title:** Buncombe County Commissioner, District 3 (per the county's current roster; district lines were redrawn for 2026) · candidate for Asheville City Council · former Director of Environment North Carolina · volunteer firefighter
 **In this role since:** December 2024 (elected Nov 2024)
 **Current term ends:** — (not seeking commission re-election; redistricting placed him with a fellow incumbent)
 **Next voter decision:** **Nov 3, 2026**: Asheville City Council general; led the March 3 primary (~16%) · [[Election 2026]]
