@@ -24,7 +24,7 @@ Fusus markets this as "one pane of glass": everything, one screen, live.
 
 ## What it can do
 
-Data from Asheville's plate readers is shared with law enforcement agencies within a **500-mile, multi-state radius**, a circle that reaches Atlanta, Nashville, Washington DC, and states with very different laws about abortion, immigration, and protest. Retention is currently set at 30 days (state law allows 90).
+Data from Asheville's plate readers is shared with law enforcement agencies within a **500-mile, multi-state radius**, a circle that reaches Atlanta, Nashville, Washington DC, and states with very different laws about abortion, immigration, and protest. Retention is set at 30 days in APD's policy (state law allows 90); Flock's own [portal for APD](https://transparency.flocksafety.com/asheville-nc-pd) showed 21 days on August 21, 2026. The county's plate readers, which APD also reaches, have no retention number shorter than the statute's 90 ([[Buncombe County]]).
 
 The RTIC's stated purpose is responding to violent crime. Nothing in the approved package structurally limits it to that. What limits exist are APD policies: self-written, self-administered, and changeable without a council vote. See the [[Promise Tracker]] for every commitment APD has made on the record, and its status.
 
