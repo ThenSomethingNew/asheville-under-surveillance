@@ -44,13 +44,15 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[How Cities Won]]**: The mechanics behind every documented rollback: what flips officials, what works, what backfires, and Asheville's exit map.
 - **[[The Abuse Record]]**: How surveillance abuse actually gets discovered (almost never by the safeguards), including NC's own 2026 cases.
 - **[[WNC and NC]]**: Ten community deep-dives, from [[WNC/Asheville|Asheville's own timeline]] to Macon's win to Brevard's live fight.
+- **[[What the Law Lets the County Do]]**: Who can say no to a sheriff's cameras, what the state now compels on immigration, where the data is allowed to go, and the levers that remain.
 
 ## Act
 
-- **[[Records Center]]**: Fifteen pre-written public records requests that would answer this site's open questions. Copy, paste, file. Refusals are answers too.
+- **[[Records Center]]**: Sixteen pre-written public records requests that would answer this site's open questions. Copy, paste, file. Refusals are answers too.
 - **[[Election 2026]]**: Where every candidate stands, including the ones staying silent. Early voting starts **Oct 15**.
 - **[[People/index|People]]**: Profiles of every official and candidate: their votes, their words, their silence.
 - **[[Claims Library]]**: Citable, sourced facts for petitions, letters, and op-eds.
 - **[[Documents]]**: The primary sources: official minutes, resolutions, APD policies, released and refused records.
 - **[[Get Involved]]**: CAMS, Sunshine Labs, SASSI, DeFlockNC, and how to plug in.
 - **[[Sources]]**: Full bibliography.
+- **[[Updates|Site Updates]]**: What changed and when, release by release, with the documents behind each.

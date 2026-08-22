@@ -49,8 +49,9 @@ Here's the whole story in one look. Every entry links to a deeper page with sour
 </div>
 
 <div class="avl-now">
-<p><strong>Happening now</strong> <em>(updated Aug 19, 2026)</em></p>
+<p><strong>Happening now</strong> <em>(updated Aug 22, 2026)</em></p>
 <ul>
+<li><strong>Aug 22: the county side of the record.</strong> The sheriff's own RTIC, plate-reader and drone policies, the forfeiture money behind them, and a neighbor's sharing list of 2,048 agencies including the FBI. <a href="./WNC/Buncombe-County">Buncombe County</a> · <a href="./What-the-Law-Lets-the-County-Do">What the law lets the county do</a></li>
 <li><strong>Aug 19: the mayor called for terminating the Flock contract</strong>, with a council vote set for Tuesday. What the proposal covers, what it leaves out, and why it happened: <a href="./Getting-Flock-Out">Getting Flock Out</a></li>
 <li><strong>Aug 20: the RTIC's rulebook surfaced</strong> via records requests: the draft policy, the private workgroup's notes, and the Axon contract emails, analyzed line by line. <a href="./The-RTIC-Policy">The RTIC Policy</a></li>
 <li><strong>Aug 20: council previewed the termination resolution.</strong> Flock now requires 10 cameras for system access (the one-camera plan is dead), and a staff memo says Axon plate readers are "expanding" as Flock exits. <a href="./Meetings/2026-08-20-Agenda-Briefing">The briefing, timestamped</a></li>
@@ -98,6 +99,7 @@ This is built to be a working tool, not just a story. For anyone who wants to go
 - **[[Records Center|File a records request]].** Sixteen pre-written requests, with the exact filing portals, that would answer this site's open questions. A refusal is an answer too.
 - **[[Claims Library|Cite the facts]].** Sourced, citable facts formatted for letters, op-eds, and petitions.
 - **[[Documents|Read the primary sources]]** (minutes, resolutions, policies, contracts) and [[Sources|the full bibliography]].
+- **[[Updates|See what changed]].** Every release, the pages it touched, and the documents behind it.
 - **[[The People Who Showed Up|Read what your neighbors said]].** 36 residents already made the arguments at council, on the record, verbatim.
 
 ## Share it
