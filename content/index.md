@@ -83,7 +83,7 @@ This site has more than fifty pages. Start with what you need:
 <div class="door"><span class="door-k">I want to act</span><p class="door-t">Do something</p><ol>
 <li><a href="./Getting-Flock-Out">Help get Flock all the way out (vote Aug 25)</a></li>
 <li><a href="./Speak-at-Council">Speak at council (3 minutes, here's how)</a></li>
-<li><a href="./Records-Center">File a records request (15 pre-written)</a></li>
+<li><a href="./Records-Center">File a records request (16 pre-written)</a></li>
 <li><a href="./Get-Involved">Join the people already organizing</a></li>
 </ol></div>
 </div>
@@ -95,7 +95,7 @@ Or go straight to **[[Browse Everything]]**: every page, on one list.
 This is built to be a working tool, not just a story. For anyone who wants to go deeper than a headline:
 
 - **Verify anything yourself.** Every quote links a timestamp in the city's own videos; every document links its source. If I say someone said it, you can watch them say it.
-- **[[Records Center|File a records request]].** Fifteen pre-written requests, with the exact filing portals, that would answer this site's open questions. A refusal is an answer too.
+- **[[Records Center|File a records request]].** Sixteen pre-written requests, with the exact filing portals, that would answer this site's open questions. A refusal is an answer too.
 - **[[Claims Library|Cite the facts]].** Sourced, citable facts formatted for letters, op-eds, and petitions.
 - **[[Documents|Read the primary sources]]** (minutes, resolutions, policies, contracts) and [[Sources|the full bibliography]].
 - **[[The People Who Showed Up|Read what your neighbors said]].** 36 residents already made the arguments at council, on the record, verbatim.
