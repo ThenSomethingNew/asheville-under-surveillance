@@ -22,6 +22,10 @@ The true thing first: this is what residents have demanded for over a year, and 
 
 **What the proposal covers, and what it leaves standing.** Scored against the [[Getting Flock Out|four-part exit]]: it asks for termination (part 1, correctly) and gestures at data policy (part 4, as a city policy rather than vendor certification), but names no removal deadline, and says nothing about APD's Flock search accounts and National Lookup enrollment, the part that actually ends network access; Austin removed every camera and kept searching. And it touches nothing else: not the [[What Axon Contracts Do|7.5-year Axon contract]] (still unreleased, with fixed Axon plate readers already authorized under its terms), not the [[What Is the RTIC|RTIC]], not the [[Buncombe County|county's]] cameras. Removing one vendor's poles while the architecture stands is the swap this site has documented since May.
 
+**The Aug 21 framing.** Previewing the resolution: "It is really confusing... But to me, there are some legitimate concerns around Flock to the degree that I think it's time that we terminate the contract and regroup." The resolution would end a $72,000-a-year contract otherwise running to January 2027, remove 11 readers, and bar city employees from accessing, searching, or sharing Flock data afterward ([BPR/WHQR, Aug 21, 2026](https://www.bpr.org/politics-government/2026-08-21/asheville-considers-early-termination-of-flock-but-leaves-door-open-for-other-license-plate-readers)). "Regroup" leaves the Axon plate readers in the pipeline untouched ([[Getting Flock Out]]).
+
+**On ICE, November 2025.** When federal immigration operations were expected in Asheville, she said "APD does not have the authority to enforce immigration law" and "we stand with all residents" ([WLOS, Nov 2025](https://wlos.com/news/local/north-carolina-asheville-officials-concerned-possible-ice-border-patrol-presence-city-mayor-esther-manheimer-councilmember-governoer-josh-stein)), and signed the joint city-county statement that APD and the sheriff "do not participate in ICE or CBP operations." Neither statement addresses data; state law bars the city from restricting what immigration-status information reaches federal agencies ([[What the Law Lets the County Do]]).
+
 ## When statements met outcomes before
 
 A long tenure means the follow-through is checkable. The record on Manheimer's pressure-responsive statements, each dated and sourced:
@@ -50,4 +54,4 @@ Manheimer is the constant in Asheville's private "check-in" system: [[The Check-
 
 Her May 17, 2026 campaign launch at The Marquee drew RTIC protesters ([WLOS](https://wlos.com/news/local/asheville-mayor-mayoral-campaign-esther-manheimer-city-council-member-kim-roney-community-river-arts-district-buncombe-county-board-commissioners-marquee-protest-real-time-intelligence-center-police-department)). Faces [[Kim Roney]] in November. Open questions she has not answered publicly: whether the executed [[What Axon Contracts Do|Axon contract]] will be released, and whether she'd support making APD's promised safeguards binding by ordinance; see [[Promise Tracker]].
 
-*Last updated: Aug 20, 2026*
+*Last updated: Aug 22, 2026*

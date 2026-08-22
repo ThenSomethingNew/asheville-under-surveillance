@@ -36,6 +36,10 @@ Henderson County is the region's most active live fight.
 
 **Austin Rhodes**, a 30-year-old Edneyville berry farmer and beekeeper, started the [defund petition](https://www.change.org/p/stop-funding-mass-surveillance-defund-flock-cameras-in-henderson-county-nc): **937 signatures on Aug 10, 1,000+ by Aug 14, 2,071 by Aug 17**, more than doubling in a week. (A counter-petition to *increase* Flock funding: 61 signatures.) Rhodes spoke at the Aug 3 commissioners' meeting and runs the DeFlock Henderson County group; his response to Flock's new safeguards: "unwise and foolish to use the honor system." ([WLOS](https://wlos.com/news/local/flock-cameras-henderson-county-reaction-western-north-carolina-violation-petition-officers-removal-license-plate-reader-police-resdeints-crime-privacy-mandate-community))
 
+## Who decides here
+
+[[Lowell Griffin]] (sheriff, unopposed in November) · [[Bill Lapsley]] (commission chair, retiring, no vote scheduled) · [[Blair Myhand]] (Hendersonville chief) · [[Austin Rhodes]] (the petition). The other four commissioners have not been quoted on the cameras in any source found.
+
 ## The sheriff and ICE
 
 Henderson County is the only WNC sheriff's office with a 287(g) agreement: a Jail Enforcement Model MOA signed **June 9, 2020**, which lets designated deputies process removable people inside the jail ([ICE participating agencies, Aug 21, 2026](https://www.ice.gov/doclib/about/offices/ero/287g/participatingAgencies08212026.xlsx)). Griffin said publicly in 2025 that his office would "cooperate with ICE whether or not" the state's HB 318 passed ([WLOS](https://wlos.com/news/local/henderson-co-sheriff-will-cooperate-with-ice-whether-or-not-bill-passes)). Hold those three facts together: the portal says immigration enforcement is a prohibited use of the plate data; the same office runs the region's only jail-based ICE program; and federal agencies sit on the data's access list. Nothing in North Carolina law reconciles them, and no audit the public can see tests them ([[Who Gets Watched]] · [[What the Law Lets the County Do]]).

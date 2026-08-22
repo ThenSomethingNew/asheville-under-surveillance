@@ -22,6 +22,8 @@ The only member of council to vote against the surveillance buildout, every time
 - At the first 2026 mayoral debate: concerns about "a billionaire-owned, AI-fueled, for-profit tech company... working with ICE and Homeland Security and also the police department to surveil people without a warrant." And: "For me, it's important to do the people's work in public." ([BPR](https://www.bpr.org/politics-government/2026-05-28/at-the-first-asheville-mayor-debate-roney-and-manheimer-clash-over-transparency-and-surveillance))
 - On [[The Check-In Meetings|the check-in system]], same debate: "a series of three-by-threes and sometimes one-on-one meetings where staff might spend anywhere from, like, eight to 10 hours with agendas and presentations, counting votes throughout the day... none of those meetings are public. And there's no minutes." Per [[Esther Manheimer|Manheimer]]'s own account, Roney is the only member who opposes the practice.
 
+**On the Flock termination, Aug 20, 2026:** "This is the wrong tool to solve the problem." And the frame she keeps returning to: "The police department needs to have tools to solve crimes. We want to have justice realized in our communities," but "the kinds of tools that we use, it's so important to have public engagement and trust around" ([WLOS](https://wlos.com/news/local/asheville-city-council-member-kim-roney-supports-ending-flock-safety-camera-surveillance-technology-contract-automated-license-plate-readers-mayoral-election-police-apd)).
+
 ## Beyond the dais
 
 Consulted ACLU-NC and EFF during the RTIC fight; appeared on the RE:FUSUS panel (May 25, 2026, DayTrip) alongside [[Benn Jordan]] and Patrick Conant. Faces [[Esther Manheimer]] in November, the only race where the RTIC is squarely on the ballot. See [[Election 2026]].
@@ -30,4 +32,4 @@ One more entry for the record: on August 19, 2026, [[Esther Manheimer|Manheimer]
 
 At the [[2026-08-20 Agenda Briefing|August 20 briefing]] she did the follow-through work on the mayor's proposal: read the staff memo revealing the Axon plate reader expansion into the record and asked for it published, warned that exiting cities have had to **cover cameras Flock wouldn't remove**, called for the [[The RTIC Policy|ACEIP documents]] to go on the city's dashboard, flagged the ACLU's guidance against [[What Is the RTIC|real-time intelligence centers]] ("we still have some work to do there"), and asked for multiple overflow rooms so Tuesday's crowd isn't left outside without a bathroom again. Her framing of the remaining problem: "if we cancel the Flock contract and replace [it] with Axon's same functioning equipment, then we still have a violation of our constitutional rights problem."
 
-*Last updated: Aug 20, 2026*
+*Last updated: Aug 22, 2026*

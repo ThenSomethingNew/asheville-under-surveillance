@@ -18,6 +18,10 @@ Macon County is WNC's proof that removal is winnable.
 - [County commissioners' YouTube channel](https://www.youtube.com/channel/UC59-D2PQ94Ax9NAfgyMgJKA): official record, including July 14
 - [Macon Media](https://www.youtube.com/channel/UC_zzr8r4zmzN9gcuYuNRDvQ): independent video of Franklin and county meetings
 
+## Who decides here
+
+[[Josh Young]] (chair) · [[John Shearl]] (made the motion; on the ballot) · [[Barry Breeden]] (seconded) · candidate [[Dylan Castle]] · Sheriff [[Brent Holbrooks]] (lost the vote, kept the job) · [[Bobby Coggins]] (the camera in the room).
+
 ## The vote: how it happened
 
 Motion by **John Shearl**, seconded by **Barry Breeden** (a former sheriff's deputy who came in "50-50"), with Chair **Josh Young**, who had leaned toward his sheriff until he polled constituents and found them "nearly unanimously against." Shearl's verdict on the Flock rep sent to defend the product: "like a car salesman."

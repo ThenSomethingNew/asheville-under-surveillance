@@ -22,6 +22,10 @@ Asheville's RTIC plugs into a county system with its own accountability story. T
 - **June to July 2026: The sheriff sits on Asheville's private policy workgroup** and floats evolving it into "a regional RTIC" under a city-county MOU. [[The RTIC Policy]]
 - **November 3, 2026: The network is on the ballot.** Sheriff [[Quentin Miller]] vs [[Gary Parris]]; two commission seats contested; three school-board seats. [[Election 2026]]
 
+## Who decides here
+
+Sheriff [[Quentin Miller]] (on the ballot vs [[Gary Parris]]) · [[Amanda Edwards]] and the [[Board of Commissioners]] (fund it) · [[Avril Pinder]] and [[Melissa Moore]] (sign for it) · the [[Board of Education]] (controls the school cameras) · [[Ella Santos]] and the housing authority (the 500 housing cameras). Full roster: [[People/Buncombe/index|Buncombe County and the City]].
+
 ## Links of note
 
 - [BCSO Policy Manual on PowerDMS](https://public.powerdms.com/buncombe/tree/documents/2407055): 131 public policies, including the three that govern the cameras (archived copies below)

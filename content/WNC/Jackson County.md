@@ -19,6 +19,10 @@ Jackson County's four Flock cameras read 1.19 million plates a month to serve 56
 - [DeFlockILM tracker](https://deflockilm.org/flock-in-north-carolina/): the WCU retention violation
 - [County commissioners on YouTube](https://www.youtube.com/channel/UCQ06Suo-BrkLxLLsSIJbryw): the Aug 4 Farmer presentation is on tape
 
+## Who decides here
+
+[[Doug Farmer]] (sheriff, re-elected in the primary, no November opponent) · [[Mark Letson]] (commission chair, contested in November) · [[Michael Jennings]] and [[Todd Bryson]] (the commissioners who asked questions; Bryson on the ballot).
+
 ## The numbers, from the county's own records
 
 Jackson County's Sheriff (Doug Farmer) runs **4 Flock cameras** on a **5-year, $55,000+ contract** (2024, paid through annual budget allocations). One month of records (June 30–July 30, 2026): **1,190,043 vehicle reads · 563 searches · 4,652 hotlist hits**, meaning 99.95% of everything captured belongs to people suspected of nothing. Data is shared with **280 in-state agencies**; 17 of 82 JCSO employees have access. ([Sylva Herald, "What the FLOCK?"](https://www.thesylvaherald.com/top_stories/article_67b7d742-f656-4a21-b404-5eb15ffebbfa.html) · [Smoky Mountain News](https://smokymountainnews.com/news/news-latest/jackson-county-talks-flock/))

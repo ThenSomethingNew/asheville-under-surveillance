@@ -35,6 +35,10 @@ Contract value, term, and renewal date: **not public**; no press coverage or tra
 - **Maggie Valley PD**: bought **two plate readers in the FY26 budget: $7,300 the first year, $6,000/year after, paid from the drug-seizure account**, with network access to state and national LPR databases. A budget-retreat consensus, not a public-hearing item. ([The Mountaineer](https://www.yahoo.com/news/articles/upgrading-maggie-police-vehicles-license-232300971.html))
 - **Canton**: one mapped camera, vendor unconfirmed; the Board of Aldermen publishes **no meeting video at all**: minutes only.
 
+## Who decides here
+
+[[Bill Wilke]] (sheriff through December) · [[Mark Mease]] (R) vs [[Tyler Howell]] (D) for sheriff · [[Kevin Ensley]] (commission chair). No chief of Waynesville, Canton, or Maggie Valley has been quoted on the cameras.
+
 ## The ballot, and the paper trail
 
 Whoever wins in November inherits the cameras: **Mark Mease (R)** vs **Tyler Howell (D)** for sheriff, and three commission seats (six Republicans contested the primary; the winners face two Democrats and an unaffiliated candidate) ([Ballotpedia](https://ballotpedia.org/Haywood_County,_North_Carolina,_elections,_2026)). No candidate statement on Flock, plate readers, or ICE has been found. Haywood has no 287(g) agreement with ICE ([ICE list, Aug 21, 2026](https://www.ice.gov/doclib/about/offices/ero/287g/participatingAgencies08212026.xlsx)) and no Flock transparency portal; the Sheriff's Office does appear as a recipient on [[Henderson County]]'s 2,048-agency sharing list, so Haywood deputies can search a neighbor's reads even without publishing their own. Federal forfeiture payments to the Sheriff's Office: $30,766 (FY2021) and $102,813 (FY2022) ([DOJ](https://www.justice.gov/afp/fy2024-equitable-sharing-payment-cash-and-sales-proceeds-recipient-agency-state)). What the county can and cannot do about a sheriff's cameras: [[What the Law Lets the County Do]].

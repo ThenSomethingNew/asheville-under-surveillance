@@ -19,6 +19,10 @@ Brevard is WNC's active battleground, a textbook case of [[What Axon Contracts D
 - [Transylvania Times on the sheriff's cameras](https://www.transylvaniatimes.com/news/license-plate-readers-now-watching-highway-traffic/article_cb1ba808-5be4-11ef-8520-ab798f7d6f7b.html): the 2024 county deployment
 - [Brevard City Council on YouTube](https://www.youtube.com/channel/UCQLjYNExYc71BKYghN0V5iA): official council video
 
+## Who decides here
+
+[[Chuck Owenby]] (sheriff, unopposed) · Brevard: [[Dean Lytle]], [[Aaron Baker]], Mayor Maureen Copelof, Chief [[Christy Wentzell]]. County commission (Chair Teresa McCall, Jake Dalton, Chase McKelvey) has no findable statement on the sheriff's cameras.
+
 ## The live decision: Brevard
 
 The bundle's fine print is the story: the "free" cameras come with monthly data-storage fees, the part Reading, PA's finance director warned "is where they really make their money." The city attorney reviewed it favorably; the deputy chief previously ran Hendersonville's Flock system.

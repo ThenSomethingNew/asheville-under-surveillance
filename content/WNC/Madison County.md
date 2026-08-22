@@ -27,6 +27,10 @@ The numbers, from published audit logs: **1,200+ nationwide-database searches in
 
 And the records blackout: the sheriff's office has **refused the bulk of public records requests** (contract, expenditures, audits, policies), which opponents say violates NC public records law. The contract's dollar value is unknown because the county won't release it.
 
+## Who decides here
+
+[[Buddy Harwood]] (sheriff, on the ballot) vs [[Robin Lyles]] · [[Michael Garrison]] (commission chairman). Organizing: [[Mary Gibson]] and Madison for Privacy.
+
 ## Who's fighting
 
 **[Madison for Privacy](https://www.madisonforprivacy.org/)** (madisonforprivacy@proton.me): records requests, public-comment organizing (March 10 and June 9, 2026 meetings), Fourth Amendment framing, coordination with Mountain Indivisible.

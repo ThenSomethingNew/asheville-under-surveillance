@@ -16,6 +16,10 @@ In McDowell County, no one is checking at all.
 - [DeFlockILM's NC records-request template](https://deflockilm.org/nc-flock-camera-map/): the tool for the first records request
 - [County commissioners on YouTube](https://www.youtube.com/channel/UC0mTfn8VlbzCAPoS4ypHSbQ): official meeting video
 
+## Who decides here
+
+[[Nathan Mace]] (sheriff since Aug 10, 2026, unopposed). No commissioner, Marion official, or chief has been quoted on the cameras.
+
 ## The documentation hole
 
 Beyond the Atlas entry, there is nothing: **no commission vote, no council vote, no news story, no stated position from the sheriff who installed them (Ricky Buchanan, retired August 2026) or the one who inherited them (Nathan Mace), no contract value, no local coverage of any kind**; the county's own paper has run only wire stories about Flock elsewhere. No tracker lists McDowell; no opposition exists because nobody knows.

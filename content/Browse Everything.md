@@ -50,7 +50,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 - **[[Records Center]]**: Sixteen pre-written public records requests that would answer this site's open questions. Copy, paste, file. Refusals are answers too.
 - **[[Election 2026]]**: Where every candidate stands, including the ones staying silent. Early voting starts **Oct 15**.
-- **[[People/index|People]]**: Profiles of every official and candidate: their votes, their words, their silence.
+- **[[People/index|People]]**: Profiles of every official, candidate, and institution, by region: [[People/Buncombe/index|Buncombe County and the City]], [[People/WNC/index|Western North Carolina]], [[People/State/index|Raleigh and Washington]], [[People/Community/index|Community]]. Their votes, their words, their silence.
 - **[[Claims Library]]**: Citable, sourced facts for petitions, letters, and op-eds.
 - **[[Documents]]**: The primary sources: official minutes, resolutions, APD policies, released and refused records.
 - **[[Get Involved]]**: CAMS, Sunshine Labs, SASSI, DeFlockNC, and how to plug in.

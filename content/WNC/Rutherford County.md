@@ -17,6 +17,10 @@ Rutherford County has an unresolved camera count, a Flock network with audio det
 - [Annie Dance / Cops & Congress](https://anniedance.substack.com): the essential local watchdog archive
 - [County commissioners on Granicus](https://rutherfordcountync.granicus.com/ViewPublisher.php?view_id=2): official meeting video
 
+## Who decides here
+
+[[Aaron Ellenburg]] (sheriff, on the ballot) · [[Clint Ingle]] (Rutherfordton chief) · Forest City's audio-detection network has been discussed publicly by Capt. Brandon Rothrock, not Chief Chris LeRoy · [[Annie Dance]] (the record).
+
 ## The vandalized camera: what the viral reaction shows and doesn't
 
 Two cautions about the July 2026 comment flood: that volume on a 4,000-person town's page is **national virality, not local sentiment**; treat it as evidence of nothing else, in either direction, including the possibility of inauthentic amplification (unverifiable from outside). And per [[How Cities Won]], vandalism-celebration content *helps the surveillance side* regardless of who posts it.

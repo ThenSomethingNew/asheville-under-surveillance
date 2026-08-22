@@ -34,6 +34,10 @@ The March primary cut twenty candidates to six. Three are incumbents who **voted
 
 **[[Gary Parris]]** (R, Navy veteran, former BCSO). No public position found on Fusus, the camera network, or plate readers (as of Aug 17, 2026). ([WLOS](https://wlos.com/news/local/gary-parris-wins-gop-nomination-buncombe-county-sheriff-face-democratic-incumbent-quentin-miller-november-general))
 
+## Sheriffs across Western North Carolina
+
+The same ballot decides who runs the cameras next door. **Henderson:** [[Lowell Griffin]] (R), unopposed; 13 Flock readers, a sharing list of 2,048 agencies including the FBI, and WNC's only 287(g) jail agreement. **Haywood:** open seat, [[Mark Mease]] (R) vs [[Tyler Howell]] (D), after Sheriff [[Bill Wilke]] lost his primary; neither has been asked about the cameras. **Madison:** [[Buddy Harwood]] (D) vs [[Robin Lyles]] (R), a rematch; Harwood's office refuses the records requests. **Rutherford:** [[Aaron Ellenburg]] (R), apparently unopposed. Settled in the primaries with no November race: Jackson ([[Doug Farmer]]), Macon ([[Brent Holbrooks]]), Transylvania ([[Chuck Owenby]]), McDowell ([[Nathan Mace]]). Commission seats that matter: Macon District 1 ([[John Shearl]], who made the de-Flock motion) and District 2 (candidate [[Dylan Castle]], who campaigned against the cameras); Jackson's contested chairmanship ([[Mark Letson]]) and District 1 ([[Todd Bryson]]). Roster with records: [[People/WNC/index|Western North Carolina]].
+
 ## The rest of the ballot
 
 - **District Attorney**: Todd Williams, who wrote a letter supporting the RTIC, is retiring. **[[Martin Moore]]** won the decisive Democratic primary and will be Buncombe's first Black DA. No public position found on the RTIC (as of Aug 17, 2026). ([BPR](https://www.bpr.org/politics-government/2026-03-06/martin-moore-to-be-buncombe-countys-first-black-district-attorney))
