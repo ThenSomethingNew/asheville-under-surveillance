@@ -5,6 +5,10 @@ description: What changed on this site and when, newest first. Each release list
 
 This site is a working notebook, and it changes often. This page is the changelog: every release, the pages it touched, and the primary documents that drove it. Corrections are listed too. If you find an error, [[Get Involved|tell me]] with a link or a document and it will be fixed and logged here.
 
+## 2026-08-23, afternoon: Correction on Getting Flock Out, demand 3
+
+The August 20 briefing note said Flock's new ten-camera minimum meant termination would end APD's network access, "substantially" covering demand 3. That was written before the chief's August 14 memo was public. The memo plans a Flock software license to "preserve access to the Flock network" with no cameras, so the note now says the opposite: demand 3 is the live fight Tuesday, not a settled one. Page: [[Getting Flock Out]].
+
 ## 2026-08-23, late: The home page, rebuilt
 
 The share card with the QR code now sits near the top, right after Tuesday's callout, so it is the first thing to screenshot. The opening names the county network that came first. The timeline gains the county's audit-log release (May 13) and the resolution posting with the chief's memo (Aug 21); the now-box leads with Tuesday's guide, the audit log, and the budget exit; the "why should I care" door adds the audit log; the eight sections are listed; the rest is trimmed.
