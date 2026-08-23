@@ -1,6 +1,8 @@
 ---
 title: Jamie Ager
 description: Democratic nominee for NC-11, the seat whose last occupant earmarked the RTIC's $1.14M.
+aliases:
+  - "People/Jamie Ager"
 ---
 
 **Title:** Democratic nominee, U.S. House NC-11 · Fairview farmer, Hickory Nut Gap Farm · DCCC "Red to Blue" listed
@@ -24,4 +26,4 @@ The [[What Is the RTIC|RTIC]] exists because of a congressional earmark: [[Chuck
 
 Would he have sponsored the RTIC earmark? Does he support conditions on federal police-tech grants: public disclosure, oversight requirements? Faces [[Jennifer Balkcom]]; see [[Election 2026]].
 
-*Last updated: Aug 17, 2026*
+*Region: Federal (NC-11) · Last updated: Aug 17, 2026*

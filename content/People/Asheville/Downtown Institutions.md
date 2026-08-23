@@ -1,6 +1,8 @@
 ---
 title: Downtown Institutions
 description: The Chamber, the Downtown Association, and the tourism authority: who asked businesses to register their cameras, and who has said nothing since.
+aliases:
+  - "People/Buncombe/Downtown Institutions"
 ---
 
 The camera network was sold to commissioners as a business partnership ([[Buncombe County]]) and to businesses as public safety ([[Follow the Money]] · [[Before You Plug In]]). These are the institutions in between.

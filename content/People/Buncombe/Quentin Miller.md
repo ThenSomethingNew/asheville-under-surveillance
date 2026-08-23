@@ -1,6 +1,8 @@
 ---
 title: Quentin Miller
 description: Buncombe County Sheriff since 2018; built the ~2,000-camera Fusus network the RTIC extends. Seeking a third term.
+aliases:
+  - "People/Quentin Miller"
 ---
 
 **Title:** Buncombe County Sheriff · Democrat
@@ -32,4 +34,4 @@ The record should hold this honestly: Miller has taken documented stands **limit
 
 Will he publish the Fusus network's search audit logs and the advisory board's minutes? What binds his ICE commitments after 2030? Faces [[Gary Parris]] in November; see [[Election 2026]].
 
-*Last updated: Aug 22, 2026*
+*Region: [[Buncombe County]] · Last updated: Aug 22, 2026*

@@ -24,7 +24,7 @@ Asheville's RTIC plugs into a county system with its own accountability story. T
 
 ## Who decides here
 
-Sheriff [[Quentin Miller]] (on the ballot vs [[Gary Parris]]) · [[Amanda Edwards]] and the [[Board of Commissioners]] (fund it) · [[Avril Pinder]] and [[Melissa Moore]] (sign for it) · the [[Board of Education]] (controls the school cameras) · [[Ella Santos]] and the housing authority (the 500 housing cameras). Full roster: [[People/Buncombe/index|Buncombe County and the City]].
+Sheriff [[Quentin Miller]] (on the ballot vs [[Gary Parris]]) · [[Amanda Edwards]] and the [[Board of Commissioners]] (fund it) · [[Avril Pinder]] and [[Melissa Moore]] (sign for it) · the [[Board of Education]] (controls the school cameras) · [[Ella Santos]] and the housing authority (the 500 housing cameras). Full roster: [[People/Buncombe/index|Buncombe County]]; the city's deciders: [[People/Asheville/index|Asheville]].
 
 ## Links of note
 

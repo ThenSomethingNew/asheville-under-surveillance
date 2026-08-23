@@ -1,6 +1,8 @@
 ---
 title: Gary Parris
 description: Republican challenger for Buncombe County Sheriff. No public position on the Fusus network he'd inherit.
+aliases:
+  - "People/Gary Parris"
 ---
 
 **Title:** Republican nominee for Buncombe County Sheriff · retired U.S. Navy officer · former DoD contractor · former Buncombe County Sheriff's Office
@@ -20,4 +22,4 @@ Whoever wins this race inherits the region's largest surveillance network with e
 
 Would he keep, expand, or cut the Fusus network? Publish its audit logs? Maintain the school-camera integration? See [[Election 2026]].
 
-*Last updated: Aug 17, 2026*
+*Region: [[Buncombe County]] · Last updated: Aug 17, 2026*

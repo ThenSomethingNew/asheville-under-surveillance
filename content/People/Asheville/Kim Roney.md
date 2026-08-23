@@ -1,6 +1,8 @@
 ---
 title: Kim Roney
 description: City council member since 2020; the only vote against every stage of Asheville's surveillance buildout. Running for mayor in 2026.
+aliases:
+  - "People/Kim Roney"
 ---
 
 **Title:** City Council member · music teacher & piano technician · [kimroney4asheville.com](https://kimroney4asheville.com/) · [official page](https://www.facebook.com/councilmemberkimroney)
@@ -32,4 +34,4 @@ One more entry for the record: on August 19, 2026, [[Esther Manheimer|Manheimer]
 
 At the [[2026-08-20 Agenda Briefing|August 20 briefing]] she did the follow-through work on the mayor's proposal: read the staff memo revealing the Axon plate reader expansion into the record and asked for it published, warned that exiting cities have had to **cover cameras Flock wouldn't remove**, called for the [[The RTIC Policy|ACEIP documents]] to go on the city's dashboard, flagged the ACLU's guidance against [[What Is the RTIC|real-time intelligence centers]] ("we still have some work to do there"), and asked for multiple overflow rooms so Tuesday's crowd isn't left outside without a bathroom again. Her framing of the remaining problem: "if we cancel the Flock contract and replace [it] with Axon's same functioning equipment, then we still have a violation of our constitutional rights problem."
 
-*Last updated: Aug 22, 2026*
+*Region: Asheville · Last updated: Aug 22, 2026*

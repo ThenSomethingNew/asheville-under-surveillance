@@ -1,6 +1,8 @@
 ---
 title: Benn Jordan
 description: The independent researcher whose Flock Safety investigations reached national press, and who came to Asheville in May 2026 to help. His work explains, in plain terms, why these cameras are both invasive and insecure.
+aliases:
+  - "People/Benn Jordan"
 ---
 
 Most of this site is about people with power over Asheville's surveillance system. This page is about someone with none: an outside researcher who studied these cameras on his own time and came here to help residents understand them. Benn Jordan appeared at a CAMS surveillance event in Asheville on **May 25, 2026**, doing a public Q&A alongside [[Kim Roney]]. His work is the clearest available explanation of two things Asheville officials rarely address: what these systems can do, and how badly built they are.
@@ -37,4 +39,6 @@ This is contested (the security-camera industry publication IPVM published a reb
 
 *A note on accuracy: this page describes Jordan's findings as he and independent outlets reported them. The exposed Condor cameras were reachable on the open internet, not broken into. His plate-reader "defense sticker" is a demonstrated proof-of-concept against the software, not a proven or necessarily legal street countermeasure. I found no recording of his Asheville Q&A, so nothing here attributes an Asheville-RTIC-specific statement to him.*
 
-*Related: [[Before You Plug In]] · [[The National Wave]] · [[Get Involved]] · [[Their Claims vs The Record]]. Last updated: Aug 17, 2026.*
+*Related: [[Before You Plug In]] · [[The National Wave]] · [[Get Involved]] · [[Their Claims vs The Record]]*
+
+*Region: Community · Last updated: Aug 17, 2026*

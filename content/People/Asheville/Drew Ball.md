@@ -1,6 +1,8 @@
 ---
 title: Drew Ball
 description: Sitting county commissioner running for city council. No public position on the RTIC.
+aliases:
+  - "People/Drew Ball"
 ---
 
 **Title:** Buncombe County Commissioner, District 3 (per the county's current roster; district lines were redrawn for 2026) · candidate for Asheville City Council · former Director of Environment North Carolina · volunteer firefighter
@@ -20,4 +22,4 @@ His [Asheville DSA questionnaire response](https://avldsa.org/2026-city-council-
 
 He's the one council candidate with an actual record *adjacent* to this issue: county budgets that sustain the Fusus network. Has he ever questioned it? Would he vote for a surveillance-oversight ordinance in Asheville ([[Promise Tracker]])? See [[Election 2026]] for the questions to ask.
 
-*Last updated: Aug 17, 2026*
+*Region: Asheville · Last updated: Aug 17, 2026*

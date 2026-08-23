@@ -1,6 +1,8 @@
 ---
 title: Antanette Mosley
 description: Vice Mayor; in the majority on the surveillance votes; no public explanation offered. On the November ballot.
+aliases:
+  - "People/Antanette Mosley"
 ---
 
 **Title:** City Council member & Vice Mayor · attorney · [[The Committee|Public Safety Committee]] member
@@ -28,4 +30,4 @@ As Vice Mayor, a Public Safety Committee member, an attorney, and a candidate: D
 
 A residency challenge (based on an Atlanta homestead exemption, surfaced in December 2025 by Asheville Watchdog/BPR reporting) was unanimously denied by the Buncombe County Board of Elections on January 21, 2026 ([BPR](https://www.bpr.org/2026-01-21/buncombe-elections-board-denies-candidate-challenges)); a State Board of Elections inquiry remained open as of that reporting. She remains on the November ballot.
 
-*Last updated: Aug 17, 2026*
+*Region: Asheville · Last updated: Aug 17, 2026*

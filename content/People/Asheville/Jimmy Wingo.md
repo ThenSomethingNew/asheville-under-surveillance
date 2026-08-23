@@ -1,6 +1,8 @@
 ---
 title: Jimmy Wingo
 description: APD's civilian Law Enforcement Technology Manager, the single approval gate for outside-agency data requests, the man who explained the Ring-camera integration tiers, and the voice of every "the audits are fine" assurance.
+aliases:
+  - "People/Jimmy Wingo"
 ---
 
 **Title:** Law Enforcement Technology Manager, Asheville Police Department; confirmed by [[The RTIC Policy|the RTIC policy workgroup's own notes]] (June 11, 2026), which introduce him as "Law Enforcement Technology Manager at APD." Outlets have also styled him "Law Enforcement Technology Specialist" (April 2025) and "Technology Supervisor" (August 2026). The same notes supply the first published background: "over two decades of law enforcement experience as a **former trooper**," who "started his career here at the APD." No source assigns him a current sworn rank; his formal civilian-versus-sworn classification remains a [[Records Center|records question]].
@@ -36,3 +38,5 @@ None of this depends on doubting Wingo's sincerity. The critique of single-gate,
 *A standing accuracy note for anyone citing him: no press coverage or public testimony assigns Wingo a sworn rank; do not style him as an officer or give him one. His job title varies across outlets (Specialist/Manager/Supervisor), his start date and background are unpublished, and his formal civilian-versus-sworn classification is unverified in public sources. That the person who approves all outside data requests has no published bio, org-chart entry, or job classification is itself a transparency problem.*
 
 *Related: [[Jackie Stepp]] · [[The Committee]] · [[Their Claims vs The Record]] · [[Before You Plug In]] · [[Records Center]]*
+
+*Region: Asheville · Last updated: Aug 23, 2026*

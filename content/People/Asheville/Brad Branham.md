@@ -1,6 +1,8 @@
 ---
 title: Brad Branham
 description: Asheville City Attorney since 2019; the legal opinion on the RTIC that council was promised before the vote has never been made public.
+aliases:
+  - "People/Buncombe/Brad Branham"
 ---
 
 **Title:** City Attorney, City of Asheville (appointed by unanimous council vote March 12, 2019; started April 8, 2019) ([city release](https://www.ashevillenc.gov/news/city-council-names-brad-branham-as-ashevilles-next-city-attorney/))

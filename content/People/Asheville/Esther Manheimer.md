@@ -1,6 +1,8 @@
 ---
 title: Esther Manheimer
 description: Mayor since 2013; presided over every stage of the RTIC's approval, then called for Flock termination on Aug 19, 2026. Her record of pressure-responsive statements, checked against outcomes. Seeking a fourth term.
+aliases:
+  - "People/Esther Manheimer"
 ---
 
 **Title:** Mayor, City of Asheville · attorney, Van Winkle Law Firm · [manheimerformayor.com](https://manheimerformayor.com/)
@@ -54,4 +56,4 @@ Manheimer is the constant in Asheville's private "check-in" system: [[The Check-
 
 Her May 17, 2026 campaign launch at The Marquee drew RTIC protesters ([WLOS](https://wlos.com/news/local/asheville-mayor-mayoral-campaign-esther-manheimer-city-council-member-kim-roney-community-river-arts-district-buncombe-county-board-commissioners-marquee-protest-real-time-intelligence-center-police-department)). Faces [[Kim Roney]] in November. Open questions she has not answered publicly: whether the executed [[What Axon Contracts Do|Axon contract]] will be released, and whether she'd support making APD's promised safeguards binding by ordinance; see [[Promise Tracker]].
 
-*Last updated: Aug 22, 2026*
+*Region: Asheville · Last updated: Aug 22, 2026*

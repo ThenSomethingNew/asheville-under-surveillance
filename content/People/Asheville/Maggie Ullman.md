@@ -1,6 +1,8 @@
 ---
 title: Maggie Ullman
 description: Council member since 2022; seconded the RTIC motions, then said nothing for fifteen months. Broke her silence Aug 20, 2026, backing Flock removal while drawing a line at Axon. On the November ballot.
+aliases:
+  - "People/Maggie Ullman"
 ---
 
 **Title:** City Council member · climate/sustainability consultant · chairs the Planning, Economic Development & Environment Committee (sometimes appears as Maggie Ullman Berthiaume)
@@ -25,4 +27,4 @@ The line she drew protects body and dash cameras, tools with a real transparency
 
 Would she support a separate council vote before any fixed Axon plate reader goes up ([[Getting Flock Out|demand 7]])? Releasing the executed Axon contract? Publishing the quarterly audits ([[Promise Tracker]])? As the primary's top vote-getter, her answer would carry weight with the rest of the field. Contact: maggieullman@avlcouncil.com · see [[Election 2026]].
 
-*Last updated: Aug 20, 2026*
+*Region: Asheville · Last updated: Aug 20, 2026*

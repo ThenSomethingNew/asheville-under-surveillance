@@ -1,6 +1,8 @@
 ---
 title: Martin Moore
 description: Effectively incoming Buncombe County DA (no Republican filed), the prosecutor who will decide what RTIC evidence looks like in court.
+aliases:
+  - "People/Martin Moore"
 ---
 
 **Title:** Buncombe County Commissioner, District 2 & commission vice chair · Democratic nominee for District Attorney · attorney, former public defender · on track to be Buncombe's first Black DA ([BPR](https://www.bpr.org/politics-government/2026-03-06/martin-moore-to-be-buncombe-countys-first-black-district-attorney))
@@ -20,4 +22,4 @@ The outgoing DA, Todd Williams, **wrote a letter supporting the [[What Is the RT
 
 Will his office track and disclose RTIC/Flock involvement in prosecutions? What's his charging standard for cases built on plate-reader hits, given documented false-positive rates? See [[Election 2026]].
 
-*Last updated: Aug 17, 2026*
+*Region: [[Buncombe County]] · Last updated: Aug 17, 2026*

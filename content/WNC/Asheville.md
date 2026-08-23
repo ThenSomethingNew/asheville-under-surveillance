@@ -27,6 +27,10 @@ Asheville is this collection's home case, documented across forty-plus pages. Th
 - **Spring/summer 2027: RTIC fully operational (projected).** The oversight promises come due long after public attention has moved on. ([[Promise Tracker]])
 - **2033: Axon contract ends.** Or doesn't: renewal terms are the vendor's, unless council is made to demand better. ([[What Axon Contracts Do]])
 
+## Who decides here
+
+Mayor [[Esther Manheimer]] (on the ballot vs [[Kim Roney]], the only no vote) · council members [[Antanette Mosley]], [[Sheneika Smith]], [[Maggie Ullman]] (on the ballot), [[Sage Turner]], [[Bo Hess]] · [[D.K. Wesley]] (city manager: signs, hires, terminates) · [[Jackie Stepp]] (interim chief) and the command staff · the housing authority ([[Ella Santos]]) · [[Downtown Institutions]]. Full roster: [[People/Asheville/index|Asheville]]; the county's: [[People/Buncombe/index|Buncombe County]].
+
 ## Links of note
 
 - [[Browse Everything|The full site index]]: every page, grouped

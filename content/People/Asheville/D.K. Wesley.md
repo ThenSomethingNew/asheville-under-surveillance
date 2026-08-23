@@ -1,6 +1,8 @@
 ---
 title: D.K. Wesley
 description: Asheville's City Manager since January 2026, the unelected official who negotiates and signs the Axon contract council authorized unseen, and who single-handedly picks the next police chief.
+aliases:
+  - "People/D.K. Wesley"
 ---
 
 **Title:** City Manager, City of Asheville (Dakisha "DK" Wesley)
@@ -29,3 +31,5 @@ One statement worth holding onto. On May 7, when [[Kim Roney|Roney]] pointed out
 - **The dashboard 404s**: the promised transparency pages are the manager's office to fix; "no reason why we cannot ensure access" applies.
 
 *Related: [[Jackie Stepp]] · [[2026-05-07 Agenda Briefing]] · [[What Axon Contracts Do]] · [[Records Center]] · [[Promise Tracker]]*
+
+*Region: Asheville · Last updated: Aug 23, 2026*

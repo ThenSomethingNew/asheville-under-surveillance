@@ -1,6 +1,8 @@
 ---
 title: Sheneika Smith
 description: Council member since 2017; proposed a community forum on the RTIC that never happened. On the November ballot.
+aliases:
+  - "People/Sheneika Smith"
 ---
 
 **Title:** City Council member · [[The Committee|Public Safety Committee]] member
@@ -22,4 +24,4 @@ No substantive public statement on the RTIC found beyond the forum suggestion: n
 
 Why was the forum she proposed never held, and would she hold it now? Does she support releasing the [[What Axon Contracts Do|Axon contract]] and publishing the audits ([[Promise Tracker]])? Contact: sheneikasmith@avlcouncil.com · see [[Election 2026]].
 
-*Last updated: Aug 17, 2026*
+*Region: Asheville · Last updated: Aug 17, 2026*

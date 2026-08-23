@@ -1,6 +1,8 @@
 ---
 title: Jennifer Balkcom
 description: Republican replacement nominee for NC-11 after Chuck Edwards' withdrawal. No surveillance record found.
+aliases:
+  - "People/Jennifer Balkcom"
 ---
 
 **Title:** NC State Representative, House District 117 (Henderson County) · Republican nominee for U.S. House NC-11 ([BPR](https://www.bpr.org/politics-government/2026-08-10/state-rep-jennifer-balkcom-to-replace-rep-chuck-edwards-on-nc-11-ballot))
@@ -16,4 +18,4 @@ As a state legislator she served while the General Assembly made the SBI highway
 
 Would she continue [[Chuck Edwards|Edwards]]' earmark practice for police surveillance tech? Where does she stand on her own county's Flock removal petition? Faces [[Jamie Ager]]; see [[Election 2026]].
 
-*Last updated: Aug 17, 2026*
+*Region: Federal (NC-11) · Last updated: Aug 17, 2026*

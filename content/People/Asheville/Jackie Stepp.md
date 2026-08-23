@@ -1,6 +1,8 @@
 ---
 title: Jackie Stepp
 description: The interim police chief who sold the RTIC; her entire council argument, claim by claim, against the documented record. Nine months interim and counting; the permanent pick is one unelected official's call.
+aliases:
+  - "People/Jackie Stepp"
 ---
 
 **Title:** Interim Chief of Police, Asheville Police Department (Jacquelyn "Jackie" Stepp)
@@ -65,3 +67,5 @@ Her memo to council, dated August 14, 2026 and public as an agenda attachment si
 - **Her own standard:** "Trust will not be assumed. It will be demonstrated." Agreed. The [[Promise Tracker]] is the scoreboard.
 
 *Related: [[D.K. Wesley]] · [[Jimmy Wingo]] · [[Their Claims vs The Record]] · [[2026-05-12 City Council]] · [[The Flockbook]] · [[Promise Tracker]] · [[The Committee]]*
+
+*Region: Asheville · Last updated: Aug 23, 2026*

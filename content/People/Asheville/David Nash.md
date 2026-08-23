@@ -1,6 +1,8 @@
 ---
 title: David Nash
 description: Former Asheville Housing Authority CEO (retired June 2023) who spoke for the county camera network in January 2023, saying public housing was "underpoliced."
+aliases:
+  - "People/Buncombe/David Nash"
 ---
 
 **Title:** former Executive Director and CEO, Housing Authority of the City of Asheville (deputy director from 2006; CEO 2019 to June 30, 2023; succeeded by Monique Pierre, then interim Rhodney Norman, then [[Ella Santos]])

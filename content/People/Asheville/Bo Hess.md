@@ -1,6 +1,8 @@
 ---
 title: Bo Hess
 description: Council's strongest RTIC advocate; chairs the Public Safety Committee where its oversight now lives. Not on the ballot until 2028.
+aliases:
+  - "People/Bo Hess"
 ---
 
 **Title:** City Council member · **chairs the Public Safety Committee** · behavioral-health provider/social worker; council's only Latino member
@@ -45,4 +47,4 @@ Hess chairs the Public Safety Committee, the body where RTIC oversight is suppos
 
 His committee, Public Safety, meets the last Thursday of odd months at 11 AM, virtually ([livestream](https://publicinput.com/d81053)), and is where RTIC implementation reporting will land. If the quarterly audits (see [[Promise Tracker]], row 4) surface anywhere public, it's there. He is also the natural council author for any move to convert his resolution's language into an actual ordinance, a test of whether the civil-liberties framing was substance or cover. Residents who want that on the record should ask him directly: bohess@avlcouncil.com. See [[Speak at Council]].
 
-*Last updated: Aug 22, 2026*
+*Region: Asheville · Last updated: Aug 22, 2026*

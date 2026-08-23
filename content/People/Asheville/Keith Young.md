@@ -1,6 +1,8 @@
 ---
 title: Keith Young
 description: Former council member seeking a return; the only council candidate with any data-privacy language on record.
+aliases:
+  - "People/Keith Young"
 ---
 
 **Title:** Candidate for Asheville City Council · former Asheville City Council member (Dec 2015–Dec 2020) · author of the July 2020 reparations resolution
@@ -22,4 +24,4 @@ Read those against the [[What Is the RTIC|RTIC]]'s design, with its 500-mile dat
 
 Does the "local firewall" include the RTIC? Would he vote to release the [[What Axon Contracts Do|Axon contract]], publish the audits, and pass an oversight ordinance? He's one direct question away from being the first council candidate with an actual position. See [[Election 2026]].
 
-*Last updated: Aug 17, 2026*
+*Region: Asheville · Last updated: Aug 17, 2026*

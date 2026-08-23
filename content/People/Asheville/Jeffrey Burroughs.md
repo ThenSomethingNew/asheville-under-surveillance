@@ -1,6 +1,8 @@
 ---
 title: Jeffrey Burroughs
 description: Jeweler and River Arts District Artists president running for council. No public position on the RTIC.
+aliases:
+  - "People/Jeffrey Burroughs"
 ---
 
 **Title:** Candidate for Asheville City Council · jeweler · president, River Arts District Artists' Association · [jeffreyforasheville.com](https://jeffreyforasheville.com/)
@@ -20,4 +22,4 @@ His platform centers Helene recovery, housing, and small business. On public saf
 
 The River Arts District and downtown business communities are exactly where Fusus's private-camera integration recruits ([[What Is the RTIC]]): business owners will be asked to wire their cameras into the police network. Where does he stand on that, and on oversight ([[Promise Tracker]])? See [[Election 2026]].
 
-*Last updated: Aug 17, 2026*
+*Region: Asheville · Last updated: Aug 17, 2026*

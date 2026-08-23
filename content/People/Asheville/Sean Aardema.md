@@ -1,6 +1,8 @@
 ---
 title: Sean Aardema
 description: APD Deputy Chief of Operations; the "we will not be sharing information with federal immigration" assurance is his, made to a TV camera, not in a policy.
+aliases:
+  - "People/Buncombe/Sean Aardema"
 ---
 
 **Title:** Deputy Chief, Operations, Asheville Police Department (more than 24 years with APD)
