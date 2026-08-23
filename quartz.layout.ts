@@ -37,7 +37,19 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        // Section order for the sidebar: the way the site reads, not the alphabet.
+        const order = ["The-Record", "The-System", "WNC", "Companies", "The-Wider-Fight", "People", "Act", "Reference"]
+        const ra = order.indexOf(a.slugSegment)
+        const rb = order.indexOf(b.slugSegment)
+        if (a.isFolder && b.isFolder && (ra !== -1 || rb !== -1)) {
+          return (ra === -1 ? 99 : ra) - (rb === -1 ? 99 : rb)
+        }
+        if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
+        return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+      },
+    }),
   ],
   right: [
     Component.Graph(),
@@ -61,7 +73,19 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        // Section order for the sidebar: the way the site reads, not the alphabet.
+        const order = ["The-Record", "The-System", "WNC", "Companies", "The-Wider-Fight", "People", "Act", "Reference"]
+        const ra = order.indexOf(a.slugSegment)
+        const rb = order.indexOf(b.slugSegment)
+        if (a.isFolder && b.isFolder && (ra !== -1 || rb !== -1)) {
+          return (ra === -1 ? 99 : ra) - (rb === -1 ? 99 : rb)
+        }
+        if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
+        return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+      },
+    }),
   ],
   right: [],
 }
