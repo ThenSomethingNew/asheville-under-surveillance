@@ -5,6 +5,10 @@ description: The primary sources. Official minutes, resolutions, staff reports, 
 
 Everything on this site traces back to documents like these. Read them yourself.
 
+## The August 25, 2026 Flock vote: agenda documents
+
+- [Agenda](https://docs.google.com/document/d/1KQx06L9DUN1ReoOSCPcS_fwl8cJ1YlypJJjihwGwFWc/edit): the Flock resolution is New Business VI.A. · [Resolution calling for the City Manager to terminate the City's contract with Flock](https://docs.google.com/document/d/1uhGDUZtpecu4I31Y2ePjYNk1AcM4BPXVP7TbSrRbs40/edit): seven sections, [[Getting Flock Out|scored here]]. · [Chief Stepp's memo to council, August 14, 2026](https://docs.google.com/document/d/13kwmbwt6T9PiEjUgrFNb9ZHFGzaIsHi5cvsBHkpq-lY/edit): "not pursuing a full transition away from Flock"; 86 Flock cameras in Buncombe County; searchers 18 to 12; sharing narrowed to four states; retention 30 to 21 days; Axon readers "operational" by February 2027; "consolidating the BCSO RTIC into the APD RTIC."
+
 ## The May 12, 2026 vote: official record
 
 - [Meeting Minutes](https://docs.google.com/document/d/1J0VNbOtglQSb3nRjbg6-Bw_Q1w6of6aCNId0TDL5NlQ/edit): confirms **6–1 on both [[What Is the RTIC|RTIC]] items, all seven members present, [[Kim Roney|Roney]] the sole no**; records 22 speakers in opposition. Motion text verbatim: [[Bo Hess|Hess]] moved, [[Maggie Ullman|Ullman]] seconded, on both items.

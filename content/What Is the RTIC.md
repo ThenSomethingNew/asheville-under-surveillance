@@ -9,7 +9,7 @@ The Real-Time Intelligence Center is a room in Asheville where police watch feed
 
 Think of it as a hub with spokes. The hub is Fusus, a platform owned by Axon (the taser and body-camera company, which bought Fusus in 2024 for $240 million). The spokes are every camera and sensor the platform can reach:
 
-- **11 Flock license plate readers** already scanning across Asheville, about 3.1 million plates read between April 2024 and December 2025
+- **11 Flock license plate readers** already scanning across Asheville, about 3.1 million plates read through December 2025 (the chief's August 2026 memo dates the Flock system to February 2025; earlier coverage said April 2024)
 - **Axon body cameras and car cameras** on every officer and cruiser
 - **Roughly two dozen police drones**
 - **Private security cameras**: this is the one most people miss. Businesses, churches, and homeowners are invited to "register" cameras or install a device that gives police **live streaming access** to them. The county's version of this network already includes ~1,500 cameras inside schools.
@@ -24,7 +24,7 @@ Fusus markets this as "one pane of glass": everything, one screen, live.
 
 ## What it can do
 
-Data from Asheville's plate readers is shared with law enforcement agencies within a **500-mile, multi-state radius**, a circle that reaches Atlanta, Nashville, Washington DC, and states with very different laws about abortion, immigration, and protest. Retention is set at 30 days in APD's policy (state law allows 90); Flock's own [portal for APD](https://transparency.flocksafety.com/asheville-nc-pd) showed 21 days on August 21, 2026. The county's plate readers, which APD also reaches, have no retention number shorter than the statute's 90 ([[Buncombe County]]).
+Data from Asheville's plate readers is shared with law enforcement agencies within a **500-mile, multi-state radius**, a circle that reaches Atlanta, Nashville, Washington DC, and states with very different laws about abortion, immigration, and protest. Retention is set at 30 days in APD's policy (state law allows 90); Flock's own [portal for APD](https://transparency.flocksafety.com/asheville-nc-pd) showed 21 days on August 21, 2026, and the chief's [August 14 memo](https://docs.google.com/document/d/13kwmbwt6T9PiEjUgrFNb9ZHFGzaIsHi5cvsBHkpq-lY/edit) confirms the cut to 21 days, a cut in authorized searchers from 18 to 12, and sharing narrowed to Tennessee, South Carolina, Virginia, and Georgia. The same memo counts 86 Flock cameras in Buncombe County, 11 of them the city's, and says APD is evaluating "consolidating the BCSO RTIC into the APD RTIC," which would fold the [[Buncombe County|county's network]] into this one. The county's plate readers, which APD also reaches, have no retention number shorter than the statute's 90 ([[Buncombe County]]).
 
 The RTIC's stated purpose is responding to violent crime. Nothing in the approved package structurally limits it to that. What limits exist are APD policies: self-written, self-administered, and changeable without a council vote. See the [[Promise Tracker]] for every commitment APD has made on the record, and its status.
 

@@ -110,6 +110,10 @@ Asheville City Schools is in the same position on the city side: WLOS reports AP
 
 **Video for the pipeline:** [county commissioners](https://www.youtube.com/bcgovtv) and [school board](https://www.youtube.com/buncombeschools) are on YouTube (the school board is even machine-transcribed by [SeeGov](https://seegov.org/g/buncombe-county-schools-buncombe-nc)); Biltmore Forest publishes no video at all.
 
+## What the city's chief said about the county (August 2026)
+
+[[Jackie Stepp]]'s August 14, 2026 memo to city council, public since August 21, answers two questions this page had left open and raises a third ([memo](https://docs.google.com/document/d/13kwmbwt6T9PiEjUgrFNb9ZHFGzaIsHi5cvsBHkpq-lY/edit)). It counts **86 Flock cameras deployed throughout Buncombe County, including 11 owned by the City of Asheville**, which puts roughly 75 Flock readers in the county outside APD's control (the sheriff's, the towns', the university's, and private ones). It says plainly that "BCSO currently uses Flock ALPR cameras," which the sheriff's own Policy 402 never names. And it says APD is "evaluating consolidating the BCSO RTIC into the APD RTIC": one center, two agencies, and no public body has discussed it.
+
 ## What I still cannot find
 
 The executed Axon and Fusus contracts and whether commissioners voted on them; the enterprise fund's revenue and the number of paying cameras; the FUSUS Advisory Committee's membership and any audit it has produced; the schools MOU; the DFR drone partner; the 2022 MOU with Asheville; and any current-year count of cameras by category. Every one of these is a records request: [[Records Center]].
