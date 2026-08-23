@@ -17,7 +17,7 @@ This site is a reference, not an organization. These are the people doing the or
 
 ## Four things you can do this month
 
-1. **Tuesday, Aug 25: make the vote count.** Council votes on ending the Flock contract; the resolution leaves APD's 162 other plate readers and the Axon plan untouched. The three asks, the amendment text, and how to speak or write (written comment by 9 a.m. Tuesday): [[Tuesday August 25|Tuesday, August 25: Make the Vote Count]]. The longer exit checklist: [[Getting Flock Out]].
+1. **Tuesday, Aug 25: make the vote count.** Council votes on ending the Flock contract; the resolution leaves APD's 162 other plate readers and the Axon plan untouched. A guide to building your own comment from what's on this site, with one worked example, and how to speak or write (written comment by 9 a.m. Tuesday): [[Tuesday August 25|Tuesday, August 25: Make the Vote Count]]. The longer exit checklist: [[Getting Flock Out]].
 2. **Show up.** Council meets Aug 25 (5 PM, City Hall); the [[The Committee|Public Safety Committee]] meets Sept 24 (11 AM, virtual). See [[Speak at Council]].
 3. **Take the tour.** APD runs public RTIC tours every other Thursday, 2–4 PM (828-259-5881). Go with questions from the [[Promise Tracker]] and write down the answers.
 4. **Ask the candidates.** Not one questionnaire this cycle asked about surveillance. See [[Election 2026]] and put the question to them directly, in public, on the record.

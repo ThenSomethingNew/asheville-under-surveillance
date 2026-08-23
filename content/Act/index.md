@@ -5,7 +5,7 @@ description: "What one person can do: the Flock exit scored against eight demand
 
 Everything on this site points here. Pick the thing that fits the time you have.
 
-- **[[Tuesday August 25|Tuesday, August 25: Make the Vote Count]]**: The Flock vote. Three asks that fit in an amendment, the amendment text, who has to move it, and how to speak, email, mail, or call before the 9 a.m. deadline.
+- **[[Tuesday August 25|Tuesday, August 25: Make the Vote Count]]**: The Flock vote. What council is actually deciding, section by section; a menu of angles with a sourced fact and the page behind each; the four shapes an ask can take; where to send it before the 9 a.m. deadline; and one worked example, not a script.
 - **[[Getting Flock Out]]**: The August 25 resolution scored against the eight demands that make removal real. One met, six not. Which to carry Tuesday.
 - **[[Speak at Council]]**: You get three minutes; here's how to use them. Next meetings: council **Tuesday, Aug 25** · Public Safety Committee **Thursday, Sept 24**.
 - **[[Records Center]]**: Seventeen pre-written public records requests that would answer this site's open questions. Copy, paste, file. Refusals are answers too.
