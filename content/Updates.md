@@ -5,6 +5,10 @@ description: What changed on this site and when, newest first. Each release list
 
 This site is a working notebook, and it changes often. This page is the changelog: every release, the pages it touched, and the primary documents that drove it. Corrections are listed too. If you find an error, [[Get Involved|tell me]] with a link or a document and it will be fixed and logged here.
 
+## 2026-08-23, late: The home page, rebuilt
+
+The share card with the QR code now sits near the top, right after Tuesday's callout, so it is the first thing to screenshot. The opening names the county network that came first. The timeline gains the county's audit-log release (May 13) and the resolution posting with the chief's memo (Aug 21); the now-box leads with Tuesday's guide, the audit log, and the budget exit; the "why should I care" door adds the audit log; the eight sections are listed; the rest is trimmed.
+
 ## 2026-08-23, night: The way out, in the contracts' own words, and the sections on the home page
 
 The home page now lists the site's eight sections with one line each; every page's breadcrumb names its section and links back to that section's front page.
