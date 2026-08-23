@@ -84,7 +84,11 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
             if (aliases) {
               data.aliases = aliases // frontmatter
               file.data.aliases = getAliasSlugs(aliases)
-              allSlugs.push(...file.data.aliases)
+              // Site change: alias slugs are NOT added to allSlugs. With them added, a moved
+              // page whose alias shares its basename (People/X -> People/Asheville/X) gives the
+              // 'shortest' link strategy two matches for [[X]], and every wikilink to the page
+              // falls through to a bare, nonexistent root slug. Redirect pages are still
+              // emitted from file.data.aliases by the AliasRedirects emitter.
             }
 
             if (data.permalink != null && data.permalink.toString() !== "") {
