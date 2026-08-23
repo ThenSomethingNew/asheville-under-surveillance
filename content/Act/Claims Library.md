@@ -87,3 +87,5 @@ For quoting back at the podium; each of these is on the record:
 Every one of these is a measurable commitment or a revealing priority. The [[Promise Tracker]] holds them to it.
 
 *Building something with these? [[Speak at Council]] has the delivery kit. Want the full stories behind the claims? [[The National Wave]] and [[Timeline]].*
+
+*These are your claims, sourced. Theirs, quoted exactly and answered, are on [[Their Claims vs The Record]].*

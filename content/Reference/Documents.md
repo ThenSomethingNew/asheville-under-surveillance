@@ -70,3 +70,5 @@ The city's records portal is [JustFOIA](https://cityofashevillenc.justfoia.com/p
 4. Answers to **[[Kim Roney|Roney]]'s 29 questions** from March 2025.
 
 *Related: [[2026-05-12 City Council]] · [[Promise Tracker]] · [[Claims Library]]*
+
+*The full bibliography of reporting and investigations this site draws on: [[Sources]].*

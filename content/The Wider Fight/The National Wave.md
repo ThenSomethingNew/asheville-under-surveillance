@@ -68,3 +68,5 @@ Flock's own **recommended retention is now 7 days**. Asheville holds your data f
 ## What this means for Asheville
 
 Every promise in Asheville's [[Promise Tracker]] has already failed somewhere else under identical wording. The cities that protected their residents didn't do it with policies; they did it with **enforceable law**: council-approval requirements, retention caps, sharing bans, and termination clauses. That's the ask. See [[Speak at Council]].
+
+*This page is the list and the reasons. The mechanics of how each rollback happened, and what that implies for Asheville, are on [[How Cities Won]]. The dated harms behind the reasons are on [[Stories That Check Out]].*

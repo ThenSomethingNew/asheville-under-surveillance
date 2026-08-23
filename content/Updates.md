@@ -5,6 +5,22 @@ description: What changed on this site and when, newest first. Each release list
 
 This site is a working notebook, and it changes often. This page is the changelog: every release, the pages it touched, and the primary documents that drove it. Corrections are listed too. If you find an error, [[Get Involved|tell me]] with a link or a document and it will be fixed and logged here.
 
+## 2026-08-23: The August 25 documents, a full audit, and the site rebuilt in sections
+
+**The vote, two days out.** The agenda for August 25 posted on the 21st with the Flock resolution (New Business VI.A, not consent) and [[Jackie Stepp|Chief Stepp]]'s August 14 memo attached. [[Getting Flock Out]] now scores the resolution's seven sections against the eight demands: one met (terminate), one partly (removal requested, no deadline), six not addressed, and Axon absent from the text. The memo says APD "is not pursuing a full transition away from Flock," plans "a Flock software license that would preserve access to the Flock network," and puts Axon plate readers on a February 2027 calendar; it counts 86 Flock cameras in Buncombe County (11 the city's), says the sheriff "currently uses Flock ALPR cameras," and describes evaluating "consolidating the BCSO RTIC into the APD RTIC." Both documents are on [[Documents]]; the memo's numbers are on [[Buncombe County]], [[What Is the RTIC]], [[Promise Tracker]], and the [[2026-08-20 Agenda Briefing|briefing page]].
+
+**The site, rebuilt in sections.** The root had 33 pages in alphabetical order. They now live in eight sections, each with a front page: [[The Record/index|The Record]], [[The System/index|The System]], [[WNC/index|Western North Carolina]], [[Companies/index|The Vendors]], [[The Wider Fight/index|The Wider Fight]], [[People/index|People]], [[Act/index|Act]], and [[Reference/index|Reference]]. Every profile is now in its region, including the original Asheville ones, with city staff moved out of the county folder into [[People/Asheville/index|Asheville]]. Every moved page redirects from its old address. [[Browse Everything]] mirrors the sections.
+
+**The audit.** Every page was checked for broken links (one, fixed), orphans (none), frontmatter that would fail the build (eleven pages, seven from the previous release; fixed), and recurring figures that disagreed across pages. Every quoted passage was checked against its cited source: 353 quotes, 172 sources fetched. The quotes held up. Corrections:
+
+- Flock's start date. The chief's memo and BPR both date APD's Flock system to 2025 (February, per the memo), and assign April 2024 to Axon in-car readers. This site had said Flock went live in April 2024; the [[Timeline]], home page, [[What Is the RTIC]], and [[The Flockbook]] now carry both, pending the contract.
+- Macon County's vote was Tuesday, July 14, 2026 (three pages said July 15).
+- Sheriff Holbrooks' two post-vote quotes are from The Franklin Press, not the Smoky Mountain News; "life-saving tool" and "nearly unanimously against" were the paper's paraphrases and are now presented that way; Commissioner Shearl's "car salesman" line is sourced to NC Local with its full wording.
+- Axon's facial-recognition post says "early-stage field research" and "a predetermined list of individuals," not the shortened versions the [[Axon]] page had; Flock's safeguards post says "blocking searches related to immigration enforcement"; Flock's Nova walk-back is now quoted verbatim; [[Rick Smith]]'s "safer, less dangerous place" is from an Axon blog post, not the earnings release.
+- The Citizen Times' "removal of vagrants" sentence and the Chamber's "plug into" wording restored verbatim.
+
+**Still open:** the executed Flock contract, which would settle the start date; the records behind the memo's 86-camera count; and the paywalled sources (The Franklin Press, parts of 404 Media) a subscriber could re-check.
+
 ## 2026-08-22, later: People by region, and the vendors
 
 **People, rebuilt as a map.** The [[People/index|People]] page now organizes everyone by where they decide (the city, [[People/Buncombe/index|Buncombe County]], [[People/WNC/index|Western North Carolina]], [[People/State/index|Raleigh and Washington]], [[People/Companies/index|the vendors]], [[People/Community/index|Community]]) and, within each, by the next date voters can act. Existing profile addresses are unchanged. Thirty-eight new profiles and roster pages, each opening with title, tenure, term end, and next voter decision, each quote linked:

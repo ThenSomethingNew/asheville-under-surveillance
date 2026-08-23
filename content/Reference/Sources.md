@@ -31,3 +31,5 @@ Every page cites inline. This is the standing bibliography and where to watch fo
 - **ACLU**: [the credibility report on Flock](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country) · [CCOPS model ordinance](https://www.aclu.org/community-control-over-police-surveillance)
 - **Institute for Justice**: [the Norfolk Fourth Amendment case](https://ij.org/press-release/federal-court-rejects-flock-safetys-late-bid-to-join-and-block-ijs-lawsuit-challenging-norfolks-mass-surveillance-cameras/) · [false-hit compilation](https://ij.org/dozens-of-innocent-motorists-have-been-pulled-over-detained-at-gunpoint-or-jailed-due-to-ai-license-plate-camera-errors/)
 - **Trackers**: [DeFlock cancellations](https://deflocktheusa.com/cancellations/) · [deflockilm's NC records](https://deflockilm.org) · [deflockapex's audit-log analysis](https://deflockapex.org)
+
+*The primary documents themselves (minutes, resolutions, policies, released records) are on [[Documents]].*
