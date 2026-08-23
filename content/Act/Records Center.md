@@ -153,6 +153,14 @@ A request needs no magic words. State that you are requesting public records und
 
 **What it proves:** whether the audits the policy promises have ever been performed and what they found; who actually sits on the "advisory board" the sheriff cites; how much federal forfeiture money built the network and who certified it; and whether the enterprise fund sold to commissioners in 2022 has any revenue at all. File with the County through [NextRequest](https://buncombecountync.nextrequest.com/); the sheriff's office is a county custodian. **Status: not yet filed**
 
+### 17. The audit log, with the times: the sheriff's Fusus record and the city's
+
+**To: Buncombe County (for the Sheriff's Office) and the City of Asheville (for APD).** In May 2026 the county released [28 months of the Sheriff's Office's Fusus audit log](https://www.muckrock.com/foi/buncombe-county-4590/public-records-request-fusus-logs-211165/) within a day, then withheld eight columns, including the date and time of every entry, under G.S. 132-1.4. [[Sheriffs Audit Log|What the released columns show]] is that 58 percent of camera viewing was on public housing, almost all of it live. Without timestamps, nobody can say when. APD has its own Fusus account on the same county network and has never released its log.
+
+> Under N.C.G.S. Chapter 132, I request: (1) the complete Fusus audit log for [the Buncombe County Sheriff's Office / the Asheville Police Department] from January 1, 2024 to the date of processing, including the timestamp, object name, IP address or client identifier, and any reason or case-number field for each entry; (2) if any column is withheld, a statement for each column of the specific statutory basis and an explanation of how a timestamp, as distinct from the content of an investigation, "could compromise a case"; (3) any audit, review, or summary of the Fusus log prepared by the agency, its Professional Standards unit, or the FUSUS Advisory Committee since January 1, 2024; (4) the current list of camera-sharing organizations in the agency's Fusus tenant and the agreement or consent under which each shares.
+
+**What it proves:** whether the six daily hours of live viewing on housing cameras happen around the clock; whether viewing spikes around protests, elections, or particular days; whether any account viewed a camera outside its shift or assignment; and whether the city's use of the same network looks like the county's. The county's one-day turnaround on the May 2026 request is the answer to any agency that calls an audit log burdensome. File with the County through [NextRequest](https://buncombecountync.nextrequest.com/) and with the City through [its records portal](https://www.ashevillenc.gov/department/city-clerk/public-records-request/).
+
 ## When they say no
 
 Expect these, and know what each refusal means:

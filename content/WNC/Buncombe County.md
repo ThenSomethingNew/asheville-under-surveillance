@@ -104,11 +104,17 @@ Buncombe County Schools became the first WNC district on Fusus in **late 2021, v
 
 Asheville City Schools is in the same position on the city side: WLOS reports APD's RTIC "already uses camera footage from systems operated by partners such as Asheville City Schools" ([WLOS](https://wlos.com/news/news-13-investigates/inside-asheville-police-department-apd-future-real-time-intelligence-center-cameras-license-plate-readers-car-body-cams-drones-technology-investigations)); I have found no ACS board vote or agreement either.
 
+The sheriff's log, released in May 2026, shows deputies viewed school cameras live 65,678 times across 51 sites in 28 months, against 942 recorded views ([[Sheriffs Audit Log|The Sheriff's Audit Log]]).
+
 ## The towns
 
 **Black Mountain** approved 5 Flock cameras in 2022 and, per its police department, "has not added any since" ([828newsnow](https://828newsnow.com/news/228822-security-cameras-help-solve-crimes-black-mountain-police-say/)); **Biltmore Forest** runs plate readers documented only in town minutes and records: the town's minutes reference 13 cameras, while EFF records released in September 2025 list 2 Flock readers for the Biltmore Forest Police Department ([Are You Flocked?](https://areyouflocked.com/north-carolina/biltmore-forest)). The two figures may count different things; the town publishes no video and has had zero press coverage. **Woodfin, Weaverville, and Montreat** show no camera programs (unconfirmed negatives). DeFlock's running count puts 77 plate readers in Buncombe County across all agencies.
 
 **Video for the pipeline:** [county commissioners](https://www.youtube.com/bcgovtv) and [school board](https://www.youtube.com/buncombeschools) are on YouTube (the school board is even machine-transcribed by [SeeGov](https://seegov.org/g/buncombe-county-schools-buncombe-nc)); Biltmore Forest publishes no video at all.
+
+## What the sheriff's own audit log shows (2024 to 2026)
+
+A public records request produced 28 months of the Sheriff's Office's Fusus access log in May 2026: 337,838 entries, 318 accounts. Fifty-eight percent of camera viewing was on public housing cameras, 30 percent on school cameras, and 95 to 99 percent of it was live watching rather than recorded playback; three accounts did half of all viewing; plate searches numbered 309 in the whole period. Policy 217's "proactive monitoring" is, by the numbers, what the center does. The county withheld the date and time of every entry under G.S. 132-1.4. The full analysis: [[Sheriffs Audit Log|The Sheriff's Audit Log]].
 
 ## What the city's chief said about the county (August 2026)
 

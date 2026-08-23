@@ -20,7 +20,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 ## [[The System/index|The System]]: what was approved
 
-- **[[What Is the RTIC]]** · **[[What They Can Actually Learn About You]]** · **[[Who Gets Watched]]** · **[[Watching the Poor]]** · **[[Follow the Money]]** · **[[Before You Plug In|Before You Connect Your Cameras]]**
+- **[[What Is the RTIC]]** · **[[What They Can Actually Learn About You]]** · **[[Who Gets Watched]]** · **[[Watching the Poor]]** · **[[Sheriffs Audit Log|The Sheriff's Audit Log]]** (28 months of the county's own access records) · **[[Follow the Money]]** · **[[Before You Plug In|Before You Connect Your Cameras]]**
 
 ## [[WNC/index|Western North Carolina]]: the region and the law
 
@@ -41,7 +41,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 ## [[Act/index|Act]]: what to do
 
-- **[[Getting Flock Out]]** (the Aug 25 resolution, scored) · **[[Speak at Council]]** · **[[Records Center]]** (16 pre-written requests) · **[[Claims Library]]** · **[[Election 2026]]** · **[[Get Involved]]**
+- **[[Getting Flock Out]]** (the Aug 25 resolution, scored) · **[[Speak at Council]]** · **[[Records Center]]** (17 pre-written requests) · **[[Claims Library]]** · **[[Election 2026]]** · **[[Get Involved]]**
 
 ## [[Reference/index|Reference]]
 

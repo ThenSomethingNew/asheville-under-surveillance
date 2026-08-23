@@ -21,6 +21,8 @@ Elliot, Lewis, and Plemmons were all seated after the MOU was signed; none of th
 
 Superintendent [[Rob Jackson]] retires September 1, 2026; the board picks his successor.
 
+**What the log shows.** The Sheriff's Office's own Fusus audit log, released in May 2026, records 65,678 live views of school cameras across 51 sites between January 2024 and May 2026, and 942 recorded views: watching, not pulling footage after incidents. A.C. Reynolds High was viewed live 7,389 times; T.C. Roberson 7,108; Erwin High 6,958; Erwin Middle 5,788; Cane Creek Middle 5,457. Asheville City Schools: 3,013 live views, one recorded ([[Sheriffs Audit Log|The Sheriff's Audit Log]]).
+
 ## The question for all of them
 
 Would you put the 2021 memorandum on an agenda, read it into the record, vote on it, and publish the audit trail the district says exists? ([[What the Law Lets the County Do]] · [[Records Center|request 9]])

@@ -26,6 +26,8 @@ The final draft of [Policy 1703, Real Time Intelligence Center](assets/policy-17
 
 **Where the sentence came from.** That sharing clause is not APD's. The Buncombe County Sheriff's Office [[Buncombe County|RTIC policy]], approved April 9, 2025, reads: information "shall not be disclosed to any unauthorized person or entity, except as permitted by law or with a compelling need to share such information for legitimate law enforcement purposes." Policy 1703.3.C repeats it word for word. The county policy also still contains two things APD removed from its drafts: the instruction to use cameras near public events "to look for suspicious activity leading up to and during the event," and the once-per-shift review of plate-reader hot-list entries. Asheville's rulebook is the county's, with the candid parts taken out.
 
+What the county's version of the policy produces is measurable. The Sheriff's Office's own Fusus audit log, released in May 2026, shows that "proactive monitoring" is the center's main activity: 217,506 live camera views against 7,052 recorded, 58 percent of them on public housing ([[Sheriffs Audit Log|The Sheriff's Audit Log]]). APD's Policy 1703 copies the county's sharing clause; whether it copies the county's habits is a question only APD's own log can answer ([[Records Center|request 17]]).
+
 ## What changed between drafts
 
 The releases include three dated drafts ([June 25](assets/policy-1703/policy1703-draft-0625.pdf) · [June 29](assets/policy-1703/policy1703-draft-0629.pdf) · [July 9](assets/policy-1703/policy1703-draft-0709.pdf), which matches the final). Laying them side by side shows what the process added, and what it quietly dropped.

@@ -56,6 +56,9 @@ This is the spine of the record. Each entry links its sources. Where accounts co
 
 ## Aftermath and accountability (June 2026– )
 
+**May 13, 2026: The county releases the sheriff's audit log.** One day after an anonymous public records request, Buncombe County produces 28 months of the Sheriff's Office's Fusus access log, 337,838 entries, and withholds eight columns including every timestamp under G.S. 132-1.4 ([MuckRock](https://www.muckrock.com/foi/buncombe-county-4590/public-records-request-fusus-logs-211165/)). The released columns show 58 percent of camera viewing on public housing and 95 to 99 percent of it live. Analyzed August 2026: [[Sheriffs Audit Log|The Sheriff's Audit Log]].
+
+
 **June 4, 2026: The tours begin.** APD opens bi-weekly public tours of the RTIC space, framed as transparency "following public debates over privacy." Every other Thursday, 2–4 PM; register at 828-259-5881. Go, and take notes. ([WLOS](https://wlos.com/news/local/asheville-police-department-tours-new-real-time-intelligence-center-approved-federal-funds-social-media-transparency-privacy-public-debates-analyze-data-emergencies-register))
 
 **July 7, 2026: The state doubles down.** The NC budget makes the SBI's highway license plate reader program permanent, authorizing ALPRs on state-maintained roads. The SBI's stated goal: a camera at every entrance and exit to the state. ([WRAL](https://www.wral.com/news/nccapitol/surveillance-drivers-camera-alpr-license-plate-reader-nc-budget-public-safety-privacy-july-2026/), [Daily Tar Heel](https://dailytarheel.com/article/city-ai-highway-surveillance-north-carolina-budget-20260728))

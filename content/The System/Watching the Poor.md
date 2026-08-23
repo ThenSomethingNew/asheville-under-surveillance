@@ -29,6 +29,10 @@ The law compounds it. Courts have generally held there's no reasonable expectati
 
 And where camera placement has been mapped, it tracks race and income consistently: a Christopher Newport University study of 614 unsealed Flock locations in Hampton Roads found Black neighborhoods surveilled at roughly **four times** the rate of white ones, with cameras in 75% of high-poverty tracts versus under 40% of low-poverty tracts. ([WHRO](https://www.whro.org/business-growth/2026-01-20/flock-cameras-in-hampton-roads-surveil-black-communities-more-intensely-than-white-ones-cnu-study-says)) Amnesty International's mapping of 25,500 NYC cameras found the same gradient and named it: "a digital stop-and-frisk." ([Amnesty](https://www.amnesty.org/en/latest/news/2022/02/usa-facial-recognition-technology-reinforcing-racist-stop-and-frisk-policing-in-new-york-new-research/))
 
+## The sheriff's own count (2024 to 2026)
+
+In May 2026 the county released 28 months of the Sheriff's Office's Fusus audit log. Of 225,439 camera events, **130,003 were on Asheville Housing Authority cameras**: 58 percent of everything the center looked at, more than all 51 school sites combined, more than the sheriff's own buildings. Pisgah View Apartments was the most-watched place in the county (39,404 events, 1,926 logged hours of live viewing), then Hillcrest, Maple Crest, Deaverview, and Aston Park Towers. Ninety-five percent of it was live watching, not recorded playback; the longest run was one account opening Pisgah View cameras 762 times in a row. The county withheld the timestamps. The full breakdown, by site and by account: [[Sheriffs Audit Log|The Sheriff's Audit Log]].
+
 ## Asheville has already done this
 
 This isn't a warning about what the RTIC might someday touch. It's already wired:
