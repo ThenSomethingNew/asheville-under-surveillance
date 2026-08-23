@@ -12,4 +12,6 @@ Asheville's fight has been argued as if the choice were cameras or no cameras. T
 
 **[[Stories That Check Out]]** is the cross-cutting ledger: dated, sourced incidents organized by harm (federal reach, reproductive care, stalking, wrong-person stops, tracking people not plates, hiding the tool, leaks, and corporate conduct when a town says no).
 
-The contract mechanics are on [[What Axon Contracts Do]]; the sales script is on [[The Flockbook]]; the national cancellations are on [[The National Wave]]; what the data becomes is on [[What They Can Actually Learn About You]]. The people: [[Rick Smith]] (Axon) and [[Garrett Langley]] (Flock).
+**[[What Axon Contracts Do]]**: what the same paper did to Baltimore, Mesa, Fontana, and Evanston, plus the data program the contract enrolls the city in by default. **[[The Flockbook]]**: Flock's leaked script for selling councils on cameras, laid beside what Asheville officials actually said.
+
+The national cancellations are on [[The National Wave]]; what the data becomes is on [[What They Can Actually Learn About You]]. The people: [[Rick Smith]] (Axon) and [[Garrett Langley]] (Flock), on [[People/Companies/index|The Vendors' Executives]].
