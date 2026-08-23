@@ -79,6 +79,7 @@ One sourced fact per speaker, from this site, named out loud:
 - "The sheriff's audit log shows 58 percent of camera viewing was on public housing and 95 percent of it was live monitoring. That is what a center does when nobody is watching it." ([[Sheriffs Audit Log|The Sheriff's Audit Log]])
 - "A second Axon contract for 20 in-car readers went to signature in July. Council was never told." ([[The RTIC Policy]])
 - "Evanston terminated. Flock reinstalled the cameras. The last ones came down six months later, after a reporter asked." ([[The National Wave]])
+- "There is always a way out. Axon's own contract lets the city terminate immediately on notice if council doesn't fund it. The exit is the budget." ([[What Axon Contracts Do#The way out, in the contracts' own words|What Axon Contracts Do]])
 - "Flock's own safeguards arrived after the harm: mandatory two-factor login nine months after government passwords turned up in malware dumps." ([[Flock Safety]])
 
 ## Email council

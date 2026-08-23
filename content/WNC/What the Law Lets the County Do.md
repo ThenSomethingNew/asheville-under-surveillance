@@ -66,6 +66,9 @@ The 1,500 school cameras on the county network joined through a 2021 memorandum 
 
 ## Levers, plainly
 
+- **The annual budget is an exit clause.** [G.S. 153A-13](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_153A/GS_153A-13.html) and [G.S. 160A-17](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_160A/GS_160A-17.html) require a board to appropriate each year for multi-year contracts, and [G.S. 159-28](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_159/GS_159-28.html) bars any obligation without an appropriation. Every vendor contract with an NC local government therefore carries a non-appropriation clause; Axon's makes termination effective immediately upon notice, Flock's at fiscal-year end with thirty days' notice. Declining to fund the line is how Macon and Pittsboro left. The clauses, quoted: [[What Axon Contracts Do#The way out, in the contracts' own words|What Axon Contracts Do]]. Whether a board may decline to appropriate for a contract already signed, given the statutes' "shall appropriate," is on the list below.
+
+
 1. **Appropriate by line.** Ask commissioners to separate surveillance technology in the Sheriff's Office budget ordinance and to condition it on published audits. [G.S. 159-13](https://www.ncleg.net/EnactedLegislation/Statutes/HTML/BySection/Chapter_159/GS_159-13.html) lets them.
 2. **Ask who signs the forfeiture certification**, and request the certifications ([[Records Center|request 16]]). A county chair who certifies the money can decline to.
 3. **Demand the audit reports the statute requires** (20-183.31(a)(7)). If they do not exist, the sheriff's office is out of compliance with its own policy and state law; if they exist, they are public.
@@ -81,5 +84,6 @@ The 1,500 school cameras on the county network joined through a 2021 memorandum 
 - Whether an ALPR/camera data-sharing restriction in a city ordinance survives G.S. 160A-205.2.
 - FERPA's application to standing live camera access, and a school board's power to revise or end the 2021 MOU.
 - Whether camera location lists are "sensitive public security information."
+- Whether a governing board may decline to appropriate for a multi-year contract it has already entered, given that G.S. 153A-13 and 160A-17 say the board "shall appropriate" in each ensuing year, and how that squares with the non-appropriation clause in every vendor contract.
 
 *Related: [[Buncombe County]] · [[WNC and NC]] · [[Records Center]] · [[Promise Tracker]] · [[Who Gets Watched]]*

@@ -94,6 +94,19 @@ This site has more than a hundred pages. Start with what you need:
 </ol></div>
 </div>
 
+## The site, in eight sections
+
+Each section has its own front page with every page in it described, and every page shows its section at the top so you can step back up.
+
+- **[[The Record/index|The Record]]**: how it happened here, meeting by meeting, from the city's own video and documents.
+- **[[The System/index|The System]]**: what was approved and what it does: the center, what a scan becomes, who is watched first, the sheriff's own audit log, the money.
+- **[[WNC/index|Western North Carolina]]**: the ten communities around us and the state laws they all run under.
+- **[[Companies/index|The Vendors]]**: Axon and Flock, their contracts, their sales script, the way out.
+- **[[The Wider Fight/index|The Wider Fight]]**: what these systems have done elsewhere and how other places got out.
+- **[[People/index|People]]**: every official, candidate, and institution, by region, with the next date voters can act.
+- **[[Act/index|Act]]**: Tuesday's vote, three minutes at the podium, records requests, citable facts, the ballot.
+- **[[Reference/index|Reference]]**: the primary documents and the full bibliography.
+
 Or go straight to **[[Browse Everything]]**: every page, on one list.
 
 ## Use this site as your notebook

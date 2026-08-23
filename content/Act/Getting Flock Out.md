@@ -144,6 +144,10 @@ The May 12 vote proved showing up isn't sufficient on its own; the August 19 rev
 - **Take demands 5 through 8 to the [[The Committee|Public Safety Committee]], September 24 (11 AM, virtual):** ask for the wind-down status and the transparency portal's National Lookup state as a **written staff report**, the thing every APD interview has omitted.
 - **Put the two-parter to every November candidate** ([[Election 2026]]): *"Will you vote to (a) terminate the Flock contract, remove all city cameras, AND end APD's Flock search accounts with written deletion certification; and (b) require a separate council vote for any fixed Axon plate reader?"* The a/b split separates real exits from vendor swaps.
 
+## There is always a way out, and this is what it costs
+
+The contracts do not allow cancellation for any reason on 30 days' notice, whatever the saying is. What they allow is a budget exit. Axon's terms let the city terminate if funds are "not appropriated or otherwise legally available," and the Sourcewell contract makes that effective "immediately upon notice," with the hardware returned within thirty days to avoid paying the difference to list price. Flock's standard terms allow non-appropriation termination "at the end of the applicable fiscal year upon thirty (30) days' written notice." Every council budget vote is therefore a vote on these contracts, and the June budget is the cleanest exit there is. The clauses, quoted, and the statutes behind them: [[What Axon Contracts Do#The way out, in the contracts' own words|What Axon Contracts Do]].
+
 ## When Flock is out, the work is not done
 
 Say the vote passes, the poles come down, the accounts close, the certification arrives. What's left standing is most of what this site documents:

@@ -5,6 +5,13 @@ description: What changed on this site and when, newest first. Each release list
 
 This site is a working notebook, and it changes often. This page is the changelog: every release, the pages it touched, and the primary documents that drove it. Corrections are listed too. If you find an error, [[Get Involved|tell me]] with a link or a document and it will be fixed and logged here.
 
+## 2026-08-23, night: The way out, in the contracts' own words, and the sections on the home page
+
+The home page now lists the site's eight sections with one line each; every page's breadcrumb names its section and links back to that section's front page.
+
+
+A reader asked whether these contracts can be cancelled any time on 30 days' notice. Checked against the texts: neither vendor's baseline allows termination for convenience. Axon's Sourcewell contract and Master Services agreement allow exit for Axon's uncured breach (30 days) or for non-appropriation, the latter "immediately upon notice," with hardware returned within 30 days to avoid a list-price clawback. Flock's standard terms (updated Aug 21, 2026) allow non-appropriation termination "at the end of the applicable fiscal year upon thirty (30) days' written notice." North Carolina's continuing-contract statutes (G.S. 160A-17, 153A-13) and the preaudit rule (159-28) are why the clauses exist. The exit is the budget. New section on [[What Axon Contracts Do]], a short version on [[Getting Flock Out]], a lever on [[What the Law Lets the County Do]] (and one more item for its needs-a-lawyer list), and a line for Tuesday's speakers.
+
 ## 2026-08-23, evening: Tuesday's vote, as an action page
 
 **[[Tuesday August 25|Tuesday, August 25: Make the Vote Count]]** is the page for the Flock vote: three asks shaped to fit an amendment a council member can make from the dais (end Flock; make the Section 6 pause cover every plate-reader vendor, fixed or in-car; make the review real, with hearings and a community-chosen reviewer), the amendment text itself with a fallback, each member's position in their own words and the ask for them, the speaking logistics from the city's own rules (sign up at the door, ten minutes for a group of four, written comment by 9 a.m. Tuesday), an email template, the mailing address and voicemail line, and what to watch for after. The home page opens with it. Sourced to the chief's memo, APD's count of 162 in-car Axon readers (828NewsNow, Aug 20), the released July emails, and the August 20 briefing.
