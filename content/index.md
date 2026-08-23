@@ -9,6 +9,10 @@ A bit about me: I'm writing this as an Asheville resident. I watched the May 12 
 
 Everything on the site is sourced. Quotes link to timestamps in the city's own videos; documents link to the originals; you can check any claim yourself. I'm not neutral (my views are on the page), but the site is built to be useful whether you share them or not: as a history of how surveillance arrived in Asheville and the surrounding counties, a record of what's happening now, and a starting point if you want to get involved.
 
+<div class="avl-now">
+<p><strong>Tuesday, August 25, 5 PM: council votes on ending the Flock contract.</strong> The resolution covers the city's 11 Flock cameras. It leaves the 162 Axon plate readers in patrol cars, the chief's plan to expand them, and the unreleased contracts untouched. Three asks that fit in an amendment, the amendment text, who has to move it, and how to speak, email, mail, or call: <a href="./Act/Tuesday-August-25"><strong>Make the vote count</strong></a>. Written comments go in the record only if received by <strong>9 a.m. Tuesday</strong> at avl-city-council@publicinput.com.</p>
+</div>
+
 Here's the whole story in one look. Every entry links to a deeper page with sources.
 
 <div class="tl-legend"><span class="lg-expand">surveillance expands</span><span class="lg-resist">resistance &amp; wins</span><span class="lg-future">ahead, still undecided</span></div>
@@ -51,7 +55,7 @@ Here's the whole story in one look. Every entry links to a deeper page with sour
 <div class="avl-now">
 <p><strong>Happening now</strong> <em>(updated Aug 23, 2026)</em></p>
 <ul>
-<li><strong>Council votes Tuesday, Aug 25</strong> at 5 PM, City Hall, on the Flock termination resolution (New Business VI.A). The text is public: it meets one of the eight demands that make removal real, and the chief's memo attached to it plans a Flock "software license" and Axon readers by February 2027. <a href="./Act/Getting-Flock-Out">The scorecard</a> · <a href="./Act/Speak-at-Council">Speak at council</a></li>
+<li><strong>Council votes Tuesday, Aug 25</strong> at 5 PM, City Hall, on the Flock termination resolution (New Business VI.A). The text meets one of the eight demands that make removal real; the chief's memo attached to it plans a Flock "software license" and Axon readers by February 2027. <a href="./Act/Tuesday-August-25">The asks, the amendment, and how to be heard</a> · <a href="./Act/Getting-Flock-Out">The scorecard</a></li>
 <li><strong>Aug 22: every decider, by region.</strong> Profiles of the officials, candidates, and institutions around the cameras in Asheville, Buncombe, the nine counties around us, Raleigh, and Washington, each with the next date voters can act. And the two companies: <a href="./People/">People</a> · <a href="./Companies/">The Vendors</a> · <a href="./The-Wider-Fight/Stories-That-Check-Out">Stories That Check Out</a></li>
 <li><strong>Aug 22: the county side of the record.</strong> The sheriff's own RTIC, plate-reader and drone policies, the forfeiture money behind them, and a neighbor's sharing list of 2,048 agencies including the FBI. <a href="./WNC/Buncombe-County">Buncombe County</a> · <a href="./WNC/What-the-Law-Lets-the-County-Do">What the law lets the county do</a></li>
 <li><strong>Aug 20: the RTIC's rulebook surfaced</strong> via records requests: the draft policy, the private workgroup's notes, and the Axon contract emails, analyzed line by line. <a href="./The-Record/The-RTIC-Policy">The RTIC Policy</a></li>
@@ -82,7 +86,8 @@ This site has more than a hundred pages. Start with what you need:
 <li><a href="./Act/Election-2026">The November ballot</a></li>
 </ol></div>
 <div class="door"><span class="door-k">I want to act</span><p class="door-t">Do something</p><ol>
-<li><a href="./Act/Getting-Flock-Out">Help get Flock all the way out (vote Aug 25)</a></li>
+<li><a href="./Act/Tuesday-August-25">Tuesday's vote: the asks, the amendment, how to be heard</a></li>
+<li><a href="./Act/Getting-Flock-Out">Help get Flock all the way out</a></li>
 <li><a href="./Act/Speak-at-Council">Speak at council (3 minutes, here's how)</a></li>
 <li><a href="./Act/Records-Center">File a records request (17 pre-written)</a></li>
 <li><a href="./Act/Get-Involved">Join the people already organizing</a></li>

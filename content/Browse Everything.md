@@ -11,6 +11,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 - **[[What They Can Actually Learn About You]]**: What a plate scan becomes: your routes, your associations, your name.
 - **[[Who Gets Watched]]**: The lived stakes for immigrant families, people traveling here for reproductive care, and protesters.
 - **[[Timeline]]**: What happened, when, with receipts.
+- **[[Tuesday August 25|Tuesday, August 25: Make the Vote Count]]**: Council votes on Flock. The asks, the amendment text, and the 9 a.m. deadline for written comment.
 - **[[Speak at Council]]**: You get 3 minutes; here's how to use them. Next meetings: council **Tuesday, Aug 25** · Public Safety Committee **Thursday, Sept 24**.
 
 ## [[The Record/index|The Record]]: how it happened
@@ -41,7 +42,7 @@ This is the complete index. If you're new, the [[index|home page]] walks you in 
 
 ## [[Act/index|Act]]: what to do
 
-- **[[Getting Flock Out]]** (the Aug 25 resolution, scored) · **[[Speak at Council]]** · **[[Records Center]]** (17 pre-written requests) · **[[Claims Library]]** · **[[Election 2026]]** · **[[Get Involved]]**
+- **[[Tuesday August 25|Tuesday, August 25]]** (the asks, the amendment, how to be heard) · **[[Getting Flock Out]]** (the Aug 25 resolution, scored) · **[[Speak at Council]]** · **[[Records Center]]** (17 pre-written requests) · **[[Claims Library]]** · **[[Election 2026]]** · **[[Get Involved]]**
 
 ## [[Reference/index|Reference]]
 
