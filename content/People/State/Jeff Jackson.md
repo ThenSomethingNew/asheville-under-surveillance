@@ -1,6 +1,6 @@
 ---
-title: Jeff Jackson
-description: Attorney General; no public statement found on plate readers, Flock, data sharing, or the summer's misuse prosecutions, which the SBI brought. A correction: no "Jackson letter" was read at Asheville's vote.
+title: "Jeff Jackson"
+description: "Attorney General; no public statement found on plate readers, Flock, data sharing, or the summer's misuse prosecutions, which the SBI brought. A correction: no \"Jackson letter\" was read at Asheville's vote."
 ---
 
 **Title:** Attorney General of North Carolina · Democrat (former U.S. Representative, NC-14, and state senator)

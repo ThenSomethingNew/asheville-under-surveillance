@@ -1,6 +1,6 @@
 ---
-title: John Shearl
-description: Macon County commissioner who made the motion to end Flock, invoking the Fourth Amendment: "I don't want a hunch. I want the truth." On the November ballot.
+title: "John Shearl"
+description: "Macon County commissioner who made the motion to end Flock, invoking the Fourth Amendment: \"I don't want a hunch. I want the truth.\" On the November ballot."
 ---
 
 **Title:** Macon County Commissioner, District 1 · Republican

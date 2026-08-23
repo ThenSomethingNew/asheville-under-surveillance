@@ -1,6 +1,6 @@
 ---
-title: Downtown Institutions
-description: The Chamber, the Downtown Association, and the tourism authority: who asked businesses to register their cameras, and who has said nothing since.
+title: "Downtown Institutions"
+description: "The Chamber, the Downtown Association, and the tourism authority: who asked businesses to register their cameras, and who has said nothing since."
 aliases:
   - "People/Buncombe/Downtown Institutions"
 ---

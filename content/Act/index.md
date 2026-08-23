@@ -1,6 +1,6 @@
 ---
-title: Act
-description: What one person can do: the Flock exit scored against eight demands, three minutes at the podium, sixteen pre-written records requests, citable facts, the November ballot, and the people already organizing.
+title: "Act"
+description: "What one person can do: the Flock exit scored against eight demands, three minutes at the podium, sixteen pre-written records requests, citable facts, the November ballot, and the people already organizing."
 ---
 
 Everything on this site points here. Pick the thing that fits the time you have.

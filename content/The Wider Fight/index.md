@@ -1,6 +1,6 @@
 ---
-title: The Wider Fight
-description: What these systems have done elsewhere and what communities did about it: the dated incident ledger, how abuse actually gets discovered, the fifty-plus cancellations, and the mechanics of every rollback.
+title: "The Wider Fight"
+description: "What these systems have done elsewhere and what communities did about it: the dated incident ledger, how abuse actually gets discovered, the fifty-plus cancellations, and the mechanics of every rollback."
 ---
 
 Asheville is not the first. This section is the evidence from everywhere else: the harms that are already documented, the way they were found, and how other places got out.

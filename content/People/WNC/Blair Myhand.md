@@ -1,6 +1,6 @@
 ---
-title: Blair Myhand
-description: Hendersonville Police Chief: "ALPRs are the best law enforcement technology since the two-way radio." Sixteen cameras, 373,294 vehicles a month, and no published sharing list.
+title: "Blair Myhand"
+description: "Hendersonville Police Chief: \"ALPRs are the best law enforcement technology since the two-way radio.\" Sixteen cameras, 373,294 vehicles a month, and no published sharing list."
 ---
 
 **Title:** Chief of Police, City of Hendersonville

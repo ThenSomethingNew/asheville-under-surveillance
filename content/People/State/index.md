@@ -1,6 +1,6 @@
 ---
-title: Raleigh and Washington
-description: The state and federal officials who set the rules the local networks run under: the governor's vetoes and the budget he signed, an attorney general with no position, the SBI's highway cameras, the senators, and the congressman whose earmark built Asheville's RTIC.
+title: "Raleigh and Washington"
+description: "The state and federal officials who set the rules the local networks run under: the governor's vetoes and the budget he signed, an attorney general with no position, the SBI's highway cameras, the senators, and the congressman whose earmark built Asheville's RTIC."
 ---
 
 The laws themselves, with text, are on [[What the Law Lets the County Do]]. These are the people behind them.

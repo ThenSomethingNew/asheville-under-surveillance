@@ -1,6 +1,6 @@
 ---
-title: The System
-description: What Asheville actually approved and what it does: the intelligence center, the plate readers, what a scan becomes, who it watches first, who pays, and what a business signs up for by plugging in.
+title: "The System"
+description: "What Asheville actually approved and what it does: the intelligence center, the plate readers, what a scan becomes, who it watches first, who pays, and what a business signs up for by plugging in."
 ---
 
 This section explains the machine: what the RTIC is, what the cameras collect, what the data turns into, and who lives under it first.

@@ -1,6 +1,6 @@
 ---
-title: Michael Jennings
-description: Jackson County commissioner who asked the question the sheriff's presentation could not answer: "what it could be used for in the future."
+title: "Michael Jennings"
+description: "Jackson County commissioner who asked the question the sheriff's presentation could not answer: \"what it could be used for in the future.\""
 ---
 
 **Title:** Jackson County Commissioner, District 4 · Republican

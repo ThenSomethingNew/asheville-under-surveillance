@@ -1,6 +1,6 @@
 ---
-title: Bobby Coggins
-description: Macon Media: one person with a camera providing the only video record of Franklin's town board and gavel-to-gavel coverage of the county commission.
+title: "Bobby Coggins"
+description: "Macon Media: one person with a camera providing the only video record of Franklin's town board and gavel-to-gavel coverage of the county commission."
 ---
 
 **Who:** independent journalist, Franklin area
