@@ -7,7 +7,7 @@ Western North Carolina is not passively accepting this technology. One county ha
 
 ## Macon County took its cameras down
 
-On July 15, 2026, Macon County commissioners voted **5–0** to end their $47,000 Flock contract. Twelve cameras came down immediately. ([Smoky Mountain News](https://smokymountainnews.com/news/news-latest/de-flocking-macon-county-votes-to-let-alpr-contract-lapse/) · [WLOS](https://wlos.com/news/local/macon-county-north-carolina-wnc-flock-remove-license-plate-reader-cameras-unanimous-vote-privacy-concerns-public-safety-debate-ai-artificial-intelligence-surveillance))
+On July 14, 2026, Macon County commissioners voted **5–0** to end their $47,000 Flock contract. Twelve cameras came down immediately. ([Smoky Mountain News](https://smokymountainnews.com/news/news-latest/de-flocking-macon-county-votes-to-let-alpr-contract-lapse/) · [WLOS](https://wlos.com/news/local/macon-county-north-carolina-wnc-flock-remove-license-plate-reader-cameras-unanimous-vote-privacy-concerns-public-safety-debate-ai-artificial-intelligence-surveillance))
 
 The numbers that moved them: the sheriff's office was logging **1 to 3 million plates a month in a county of about 37,000 people**. On the record:
 

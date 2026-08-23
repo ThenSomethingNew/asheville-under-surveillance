@@ -24,7 +24,7 @@ Macon County is WNC's proof that removal is winnable.
 
 ## The vote: how it happened
 
-Motion by **John Shearl**, seconded by **Barry Breeden** (a former sheriff's deputy who came in "50-50"), with Chair **Josh Young**, who had leaned toward his sheriff until he polled constituents and found them "nearly unanimously against." Shearl's verdict on the Flock rep sent to defend the product: "like a car salesman."
+Motion by **John Shearl**, seconded by **Barry Breeden** (a former sheriff's deputy who came in "50-50"), with Chair **Josh Young**, who had leaned toward his sheriff until he asked around town and found the residents who knew about the cameras "almost entirely against them" (the Smoky Mountain News's paraphrase). Shearl, to the Flock rep sent to defend the product: "I don't mean any disrespect, but you are like a car salesman" ([NC Local, July 30, 2026](https://nclocal.org/2026/07/30/balancing-public-safety-and-privacy-wnc-wrestles-with-surveillance-issues/)).
 
 The numbers that did it: **16 cameras (12 county, 4 schools), a $31,950 contract grown to ~$47,000/year, logging 1–3 million plates a month in a county of 37,000.**
 

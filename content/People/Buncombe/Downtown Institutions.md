@@ -7,7 +7,7 @@ The camera network was sold to commissioners as a business partnership ([[Buncom
 
 ## Kit Cramer, Asheville Area Chamber of Commerce
 
-President and CEO. The Chamber's "Public Safety for All" campaign (February 15, 2023) told member businesses to "register private cameras with Buncombe County's system," the registry that feeds Fusus, alongside a break-in prevention session with APD and a budget survey ([Chamber](https://www.ashevillechamber.org/news-events/public-safety-for-all/)). The page carries no individual byline. No Chamber or Cramer statement on the RTIC, oversight, retention, or federal access has been found since; the Chamber's 2026 news feed contains none. **The question:** does the Chamber still encourage camera registration now that the registry feeds a federally funded intelligence center, and has it asked what the network shares?
+President and CEO. The Chamber's "Public Safety for All" campaign (February 15, 2023) told member businesses to "plug into Buncombe County's Community Camera Registry Program," the registry that feeds Fusus, alongside a break-in prevention session with APD and a budget survey ([Chamber](https://www.ashevillechamber.org/news-events/public-safety-for-all/)). The page carries no individual byline. No Chamber or Cramer statement on the RTIC, oversight, retention, or federal access has been found since; the Chamber's 2026 news feed contains none. **The question:** does the Chamber still encourage camera registration now that the registry feeds a federally funded intelligence center, and has it asked what the network shares?
 
 ## Hayden Plemmons, Asheville Downtown Association and the BID
 

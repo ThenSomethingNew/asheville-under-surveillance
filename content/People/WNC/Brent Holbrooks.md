@@ -1,6 +1,6 @@
 ---
 title: Brent Holbrooks
-description: Macon County Sheriff; called Flock a "life-saving tool," lost the argument 5 to 0, and said "I respect the decision." Re-elected in the March primary with no November opponent.
+description: Macon County Sheriff; argued for Flock as a life-saving tool," lost the argument 5 to 0, and said "I respect the decision." Re-elected in the March primary with no November opponent.
 ---
 
 **Title:** Macon County Sheriff · Republican
@@ -10,7 +10,7 @@ description: Macon County Sheriff; called Flock a "life-saving tool," lost the a
 
 ## Surveillance record
 
-Holbrooks ran the 16-camera Flock network (12 county, 4 schools, about $47,000 a year) that commissioners defunded 5 to 0 on July 14, 2026 ([[Macon County]]). Before the vote he told the board Flock is a "life-saving tool" and that far more invasive technologies were already in use, invoking the Patriot Act; after it: "While the commissioners' decision is certainly disappointing, I respect the decision that was made," and "Regardless of how this turns out, guys, there's no ill will." ([Smoky Mountain News](https://smokymountainnews.com/news/news-latest/de-flocking-macon-county-votes-to-let-alpr-contract-lapse/) · [WLOS](https://wlos.com/news/local/macon-county-north-carolina-wnc-flock-remove-license-plate-reader-cameras-unanimous-vote-privacy-concerns-public-safety-debate-ai-artificial-intelligence-surveillance) · [Fox Carolina, July 6, 2026](https://www.foxcarolina.com/2026/07/06/macon-county-sheriffs-office-addresses-public-debate-over-flock-cameras/)) No statement about redeploying cameras or challenging the vote has been found. His office still appears on [[Henderson County]]'s list of agencies with access to Henderson's reads.
+Holbrooks ran the 16-camera Flock network (12 county, 4 schools, about $47,000 a year) that commissioners defunded 5 to 0 on July 14, 2026 ([[Macon County]]). Before the vote he argued to the board for what the Smoky Mountain News described as "what he believes is a life-saving tool" and that far more invasive technologies were already in use, invoking the Patriot Act; after it: "While the commissioners' decision is certainly disappointing, I respect the decision that was made," and "Regardless of how this turns out, guys, there's no ill will." (the two quotes: [The Franklin Press, July 2026](https://thefranklinpress.com/news/312990/county-votes-to-stop-flock-camera-use/), subscriber access; the meeting: [Smoky Mountain News](https://smokymountainnews.com/news/news-latest/de-flocking-macon-county-votes-to-let-alpr-contract-lapse/) · [WLOS](https://wlos.com/news/local/macon-county-north-carolina-wnc-flock-remove-license-plate-reader-cameras-unanimous-vote-privacy-concerns-public-safety-debate-ai-artificial-intelligence-surveillance) · [Fox Carolina, July 6, 2026](https://www.foxcarolina.com/2026/07/06/macon-county-sheriffs-office-addresses-public-debate-over-flock-cameras/)) No statement about redeploying cameras or challenging the vote has been found. His office still appears on [[Henderson County]]'s list of agencies with access to Henderson's reads.
 
 He is the regional proof that a sheriff can lose this fight and keep his job and his composure: the commission controlled the money, used it, and the sheriff complied ([[What the Law Lets the County Do]]).
 
