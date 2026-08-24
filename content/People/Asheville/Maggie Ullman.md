@@ -1,6 +1,6 @@
 ---
 title: Maggie Ullman
-description: Council member since 2022; seconded the RTIC motions, then said nothing for fifteen months. Broke her silence Aug 20, 2026, backing Flock removal while drawing a line at Axon. On the November ballot.
+description: Council member since 2022; seconded the RTIC motions, then said nothing in public until Aug 20, 2026, when she backed Flock removal while drawing a line at Axon. On the November ballot.
 aliases:
   - "People/Maggie Ullman"
 ---
@@ -16,7 +16,7 @@ Voted yes on both [[What Is the RTIC|RTIC]] items on May 12, 2026, and seconded 
 
 ## In her words
 
-For fifteen months after her May 12 vote, nothing: no statement at council, on the campaign trail, or in the DSA, BPR, or Chamber questionnaires (checked through Aug 17, 2026). Her first public comments came at the [[2026-08-20 Agenda Briefing|August 20, 2026 agenda briefing]] on the Flock termination resolution (attribution confirmed by watching the video; captions don't label speakers):
+For the three months after her May 12 vote, through the loudest stretch of the controversy, nothing: no statement at council, on the campaign trail, or in the DSA, BPR, or Chamber questionnaires (checked through Aug 17, 2026). Her first public comments came at the [[2026-08-20 Agenda Briefing|August 20, 2026 agenda briefing]] on the Flock termination resolution (attribution confirmed by watching the video; captions don't label speakers):
 
 - **She supports pulling the cameras now**, past the old wind-down plan: "I was under the impression that 10 were coming down already and one would stay until February. **I'm happy to move forward on just pulling them now**, so long as we're not increasing safety risks." She also noted the neighborhood cameras residents asked to keep are county-owned and unaffected by the city's vote, and that Flock cameras had produced leads in a recent case.
 - **And she drew a line at Axon**: residents are saying "get rid of all surveillance... specifically, get rid of Axon," but "the call for 'get rid of Axon'... starts to hit a wall where **I can't fathom pulling back on our transparency tools**." Her question to [[Jackie Stepp|Chief Stepp]] established the stakes of that line: everything APD runs besides Flock, body cameras and in-car cameras included, **is Axon**.
