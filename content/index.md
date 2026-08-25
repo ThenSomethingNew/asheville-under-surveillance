@@ -1,7 +1,11 @@
 ---
 title: Asheville Under Surveillance
-description: "How mass surveillance came to Asheville: the timeline, the people deciding what happens next, and how residents can step in. Built by a neighbor, sourced to the city's own record."
+description: "This site has moved to wncwatch.org, where the record continues as WNC Surveillance Watch. This copy stays up as an archive."
 ---
+
+<div class="avl-now">
+<p><strong>This site has a new home: <a href="https://wncwatch.org">wncwatch.org</a>.</strong> The work outgrew one city, and it continues as <strong>WNC Surveillance Watch</strong>: every page here has a current version there, and all new work lands there. This copy stays up as an archive but is no longer updated. Point your bookmarks, and your neighbors, at <a href="https://wncwatch.org"><strong>wncwatch.org</strong></a>.</p>
+</div>
 
 On May 12, 2026, Asheville City Council voted 6–1 to accept $1.14 million in federal funding and authorize a 7.5-year <a href="./Companies/What-Axon-Contracts-Do">contract with Axon</a> for a <a href="./The-System/What-Is-the-RTIC">Real-Time Intelligence Center</a>: a police hub connecting license plate readers, body cameras, drones, and private security cameras across the city, built on a county network that had been watching public housing and schools for four years before anyone was asked. This site documents how that decision was made, what the county was already doing, what the companies sell, and what happens next.
 
@@ -16,8 +20,8 @@ Everything here is sourced. Quotes link to timestamps in the city's own videos; 
 ## Share it
 
 <div class="avl-share">
-<img src="./assets/qr-site.png" alt="QR code linking to this site" width="180" height="180" />
-<div class="share-text"><strong>Asheville Under Surveillance</strong><br/><span class="share-url">thensomethingnew.github.io/asheville-under-surveillance</span><br/>Pass it on: screenshot this card, or point a phone camera at the code. The sourced record of how surveillance came to Asheville, and what happens next.</div>
+<img src="./assets/qr-site.png" alt="QR code linking to wncwatch.org" width="180" height="180" />
+<div class="share-text"><strong>WNC Surveillance Watch</strong><br/><span class="share-url">wncwatch.org</span><br/>Pass it on: screenshot this card, or point a phone camera at the code. The sourced record of how surveillance came to Asheville and WNC, and what happens next.</div>
 </div>
 
 ## The whole story in one look

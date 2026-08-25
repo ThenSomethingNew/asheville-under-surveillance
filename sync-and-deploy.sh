@@ -1,16 +1,6 @@
 #!/bin/bash
-# Sync vault content -> Quartz content dir, commit, push (GitHub Actions builds & deploys Pages)
-set -euo pipefail
-REPO="$(cd "$(dirname "$0")" && pwd)"
-VAULT="$HOME/Documents/Obsidian Vault/AVL Surveillance Watch"
-
-rsync -av --delete --exclude '.obsidian' --delete-excluded --exclude 'private' "$VAULT/" "$REPO/content/"
-cd "$REPO"
-git add -A
-if git diff --cached --quiet; then
-  echo "No changes to deploy."
-  exit 0
-fi
-git commit -m "Content update $(date +%Y-%m-%d)"
-git push origin main
-echo "Pushed. Build: https://github.com/ThenSomethingNew/asheville-under-surveillance/actions"
+# RETIRED 2026-08-25. This site is a frozen archive; the vault now feeds wncwatch.org
+# (repo WNC-Watch/wncwatch.org, working dir ~/Documents/wnc-watch/site). Syncing the
+# vault into this repo would overwrite the archive with the new site's content.
+echo "RETIRED: this archive no longer syncs from the vault. The live site is https://wncwatch.org" >&2
+exit 1
